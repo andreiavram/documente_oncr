@@ -234,11 +234,11 @@ Art. 39. Hotărârile Adunării Generale, contrare legii, actului constitutiv sa
 Secțiunea B. Consiliul Director
 ==================
 
-Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia.
+Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia. Consiliul Director emite Decizii și aprobă Procedurile de Lucru pentru toate structurile ONCR.
 
 Art. 41.
-	(1) Consiliul Director este format din 11 membri ai ONCR (președintele și 10 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
-	(2) Președintele este ales nominal de către Adunarea Generală,iar ceilalti 10 sunt aleși cu titlul de membri.
+	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
+	(2) Președintele este ales nominal de către Adunarea Generală, iar ceilalti 6 sunt aleși cu titlul de membri.
 	(3) Președintele numește vicepreședintele dintre membrii Consiliului Director.
 	(4) Trezorierul ONCR este un membru ex oficio, numit de Consiliul Director.
 
@@ -256,16 +256,21 @@ Art. 43.
 Art. 44.
 	(1) Consiliul Director se intrunește în ședintă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
 	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de termen.
-	(3) Prezența a ¾ din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
-	(4) Deciziile Consiliului Director se iau cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot.
+	(3) Prezența a 3/4 din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
 	(5) Absența președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor art.43.
-	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
-	(7) La ședintele Consiliului Director participă obligatoriu și fără drept de vot Directorul executiv și trezorierul.
+	(6) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.	
+	(7) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a juristului organizației, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
+	(8) La ședintele Consiliului Director participă obligatoriu și fără drept de vot Directorul executiv și trezorierul.
+	(9) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
+	(10) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
+	(11) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
+	(12) Toate deciziile care sunt încă deschise votului până la data unei întâlniri de CD vor fi trecute pe ordinea de zi a acelei întâlniri.
 
 Art. 45. 
-	(1) In perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
-	(2) In situația în care nici unul dintre aceștia nu va accepta funcția, CD va funcționa cu numărul de membri rămași până la prima Adunare Generală când vor fi organizate alegeri pentru completarea CD. In situația înlocuirii a mai mult de 3 membri ai CD, acesta va convoca Adunarea Generală extraordinară pentru alegerea unui nou CD.
-	(3) In cazul vacanței funcției de președinte, interimatul acestei responsabiliăți este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din urnătoarea Adunare Generală.
+	(1) In perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri dar care au îndeplinit 50%+1 voturi, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
+	(2) In situația în care nici unul dintre aceștia nu va accepta funcția, CD va funcționa cu numărul de membri rămași până la prima Adunare Generală când vor fi organizate alegeri pentru completarea CD. In situația înlocuirii a mai mult de 3 membri ai CD, sau în situația în care rămân mai puțin de 4 membri în CD, acesta va convoca Adunarea Generală extraordinară pentru alegerea unui nou CD.
+	(3) Nu se consideră un mandat în sensul art. 29 mandatele asumate în condițiile Art. 45. punctele (1) și (2)
+	(4) In cazul vacanței funcției de președinte, interimatul acestei responsabiliăți este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din urnătoarea Adunare Generală.
 
 Art. 46. 
 	(1) Sedintele Consiliului Director sunt conduse de președinte iar în lipsa acestuia de vicepreședinte.
@@ -634,7 +639,7 @@ Art. 106. Folosirea veniturilor asociației se realizează potrivit nomenclatoru
 
 Art. 107. 
 	(1) Materialele care sunt deteriorate din neglijență sau proastă folosință precum și cele lipsă sunt imputabile celui în grija căruia au fost încredințate.
-	(2) Materialele care au peste 3 ani de utilizare și prezintă un grad înalt de uzură ce le fac inutilizabile sau nesigure în exploatare, se casează de către o comisie a Centrului local (sau a Consiliului Director ) numită în acest scop, și se scot din inventar.
+	(2) Materialele care au peste 3 ani de utilizare și prezintă un grad înalt de uzură ce le fac inutilizabile sau nesigure în exploatare, se casează de către o comisie a Centrului local (sau a Consiliului Director) numită în acest scop, și se scot din inventar.
 
 Art. 108.
 	(1) Fiecare Centru local poate să aibă ștampila sa proprie care să conțină sigla ONCR și denumirea Centrului local.

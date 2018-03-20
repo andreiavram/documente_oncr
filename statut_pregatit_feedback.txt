@@ -168,11 +168,10 @@ Art. 27. Funcţionare
 	(2) Membri vor fi numiți de către Consiliul Director Coordonatori Naţionali pentru fiecare dintre prioritățile strategice ale ONCR şi pentru fiecare din zonele desemnate de Consiliul Director.
 	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nici o prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
-	(5) Juristul sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
 	(6) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(7) Prezenţa a 3/4 din totalul membrilor constituie cvorumul necesar desfăşurării ședinței.
-	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
-	(9) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos.
+	(7) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui raspuns cu privire la decizii online, poate atrage de la sine demiterea unui membru din Consiliul Director, în conditiile prezentare în Regulament.	
+	(8) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
+	(9) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
 
 Art. 28. Vacanțe de mandat
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
