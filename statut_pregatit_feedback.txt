@@ -135,7 +135,7 @@ Art. 24. Votarea
 	
 Art. 25. Atribuţii
 	(1) Adunarea Generală are următoarele atribuţii anuale:
-		a. dezbate raportul de activitate al Consiliului Director, al Comitetului Executiv, al Comisiei Naţionale de Cenzori;
+		a. dezbate raportul de activitate al Consiliului Director, al Echipei Executive, al Comisiei Naţionale de Cenzori;
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
 		d. hotărăște înființarea şi desființarea Centrelor Locale;
@@ -184,8 +184,8 @@ Art. 29. Atribuţii:
 	c. decide asupra obiectivelor și bugetului proiectelor naționale;
 	d. elaborează planul de acțiune trienal, în colaborare cu Directorul Executiv;
 	e. decide bugetul de funcționare a structurilor naționale în limitele bugetului ONCR;
-	f. aprobă raportul de activitate trienal pe baza propunerii făcute de Comitetul Executiv;
-	g. aprobă structura pe responsabilități a Comitetului Executiv, angajările executivilor, fișele de post și fondul de salarii;
+	f. aprobă raportul de activitate trienal pe baza propunerii făcute de Echipei Executive;
+	g. aprobă structura pe responsabilități a Echipei Executive, angajările executivilor, fișele de post și fondul de salarii;
 	h. decide conţinutul contractului de management al Directorului Executiv şi controlează activitatea acestuia;
 	i. numește dintre membrii săi Coordonatori Naţionali pentru fiecare prioritate strategică;
 	j. decide componenţa echipelor naţionale pe baza propunerilor Coordonatorilor Naţionali;
@@ -223,26 +223,26 @@ A2.1 - Directorul Executiv
 Art. 31. Angajarea în funcție. Directorul Executiv este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
 
 Art. 32. Atribuţii:
-	a. elaborează, împreună cu Președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Comitetului Executiv și supune propunerea Adunării Generale spre aprobare;
-	b. propune structura pe responsabilități a Comitetului Executiv și componența acestuia;
-	c. angajează executivi pentru realizarea sarcinilor Comitetului Executiv, semnează contractele de muncă ale acestora;
-	d. stabilește fișele de post ale executivilor din cadrul Comitetului Executiv;
-	e. gestionează activitatea Comitetului Executiv și răspunde pentru aceasta;
+	a. elaborează, împreună cu Președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Echipei Executive și supune propunerea Adunării Generale spre aprobare;
+	b. propune structura pe responsabilități a Echipei Executive și componența acestuia;
+	c. angajează executivi pentru realizarea sarcinilor Echipei Executive, semnează contractele de muncă ale acestora;
+	d. stabilește fișele de post ale executivilor din cadrul Echipei Executive;
+	e. gestionează activitatea Echipei Executive și răspunde pentru aceasta;
 	f. angajează contabilul autorizat al organizației și se asigură de respectarea deciziilor Adunării Generale și ale Consiliului Director, precum și a legilor statului asupra exercițiului financiar și patrimonial al ONCR;
 	g. este ordonator de credite (are dreptul de semnătură autorizată pe conturile ONCR la nivel național). Ceilalţi ordonatori de credite sunt prezentaţi la secţiunea Venituri;
-	h. convoacă și coordonează ședințele Comitetului Executiv;
+	h. convoacă și coordonează ședințele Echipei Executive;
 	i. decide distribuirea eficientă a fondurilor în funcție de necesitate, în cadrul limitelor bugetare stabilite de Consiliul Director și Președinte;
 	j. reprezintă ONCR în fața statului, partenerilor și organelor fiscale pe baza mandatului dat de către Consiliul Director și atribuțiilor stabilite prin prezentul Statut;
 	k. reprezintă ONCR în fața Centrelor Locale, liderilor naționali și locali pe baza mandatului Consiliului Director, al Președintelui și al Coordonatorilor Naționali.
 
-A2.2 - Comitetul Executiv
+A2.2 - Echipa Executivă
 ==========================
 
 Art. 33. Componenţă
-	(1) Comitetul Executiv este structura responsabilă cu implementarea tuturor rezoluţiilor Adunării Generale şi a deciziilor Consiliului Director.
-	(2) Comitetul Executiv este desemnat de către Directorul Executiv şi aprobat de Consiliul Director.
-	(3) Comitetul Executiv este format din executivi pentru diferite zone de responsabilitate, în funcţie de priorităţile strategice adoptate de Adunarea Generală.
-	(4) Membrii Comitetului Executiv îşi pot pierde această calitate prin decizia Directorului Executiv cu aprobarea Consiliului Director.
+	(1) Echipa Executivă este structura responsabilă cu implementarea tuturor rezoluţiilor Adunării Generale şi a deciziilor Consiliului Director.
+	(2) Echipa Executivă este desemnat de către Directorul Executiv şi aprobat de Consiliul Director.
+	(3) Echipa Executivă este format din executivi pentru diferite zone de responsabilitate, în funcţie de priorităţile strategice adoptate de Adunarea Generală.
+	(4) Membrii Echipei Executive îşi pot pierde această calitate prin decizia Directorului Executiv cu aprobarea Consiliului Director.
 	
 Art. 34. Atribuţii:
 	a. asigură buna funcţionare a activităţii ONCR pe parcursul unui mandat;
