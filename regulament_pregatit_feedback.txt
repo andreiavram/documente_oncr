@@ -232,7 +232,7 @@ Art. 38. Hotărârile luate de Adunarea Generală, în limitele legii și statut
 Art. 39. Hotărârile Adunării Generale, contrare legii, actului constitutiv sau statutului, pot fi atacate în justiție de oricare dintre asociații care nu au luat parte la Adunarea Generală sau care au votat împotrivă și au cerut să se însereze aceasta în procesul verbal de ședință, în termen de 15 zile de la data când au luat cunoștință despre hotărâre sau de la data când a avut loc ședința, după caz.
 
 Secțiunea B. Consiliul Director
-==================
+===============================
 
 Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia.
 
@@ -298,6 +298,7 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	v. propune candidați pentru organismele OMMS sau cele europene și regionale.
 	w. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
 	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
 
 Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Responsabililor Naționali sunt prezentate în Regulament.
 		
@@ -512,7 +513,7 @@ Art. 84.
 
 Art. 85. 
 	(1) Centrele Locale pot obține personalitate juridică (devenind filiale), dacă îndeplinesc următoarele condiții:
-		a. centrul local are decizie de înființare de cel puțin un an
+		a. Centrul Local are decizie de înființare de cel puțin un an; se acceptă diferențe de nu mai mult de o lună în cazul în care, din cauza planificării Adunărilor Generale ordinare în diferiți ani, perioada dintre Adunările Generale ordinare nu permite împlinirea unui an întreg.
 		b. are un număr de cel puțin 10 lideri și 50 de cercetași
 		c. are un sediu stabil
 		d. dovedește capacitate de gestiune financiară
