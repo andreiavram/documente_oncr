@@ -140,7 +140,7 @@ Art. 18.
 	(2) Adunarea Generală se întrunește cel putin o dată pe an și are drept de control permanent asupra organelor prevăzute la art.17 lit. b si c.
 	(3) La Adunarea Generala participă, cu drept de vot, câte un delegat al fiecărui Centru local legal inființat, participarea fiind obligatorie.
 	(4) Delegații Centrelor Locale sancționate cu suspendare și aflate in interiorul termenului de suspendare, pot participa fără drept de vot.
-	(5) Delegații Centrelor Locale care funcționează pe bază de autorizație provizorie pot participa la Adunarea Generală fără drept de vot.
+	(5) Delegații Grupurilor Candidat pot participa la Adunarea Generală fără drept de vot.
 	(6) Comitetul executiv transmite tuturor Centrelor locale, cu o lună înainte de data desfășurării Adunării Generale, situația Centrelor locale cu și fără drept de reprezentare.
 	(7) Centrele locale au obligația de a transmite Comitetului executiv, cu cel puțin o săptămână înaintea datei Adunării Generale, numele și funcția delegatului lor.
 
@@ -495,9 +495,10 @@ Art. 82. Dacă într-o localitate nu sunt întrunite condițiile de înființare
         	
 Art. 83. Procedura de înființare a unui Centru local este următoarea:
 	(1) existența unui grup de inițiativă format din cel puțin 5 adulți și 20 de copii/tineri, care se întrunesc și își exprimă dorința de a deveni cercetași, care se materializează prin întocmirea unui proces-verbal înaintat Consiliului Director.
-	(2) Procesul-Verbal conține adresa sediului și componența Consiliului de conducere, plus documente anexe (lista de membri, datele personale ale membrilor din conducere, dovada de spațiu).
-	(3) pe baza procesului-verbal și documentelor anexe, Consiliul Director emite o autorizație provizorie de funcționare, valabilă până la prima Adunare Generală, dar nu mai puțin de șase luni.
-	(4) pentru această perioadă, Centrul local are următoarele obligații:
+	(2) pentru a le clarifica relația cu ONCR, aceste grupuri se numesc Grupuri Candidat
+	(3) Procesul-Verbal conține adresa sediului și componența Consiliului de conducere, plus documente anexe (lista de membri, datele personale ale membrilor din conducere, dovada de spațiu).
+	(4) pe baza procesului-verbal și documentelor anexe, Consiliul Director emite o autorizație provizorie de funcționare, valabilă până la prima Adunare Generală, dar nu mai puțin de șase luni.
+	(5) pentru această perioadă, Centrul local are următoarele obligații:
 		a. să organizeze activități conforme cu metoda și principiile cercetășești
 		b. să trimită Consiliului Director evaluări asupra activităților desfășurate
 		c. să plătească cotizația
@@ -525,9 +526,9 @@ Art. 87. Personalitatea juridică permite Centrului local administrarea de centr
 Art. 88. Centrele Locale cu personalitate juridică au obligația depunerii situației financiare anuale și a altor documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și realizarea unui raport financiar anual (pe baza acestor documente) care este trimis Consiliului Director.
 
 Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
-	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor locale suspendate sau care funcționează pe bază de autorizație provizorie nu au drept de vot.
+	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor locale suspendate și ai Grupurilor Candidat nu au drept de vot.
 	b. dreptul de a participa la activități internaționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare.
-	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Centrele locale care funcționează pe bază de autorizație provizorie, numai sub îndrumarea unui centru local legal înființat.
+	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Candidat, numai sub îndrumarea unui Centru Local legal înființat.
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor locale legal înființate și care întrunesc condițiile de la art. 27.
 	e. dreptul de a deschide cont bancar propriu: Centrele locale cu personalitate juridică (filialele); Centrele locale fără personalitate juridică ( sucursalele ) pot solicita girul unei filiale sau al ONCR.
 	f. obligația de a depune situația financiară anuală: toate Centrele locale, filialele conform art. 88, iar sucursalele la trezorierul ONCR.
