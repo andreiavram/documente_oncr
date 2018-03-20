@@ -244,13 +244,13 @@ Art. 41.
 
 Art. 42. 
 	(1) Consiliul Director stabilește atribuțiile membrilor acestuia pe baza priorităților (obiectivelor strategice) ale ONCR, adoptate de Adunarea Generală, componența pe responsabilități a Consiliului Director fiind anunțată de președinte în cadrul Adunării Generale
-	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Responsabili Naționali pentru fiecare obiectiv.
+	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Coordonatori Naționali pentru fiecare obiectiv.
 	(3) Comisarul internațional are atribuții legate de activitățile cercetășești cu caracter internațional și nu are responsabilitatea nici unui obiectiv strategic.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Atribuțiile președintelui, vicepreședintelui și trezorierului sunt prezentate in extenso, în fișele posturilor respective, din prezentul Regulament.
 
 Art. 43. 
-	(1) Secretarul Consiliului Director este unul din membrii consiliului, desemnat prin aceeași procedură ca și Responsabilii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
+	(1) Secretarul Consiliului Director este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
 	(2) Secretarul Consiliului Director semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
 
 Art. 44.
@@ -271,7 +271,7 @@ Art. 46.
 	(1) Sedintele Consiliului Director sunt conduse de președinte iar în lipsa acestuia de vicepreședinte.
 	(2) La fiecare ședintă se întocmește un proces verbal, pe care-l semnează toți membrii Consiliului Director prezenți. Procesul verbal va fi redactat de către secretarul Comitetului executiv. In cel mult 7 zile de la data ședinței, secretarul Comitetului executiv va elabora pe baza procesului verbal un document rezumativ cu problemele discutate și deciziile adoptate, care va fi avizat de către un membru al Consiliului Director, (numit prin decizie a Consiliului) și adus la cunoștința Centrelor locale prin secretariatul Comitetului executiv.
 
-Art. 47. Activitatea fiecărui Responsabil Național este susținută de membrii Comitetului executiv. La nivelul fiecărui departament se organizează câte o echipă națională, formată din lideri ONCR. Echipa va fi coordonată de Responsabilul Național și va funcționa după reguli stabilite de acesta, în acord cu responsabilul executiv aferent.
+Art. 47. Activitatea fiecărui Coordonator Național este susținută de membrii Comitetului executiv. La nivelul fiecărui departament se organizează câte o echipă națională, formată din lideri ONCR. Echipa va fi coordonată de Coordonatorul Național și va funcționa după reguli stabilite de acesta, în acord cu responsabilul executiv aferent.
 
 Art. 48. Consiliul Director are următoarele atribuții:
 	a. convoacă Adunarea Generală.
@@ -283,7 +283,7 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	g. aprobă structura pe responsabilități a Comitetului executiv, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Responsabilii Naționali pentru fiecare obiectiv strategic.
-	j. decide componența echipelor naționale pe baza propunerilor Responsabililor Naționali.
+	j. decide componența echipelor naționale pe baza propunerilor Coordonatorilor Naționali.
 	k. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
 	l. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale centrelor locale respective.
 	m. propune rezoluții Adunării Generale
@@ -299,7 +299,7 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	w. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
 	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 
-Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Responsabililor Naționali sunt prezentate în Regulament.
+Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
 Art. 50. Deciziile Consiliului Director, contrare legii, actului constitutiv sau Statutului ONCR pot fi atacate în justiție, în condițiile prevăzute la art. 39.
 
@@ -331,8 +331,8 @@ Art. 57.
 Art. 58. Atribuțiile Comitetului executiv sunt următoarele:
 	a. asigură buna funcționare a activității ONCR pe parcursul unui mandat
 	b. ține evidența centralizată a centrelor locale, atât a membrilor cât și a cotizațiilor.
-	c. sprijină activitatea Responsabililor Naționali, delegând câte un membru al comitetului pentru fiecare prioritate strategică.
-	d. elaborează propunerea de buget anual al ONCR pe baza bugetelor stabilite de către Responsabilii Naționali.
+	c. sprijină activitatea Coordonatorilor Naționali, delegând câte un membru al comitetului pentru fiecare prioritate strategică.
+	d. elaborează propunerea de buget anual al ONCR pe baza bugetelor stabilite de către Coordonatorii Naționali.
 	e. pregătește din punct de vedere administrativ ședintele Consiliului Director și întâlnirile echipelor naționale
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
 	g. asigură comunicarea eficientă , la nivel național, prin intermediul secretariatului.
@@ -347,7 +347,7 @@ Art. 58. Atribuțiile Comitetului executiv sunt următoarele:
 	p. asigură legătura funcțională dintre Consiliul Director și centrele locale.
 	q. sprijină și încurajează participarea centrelor locale la viața asociativă prin proiecte, evenimente, seminarii, etc.
 	r. pregătește Adunarea Generală, pe baza deciziilor și sub îndrumarea Consiliului Director.
-	s. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Responsabililor Naționali.
+	s. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Coordonatorilor Naționali.
 	t. primește rapoartele de activitate anuale, rapoartele financiare și patrimoniale ale centrelor locale și le arhivează.
 		
 Art. 59. Comitetul executiv este subordonat ierarhic Consiliului Director și nemijlocit președintelui ONCR.
@@ -361,7 +361,7 @@ I. Funcții decizionale
 	a. președintele ONCR
 	b. vicepreședintele ONCR
 	c .comisarul internațional
-	d. responsabilii naționali
+	d. coordonatorii naționali
 
 II. Funcții executive
 =====================
@@ -395,7 +395,7 @@ Art. 63. Atribuțiile vicepreședintelui ONCR sunt următoarele:
 c. Comisarul internațional
 ==========================
 
-Art. 64. Comisarul internațional (responsabilul internațional) este membru al Consiliului Director și are următoarele atribuții:
+Art. 64. Comisarul internațional este membru al Consiliului Director și are următoarele atribuții:
 
 	a. informează Consiliul Director și, după caz, sefii Centrelor locale asupra activităților cercetășești organizate de Biroul European sau Biroul Mondial al Mișcării Scout, prezentând materiale elaborate de aceste două instanțe și evenimentele scout internaționale
 	b. informează Biroul European, la cererea acestuia, asupra activități ONCR, prin rapoarte și alte materiale informative
@@ -406,14 +406,14 @@ Art. 64. Comisarul internațional (responsabilul internațional) este membru al 
 	g. propune spre aprobare Consiliului Director componența nominală a grupurilor de cercetași care participă la activități internaționale în exteriorul țării și confirmă calitatea acestora de membri ai ONCR și îndeplinirea condițiilor de participare
 	h. propune spre aprobare Consiliului Director componența nominală a delegaților români care reprezintă ONCR la diferite activități cercetășești externe.
 
-d. Responsabilii Naționali
+d. Coordonatori Naționali
 ==========================
 
-Art. 65. Responsabilii Naționali sunt membri al Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală, care decid, sub aspect tehnic și financiar, modul de aducere la îndeplinire a acestor obiective. In activitatea lor sunt sprijiniți de personalul retribuit sau voluntar din Comitetul executiv.
+Art. 65. Coordonatorii Naționali sunt membri al Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală, care decid, sub aspect tehnic și financiar, modul de aducere la îndeplinire a acestor obiective. In activitatea lor sunt sprijiniți de personalul retribuit sau voluntar din Comitetul executiv.
 
-Art. 66. Fiecare Responsabil Național își alcătuiește o echipă de lucru, cu care colaborează permanent, pentru aducerea la îndeplinire a obiectivelor specifice.
+Art. 66. Fiecare Coordonator Național își alcătuiește o echipă de lucru, cu care colaborează permanent, pentru aducerea la îndeplinire a obiectivelor specifice.
 
-Art. 67. Responsabilii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
+Art. 67. Coordonatorii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
 
 e. Directorul executiv
 ======================
@@ -424,7 +424,7 @@ Art. 68.
 	(2) Directorul executiv candidează pentru un mandat de trei ani și este angajat cu contract de muncă pe perioadă nedeterminată.
 
 Art. 69. Atribuțiile Directorului executiv sunt următoarele:
-	a. elaborează, împreună cu președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Responsabililor Naționali și Comitetului executiv.
+	a. elaborează, împreună cu președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Comitetului executiv.
 	b. propune structura de personal, pe responsabilități, a Comitetului executiv și componența nominală a acestuia.
 	c. angajează personal retribuit și semnează contractele de muncă ale acestuia.
 	d. elaborează fișele de post ale personalului retribuit din cadrul Comitetului executiv.
