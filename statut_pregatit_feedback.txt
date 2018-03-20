@@ -214,7 +214,6 @@ Art. 30. Președintele ONCR are următoarele atribuții:
 	d. elaborează și propune Consiliului Director, în colaborare cu Directorul Executiv, bugetul anual al ONCR;
 	e. semnează, ca ordonator principal de credite, documentele financiare ale ONCR, conform legislației în vigoare și documentelor subsecvente;
 
-
 A2 - Organele Executive
 ========================
 
@@ -234,7 +233,7 @@ Art. 32. Atribuţii:
 	h. convoacă și coordonează ședințele Comitetului Executiv;
 	i. decide distribuirea eficientă a fondurilor în funcție de necesitate, în cadrul limitelor bugetare stabilite de Consiliul Director și Președinte;
 	j. reprezintă ONCR în fața statului, partenerilor și organelor fiscale pe baza mandatului dat de către Consiliul Director și atribuțiilor stabilite prin prezentul Statut;
-	k. reprezintă ONCR în fața CL, liderilor naționali și locali pe baza mandatului Consiliului Director, al Președintelui și al Coordonatorilor Naționali.
+	k. reprezintă ONCR în fața Centrelor Locale, liderilor naționali și locali pe baza mandatului Consiliului Director, al Președintelui și al Coordonatorilor Naționali.
 
 A2.2 - Comitetul Executiv
 ==========================
@@ -250,7 +249,7 @@ Art. 34. Atribuţii:
 	b. sprijină activitatea Coordonatorilor Naționali, delegând câte un executiv pentru fiecare prioritate strategică;
 	c. elaborează propunerea de buget anual al ONCR pe baza recomandărilor Coordonatorilor Naţionali;
 	d. elaborează, împreună cu Coordonatorii Naţionali, bugetele proiectelor naţionale;
-	e.pregăteşte din punct de vedere administrativ şedintele Consiliului Director şi întâlnirile echipelor naţionale;
+	e. pregăteşte din punct de vedere administrativ şedintele Consiliului Director şi întâlnirile echipelor naţionale;
 	f. asigură comunicarea eficientă la nivel naţional;
 	g. sprijină funcționarea CL pe baza deciziei Consiliului Director, sub îndrumarea Coordonatorilor Naționali;
 	h. se asigură de îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalităţii juridice centrelor locale;
@@ -260,7 +259,7 @@ Art. 34. Atribuţii:
 	l. produce și comercializează însemne, uniforme și alte materiale cercetăşeşti;
 	m. facilitează participarea membrilor ONCR la activități cercetăşeşti naționale și internaționale;
 	n. asigură legătura funcțională dintre Consiliul Director și Centrele Locale;
-	o. încurajează și sprijină participarea Centrelor Locale la viața asociativă prin proiecte, evenimente, seminarii etc.;
+	o. încurajează și sprijină participarea Centrelor Locale la viața asociativă prin proiecte, evenimente, seminarii, etc.;
 	p. pregătește Adunarea Generală pe baza deciziilor Consiliului Director;
 	q. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Coordonatorilor Naționali.
 
@@ -287,7 +286,7 @@ B1 - Centrul Local
 			
 Art. 37. Componenţă
 	(1) La nivel local, ONCR are filiale și sucursale, numite Centre Locale.
-	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui grup de iniţiativă local, format din minimum 5 adulţi şi 20 copii şi/ sau tineri.
+	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui grup de iniţiativă local, format din minimum 5 adulţi şi 20 copii şi/sau tineri.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
 	(4) Centrele Locale se bucură de autonomie decizională şi au libertatea de asociere în scopul derulării de activităţi specifice şi păstrării identităţii.
 	(5) Centrul local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamenul ONCR.
@@ -307,22 +306,22 @@ B2 - Adunarea Generală a Centrului Local
 	
 Art. 40. Componenţă
 	(1) Adunarea Generală a Centrului Local este forul de conducere al Centrului Local, care implementează obiectivele strategice ale ONCR la nivel local.
-	(2) Adunarea generală se convoacă în sesiune ordinară anuală, sau în sesiune extraordinară, ori de câte ori este nevoie.
+	(2) Adunarea Generală se convoacă în sesiune ordinară anuală, sau în sesiune extraordinară, ori de câte ori este nevoie.
 	(3) La aceste adunări participă, cu drept de vot, toţi membrii centrului care au împlinit vârsta de 16 ani, au depus promisiunea şi au cotizaţia plătită la zi.
 
 Art. 41. Atribuţii.
-	(1) Adunarea Generală a CL are următoarele atribuții anuale:
+	(1) Adunarea Generală a Centrului Local are următoarele atribuții anuale:
 		a. dezbate raportul de activitate al CCL și al cenzorilor;
-		b. dezbate și adoptă planul de activitati al CL pentru anul următor;
+		b. dezbate și adoptă planul de activitati al Centrului Local pentru anul următor;
 		c. dă descărcare de gestiune ordonatorului principal de credite pentru anul trecut;
 		d. aprobă bugetul pentru anul următor și adoptă deciziile ce se impun;
 		e. stabilește valoarea taxei de înscriere și a cotizației, care nu pot fi mai mici decât cuantumurile decise de Adunarea Generală a ONCR.
 
-	(2) Adunarea Generală a CL are următoarele atribuții trienale:
-	evaluează individual și colectiv activitatea organelor locale al căror mandat se încheie;
-		a. evaluează implementarea obiectivelor strategice locale pentru ultimii trei ani;
-		b. alege Consiliul Centrului Local și Cenzorul (Cenzorii);
-		c. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.
+	(2) Adunarea Generală a Centrului Local are următoarele atribuții trienale:
+		a. evaluează individual și colectiv activitatea organelor locale al căror mandat se încheie;
+		b. evaluează implementarea obiectivelor strategice locale pentru ultimii trei ani;
+		c. alege Consiliul Centrului Local și Cenzorul (Cenzorii);
+		d. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.
 		
 B3 - Consiliul Centrului Local
 ==============================
@@ -336,13 +335,13 @@ Art. 42. Componenţă
 Art. 43. Atribuţii:
 	a. asigură membrilor săi un program bazat pe activități periodice;
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită pentru ONCR;
-	c. răspunde, în timpul solicitat, cu informații referitoare la activitatea CL;
-	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasa folosire a bazei materiale.
+	c. răspunde, în timpul solicitat, cu informații referitoare la activitatea Centrului Local;
+	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
 	
 B4 - Comisia de Cenzori
 =======================
 
-Art. 44. Componenţă. Adunarea Generală a Centrului Local desemnează uncenzor, iar în cazurile în care numărul membrilor depăşeşte 100, va exista o comisie de cenzori compusă din 3 membri.
+Art. 44. Componenţă. Adunarea Generală a Centrului Local desemnează un cenzor, iar în cazurile în care numărul membrilor depăşeşte 100, va exista o comisie de cenzori compusă din 3 membri.
 Art. 45. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similare cu ale celor din structura naţională.
 		
 B5 - Alte structuri locale
@@ -361,10 +360,10 @@ Art. 46. Veniturile structurilor naţionale şi ale Centrelor Locale ale ONCR se
 	c. veniturile realizate din activităţi economice directe;
 	d. donaţii, sponsorizări;
 	e. resurse obţinute de la bugetul de stat şi/sau de la bugetele locale;
-	f.alte venituri prevăzute de lege.
+	f. alte venituri prevăzute de lege.
 	
 Art. 47. Activități economice
-	(1) Structurile ONCR pot desfăşura activităţi economice direcNte cu caracter accesoriu în strânsă legătură cu realizarea scopurilor organizaţiei.
+	(1) Structurile ONCR pot desfăşura activităţi economice directe cu caracter accesoriu în strânsă legătură cu realizarea scopurilor organizaţiei.
 	(2) Veniturile realizate servesc activităţilor non-profit.
 
 Art. 48. Folosirea veniturilor organizaţiei se realizează potrivit Nomenclatorului financiar al ONCR (Anexa nr. 1 la Regulament) şi a legilor în vigoare.
