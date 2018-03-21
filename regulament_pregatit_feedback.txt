@@ -608,7 +608,7 @@ Art. 101.
 
 Art. 102.
 	(1) Centrul Local poate fi desființat în cazul in care este îndeplinită cel puțin una din următoarele condiții:
-		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 95 și încălcarea principiilor cercetășești.
+		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 97 și încălcarea principiilor cercetășești.
 		b. desfășurarea sau încurajarea unor activități care prejudiciază prestigiului și intereselor ONCR.
 		c. neremedierea situației care a determinat sancționarea prin suspendare (vezi cap. Sancțiuni).
 		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea în a treia Adunare Generală consecutivă, când se discută desființarea Centrelor Locale.
@@ -700,7 +700,7 @@ Art. 118. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulț
 
 Art. 119. In cazul Sefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Sefului de unitate.
         	
-Art. 120. In cazul Sefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 116, acesta poate fi sancționat conform art. 113, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației și cu acordul Sefului Centrului local.
+Art. 120. In cazul Sefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 118, acesta poate fi sancționat conform art. 115, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației și cu acordul Sefului Centrului local.
 
 Art. 121. In cazul Sefului de Centru local:
 	(1) pentru săvârșirea abaterilor prevăzute la art.116, constatate și dovedite de Consiliul Centrului local sau
