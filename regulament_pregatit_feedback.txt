@@ -120,7 +120,7 @@ Art. 16. Calitatea de membru titular al organizației se pierde prin:
 	a. retragere
 	b. neplata cotizației timp de 6 luni
 	c. neparticipare nejustificată timp de 3 luni la activitățile structurilor din care face parte.
-	d. excludere, pentru abateri grave, prevăzute la capitolul “Sancțiuni”al prezentului Regulament, precum și pentru fapte ce aduc prejudicii grave prestigiului și/sau intereselor ONCR.
+	d. excludere, pentru abateri grave, prevăzute la capitolul "Sancțiuni" al prezentului Regulament, precum și pentru fapte ce aduc prejudicii grave prestigiului și/sau intereselor ONCR.
 
 
 Capitolul III. Organele de conducere ale ONCR
@@ -534,7 +534,6 @@ Art. 90.
     (1) În cazul în care un Centru Local care a dobândit personalitate juridică, devenind filială, nu mai îndeplinește măcar unul din criteriile de la Art. 85, punctul (1) pentru o perioadă de doi ani, acest Centru Local trebuie să redevină sucursală.
     (2) Dacă conducerea unui Centru Local aflat într-o asemenea situație nu face pașii necesari pentru închiderea filialei, Centrul Local va fi exclus din ONCR prin decizia Adunării Generale; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
     (3) La constatarea neîndeplinirii a măcar unuia dintre criterii, un membru al Consiliului Director este delegat pentru a consilia și monitoriza Centrul Local în vederea evitării transformării în sucursală / excluderii, dacă este posibil
-    (4) În cadrul hotărârii Adunării Generale pentru desființarea unui Centru Local cu personalitate juridică, Centrul Local va fi exclus din ONCR ; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
 
 Art. 91. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor locale suspendate și ai Grupurilor Candidat nu au drept de vot.
@@ -587,6 +586,7 @@ Art. 97. Consiliul Centrului local are următoarele atribuții:
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită către ONCR.
 	c. prezintă semestrial (sau la cerere) informări către conducerea ONCR, referitoare la activitatea sa.
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
+	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale)
 
 Art. 98. Seful Centrului local, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel putin 21 de ani, care a participat la stagiile pentru șefi de centru local. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului local.
 
@@ -616,6 +616,7 @@ Art. 102.
 		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
 		b. Consiliul Director emite decizia de desființare care se transmite Centrului local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
 		c. Comitetul executiv, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
+		d. Dacă Centrul Local are personalitate juridică, acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
 
 Art. 103. Centrele locale care nu se supun procedurilor de desființare vor răspunde în justiție.
 
@@ -733,12 +734,15 @@ Art. 126. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 
 	(2) Suspendarea are loc pe o perioadă cuprinsă între 3 și 6 luni.
 	(3) Pe perioada suspendării, Centrele locale suportă restricțiile:
-		a. nu mai primesc corespondența de la ONCR
-		b. nu mai au dreptul să participe la activități naționale sau internaționale (campuri, stagii)
-		c. nu mai au dreptul să organizeze activități care să implice participarea altor centre.
-		d. nu pot propune proiecte spre finanțare
+		a. nu mai au dreptul să participe la activități naționale, cu participare națională sau internaționale (campuri, stagii)
+		b. nu mai au dreptul să organizeze activități care să implice participarea altor centre.
+		c. nu pot propune proiecte spre finanțare.
+		d. nu pot beneficia de susținerea structurilor naționale decât pentru acțiuni legate de ridicarea suspendării
+		e. nu pot reprezenta organizația în raport cu instituțiile statului sau cu oricie alți parteneri, cu excepția obligațiilor legale / contractuale
 	(4) Suspendarea poate fi ridicată, prin decizia Consiliului Director, înainte de termen, dacă dispare cauza care a generat-o.
-	(4) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, Centrul Local respectiv va fi propus spre desființare.
+	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare.
+	(6) Membrii Centrelor Locale suspendate nu pot fi participanți la activități înafara Centrului Local strict din perspectiva rolului pe care îl au în Centrul Local. Membrii unui Centru Local suspendat care sunt membrii în structuri naționale / implicați în proiecte naționale pot să-și continue activitatea chiar dacă Centrul Local din care fac parte este sancționat cu suspendarea
+	(7) Propunerea spre desființare se înscrie pe ordinea de zi a următoarei Adunări Generale, chiar dacă Centrul Local i se ridică între timp suspendarea
 
 Art. 127.
 	(1) Impotriva sancțiunilor se poate face contestație, către organul care a pronunțat sancțiunea, sau apel, direct la Consiliul Director.
