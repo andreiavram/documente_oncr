@@ -271,7 +271,13 @@ Art. 46.
 	(1) Sedintele Consiliului Director sunt conduse de președinte iar în lipsa acestuia de vicepreședinte.
 	(2) La fiecare ședintă se întocmește un proces verbal, pe care-l semnează toți membrii Consiliului Director prezenți. Procesul verbal va fi redactat de către secretarul Echipei executive. In cel mult 7 zile de la data ședinței, secretarul Echipei executive va elabora pe baza procesului verbal un document rezumativ cu problemele discutate și deciziile adoptate, care va fi avizat de către un membru al Consiliului Director, (numit prin decizie a Consiliului) și adus la cunoștința Centrelor locale prin secretariatul Echipei executive.
 
-Art. 47. Activitatea fiecărui Responsabil Național este susținută de membrii Echipei executive. La nivelul fiecărui departament se organizează câte o echipă națională, formată din lideri ONCR. Echipa va fi coordonată de Responsabilul Național și va funcționa după reguli stabilite de acesta, în acord cu responsabilul executiv aferent.
+Art. 47. Organizarea structurii executive
+    (1) Activitatea Consiliului Director este susținută de membrii Echipei executive.
+    (2) Consiliul Director stabilește direcțiile generale de implementare ale obiectivelor strategice, pe care Directorul Executiv le transpune în planul operațional.
+    (3) Directorul Executiv stabilește structura Echipei Executive necesară pentru a-l duce la îndeplinire, formând echipe, grupuri de lucru sau poziții după nevoie.
+    (3) Planul operațional și structura echipei executive sunt aprobate de către Consiliul Director
+    (5) Persoanele din structura executivă vor fi coordonate de Directorul Executiv direct sau prin delegare și vor funcționa după reguli stabilite de acesta.
+    (6) Coordonatorii naționali urmăresc constant activitatea Echipei Executive și se asigură că rezultatele acesteia se încadrează în strategia ONCR
 
 Art. 48. Consiliul Director are următoarele atribuții:
 	a. convoacă Adunarea Generală.
@@ -411,7 +417,7 @@ Art. 64. Comisarul internațional (responsabilul internațional) este membru al 
 d. Responsabilii Naționali
 ==========================
 
-Art. 65. Responsabilii Naționali sunt membri al Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală, care decid, sub aspect tehnic și financiar, modul de aducere la îndeplinire a acestor obiective. In activitatea lor sunt sprijiniți de personalul retribuit sau voluntar din Echipa executivă.
+Art. 65. Responsabilii Naționali sunt membri ai Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală; Aceștia se asigură de indeplinirea obiectivelor prin definirea direcțiilor de implementare a obiectivelor, care sunt transmise Directorului Executiv.
 
 Art. 66. Responsabilii Naționali urmăresc implementarea de către echipele executive ale planurilor operaționale respective în vederea asigurării încadrării rezultatelor acestora în strategia ONCR.
 
