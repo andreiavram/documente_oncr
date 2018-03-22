@@ -283,7 +283,6 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	g. aprobă structura pe responsabilități a Echipei executive, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Responsabilii Naționali pentru fiecare obiectiv strategic.
-	j. decide componența echipelor naționale pe baza propunerilor Responsabililor Naționali.
 	k. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
 	l. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale centrelor locale respective.
 	m. propune rezoluții Adunării Generale
@@ -322,16 +321,18 @@ Secțiunea D - Echipa executivă
 
 Art. 55. Echipa executivă este structura responsabilă cu implementarea tuturor rezoluțiilor Adunării Generale și a Deciziilor Consiliului Director.
 
-Art. 56. Echipa executivă este condus de către Directorul executiv, care este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
+Art. 56. Echipa executivă este condusă de către Directorul executiv, care este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
 
 Art. 57. 
 	(1) Echipa executivă are în compunere personal angajat cu contract de muncă și membri voluntari, cu atribuții executive pentru diferite zone de responsabilitate, în funcție de prioritățile strategice adoptate de Adunarea Generală.
-	(2) Structura și componența Echipei executive sunt stabilite de Directorul executiv, și aprobate de Consiliul Director.Directorul executiv poate modifica structura și componența Echipei executive, după necesități și posibilități, cu acordul Consiliului Director
+	(2) Structura și componența Echipei executive sunt stabilite de Directorul executiv, și aprobate de Consiliul Director.
+	(3) Directorul executiv poate modifica structura și componența Echipei executive în vederea implementării planului operațional agreat cu Consiliul Director, după necesități și posibilități, cu acordul Consiliului Director.
+
 
 Art. 58. Atribuțiile Echipei executive sunt următoarele:
 	a. asigură buna funcționare a activității ONCR pe parcursul unui mandat
 	b. ține evidența centralizată a centrelor locale, atât a membrilor cât și a cotizațiilor.
-	c. sprijină activitatea Responsabililor Naționali, delegând câte un membru al comitetului pentru fiecare prioritate strategică.
+	c. sprijină activitatea Responsabililor Naționali
 	d. elaborează propunerea de buget anual al ONCR pe baza bugetelor stabilite de către Responsabilii Naționali.
 	e. pregătește din punct de vedere administrativ ședintele Consiliului Director și întâlnirile echipelor naționale
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
@@ -348,10 +349,11 @@ Art. 58. Atribuțiile Echipei executive sunt următoarele:
 	q. sprijină și încurajează participarea centrelor locale la viața asociativă prin proiecte, evenimente, seminarii, etc.
 	r. pregătește Adunarea Generală, pe baza deciziilor și sub îndrumarea Consiliului Director.
 	s. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Responsabililor Naționali.
-	t. primește rapoartele de activitate anuale, rapoartele financiare și patrimoniale ale centrelor locale și le arhivează.
+	t. primește și verifică rapoartele de activitate anuale, rapoartele financiare și patrimoniale ale centrelor locale și le arhivează.
+	u. elaborează procedurile de lucru ale ONCR pe care le supune aprobării Consiliului Director
+	v. propune planuri operaționale pentru aprobare Consiliului Director pe baza obiectivelor strategice stabilite de acesta
 		
-Art. 59. Echipa executivă este subordonat ierarhic Consiliului Director și nemijlocit președintelui ONCR.
-		
+Art. 59. Echipa executivă este subordonată ierarhic Consiliului Director și nemijlocit președintelui ONCR.
 
 Funcții la nivel național
 =========================
@@ -374,7 +376,7 @@ a. Președintele ONCR
 
 Art. 60. Președintele ONCR este membru al Consiliului Director, fiind ales de Adunarea Generală conform procedurii prezentate la art. 35.
 
-Art. 61.Atribuțiile președintelui ONCR sunt următoarele:
+Art. 61. Atribuțiile președintelui ONCR sunt următoarele:
 	a. prezidează lucrările Adunării Generale
 	b. convoacă și prezidează ședintele Consiliului Director
 	c. reprezintă ONCR la nivel local, național și internațional, în relațiile cu instituțiile publice și organizațiile neguvernamentale
@@ -411,7 +413,7 @@ d. Responsabilii Naționali
 
 Art. 65. Responsabilii Naționali sunt membri al Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală, care decid, sub aspect tehnic și financiar, modul de aducere la îndeplinire a acestor obiective. In activitatea lor sunt sprijiniți de personalul retribuit sau voluntar din Echipa executivă.
 
-Art. 66. Fiecare Responsabil Național își alcătuiește o echipă de lucru, cu care colaborează permanent, pentru aducerea la îndeplinire a obiectivelor specifice.
+Art. 66. Responsabilii Naționali urmăresc implementarea de către echipele executive ale planurilor operaționale respective în vederea asigurării încadrării rezultatelor acestora în strategia ONCR.
 
 Art. 67. Responsabilii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
 
