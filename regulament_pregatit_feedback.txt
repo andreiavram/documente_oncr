@@ -460,13 +460,13 @@ Art. 73. Centrul local este alcătuit, din punct de vedere organizatoric, din pa
         	
 La activitățile naționale sau internaționale, membrii ONCR poartă uniforma de culoare bej; 
         	
-Art. 74. Patrula este formațiunea de bază, formată din 4 - 9 cercetași din aceeași ramură de vârstă, având un șef de patrulă ales din rândul membrilor săi. In patrulă, fiecare membru are un rol (sanitar, constructor, bucătar, fotograf). Patrula are ca simbol un fanion, în forma unui triunghi isoscel (baza 40 cm și înălțimea 25 cm).
+Art. 74. Patrula este formațiunea de bază, formată din 4 - 9 cercetași din aceeași ramură de vârstă, având un șef de patrulă ales din rândul membrilor săi. In patrulă, fiecare membru are un rol definit în funcție de programul specific pentru ramura de vârstă din care face parte. Patrula poate avea un steag propriu, de aceleași dimensiuni cu steagul ONCR.
 
 Art. 75. Unitatea este structura compusă din 2 – 5 patrule din aceeași ramură de vârstă. Unitatea este îndrumată de un lider adult ales de către membrii unității, pe baza propunerilor făcute de Consiliul Centrului local.
         	
 Art. 76. Condițiile minime pe care trebuie să le îndeplinească un lider adult pentru a fi șef de unitate sunt: vârsta de cel puțin 18 ani și participarea la minim două stagii pentru lideri de unitate. Seful de unitate numește până la maxim patru lideri adulți, care îl ajută în implementarea propunerii educative a ONCR la nivelul unității. 
 
-Responsabilitățile Sefului de unitate sunt prevăzute în fișa postului. (anexa 4)
+Responsabilitățile Sefului de unitate sunt prevăzute în fișa postului, al carei continut este stabilit de Consiliul Director.
 
 Art. 77. Cercetașii care depășesc vârsta de 18 ani, și nu își asumă nici o responsabilitate educativă sau organizatorică în ONCR, se pot constitui într-un grup de seniori, ce va funcționa asemeni unei unități, în cadrul unui Centru local.
 
@@ -491,7 +491,7 @@ Art. 81. Pentru a evita suprapunerea de nume, identificarea structurilor locale 
 	b. unitatea poartă un nume ales de membrii săi în cadrul Centrului local
 	c. centrul local se identifică prin numele localității, dar are și un nume ales de către liderii locali
 
-Art. 82. Dacă într-o localitate nu sunt întrunite condițiile de înființare a unui Centru local, cercetașii se organizează într-o unitate care va funcționa în cadrul celui mai apropiat Centru Local, având aceleași drepturi și obligații ca și celelalte unități din acel centru.
+Art. 82. Dacă într-o localitate nu sunt întrunite condițiile de înființare a unui Centru local, cercetașii se organizează într-o unitate care va funcționa în cadrul unui Centru Local din apropiere, având aceleași drepturi și obligații ca și celelalte unități din acel centru.
         	
 Art. 83. Procedura de înființare a unui Centru local este următoarea:
 	(1) existența unui grup de inițiativă format din cel puțin 5 adulți și 20 de copii/tineri, care se întrunesc și își exprimă dorința de a deveni cercetași, care se materializează prin întocmirea unui proces-verbal înaintat Consiliului Director.
@@ -540,7 +540,7 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 Art. 90. 
 	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
 	(2) Termenul limită de plată a cotizațiilor trimestriale este data de 15 ale lunii următoare încheierii trimestrului.
-	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament; cotizația este însoțită de un borderou ce conține nominal membrii cotizanți și perioada de cotizare. (anexa 5)
+	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament, conform unei proceduri definite de Comitetul Executiv.
         	
 Art. 91. Forul de conducere al Centrului local este Adunarea Generală a Centrului local, fiind legal constituită în prezența a cel puțin 2/3 din membrii centrului, care au implinit 16 ani, au depus promisiunea și au cotizația plătită la zi.
 
@@ -630,17 +630,17 @@ Art. 104.
 
 Art. 105. ONCR și filialele acesteia pot primi donații si/sau sponsorizări în bani și/sau bunuri de la persoane fizice sau juridice, dacă prin aceasta nu se aduce vreo atingere principiilor cercetășești și prestigiului ONCR. Sucursalele pot primi donații numai în numele ONCR.
 
-Art. 106. Folosirea veniturilor asociației se realizează potrivit nomenclatorului financiar al ONCR (anexa 6).
+Art. 106.
 
 Art. 107. 
 	(1) Materialele care sunt deteriorate din neglijență sau proastă folosință precum și cele lipsă sunt imputabile celui în grija căruia au fost încredințate.
-	(2) Materialele care au peste 3 ani de utilizare și prezintă un grad înalt de uzură ce le fac inutilizabile sau nesigure în exploatare, se casează de către o comisie a Centrului local (sau a Consiliului Director ) numită în acest scop, și se scot din inventar.
+	(2) Materialele care au peste 3 ani de utilizare și prezintă un grad înalt de uzură ce le fac inutilizabile sau nesigure în exploatare, se casează de către o comisie a Centrului local (sau a Consiliului Director) numită în acest scop, și se scot din inventar.
 
 Art. 108.
 	(1) Fiecare Centru local poate să aibă ștampila sa proprie care să conțină sigla ONCR și denumirea Centrului local.
-	(2) Fiecare Centru local poate avea un cont bancar sau cont curent la CEC, deschis în contul structurii locale respective, dar nu pe numele unui membru al structurii.
+	(2) Fiecare Centru local (sucursală) are dreptul de a solicita deschiderea de conturi bancare în numele acelei structuri, cu respectarea procedurii specifice pentru acest caz.
 
-Art. 109. Fiecare Centru local (sucursală) ține contabilitatea conform Normelor Tehnice privind ținerea contabilității în partidă simplă la Centrele locale fără personalitate juridică (Anexa 7).
+Art. 109. Fiecare Centru local (sucursală) urmărește aplică în vederea realizării contabilității procedurile financiare interne ale Organizației.
 
 
 Capitolul 6. Recompense și sancțiuni
@@ -679,7 +679,7 @@ Art. 114. Abaterile sunt semnalate sau constatate de către:
 	b. șeful de unitate sau un lider din Centrul local.
 	c. șeful de subcamp, un membru al Staff-ului sau comandantul campului.
 
-Art. 115. Analizarea situației și luarea deciziei aparține Sefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, în fața unității. Sancțiunea este adusă la cunoștințaConsiliului Centrului local și este înscrisă în foaia matricolă a cercetașului. (Anexa 8).
+Art. 115. Analizarea situației și luarea deciziei aparține Sefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, în fața unității. Sancțiunea este adusă la cunoștința Consiliului Centrului local și este înscrisă, conform unei proceduri, în foaia matricolă a cercetașului.
 
 Art.116. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri: 
 	a. abaterile enumerate la art. 112.
