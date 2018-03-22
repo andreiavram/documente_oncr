@@ -304,6 +304,7 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	v. propune candidați pentru organismele OMMS sau cele europene și regionale.
 	w. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
 	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	y. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
 
 Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Responsabililor Naționali sunt prezentate în Regulament.
 		
@@ -542,6 +543,14 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	i. obligația de a prezenta Comitetului executiv un raport anual de activitate: toate Centrele locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	k. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele locale
 	l. obligația de a declara la Adunarea Generală a Centrului local patrimoniul și numărul de membri: toate Centrele locale.
+	m. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, indiferent dacă Centrul Local este filială sau sucursală. Pentru a se încadra în această categorie, proiectele propuse trebuie să îndeplinească unul sau mai multe din următoarele criterii:
+	    (1) Proiectul angajează extern Centrul Local pe o perioadă de mai mult de un an
+	    (2) Proiectul are un buget total de mai mult de 50.000 EUR
+	    (3) Proiectul are o finanțare ale cărei condiții includ posibilitatea obligativității returnării finanțării în cazul neîndeplinirii unor obiective
+	    (4) Proiectul are / caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale)
+	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener de nivel național al ONCR
+	    (6) Proiectul implică o asociere care poate prejudicia imaginea cercetășiei în comunitate, atât în cazul successului cât și în cazul eșecului proiectului.
+	n. obligatia de a desfășura doar proiecte care, prin specificul lor, să se încadreze în desfășurarea programului educativ cercetășesc pentru membrii Centrului Local sau să aducă Centrului Local resursele necesare pentru a îndeplini același scop
 
 Art. 90. 
 	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
