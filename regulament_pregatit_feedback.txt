@@ -78,7 +78,7 @@ Art. 9.
 
 	După depunerea Promisiunii, noul membru primește cardul de membru și dreptul de a purta uniforma și însemnele ONCR.
 	
-Art. 10. La depunerea adeziunii, fiecare aspirant plătește Centrului local unde se înscrie o taxă de înscriere (a cărei valoare este stabilită anual de Adunarea Generală). In cazul în care aspirantul nu obține calitatea de membru titular, taxa de înscriere și cotizația achitate pe perioada de aspirantură nu se restituie.
+Art. 10. La depunerea adeziunii, fiecare aspirant plătește Centrului local unde se înscrie o taxă de înscriere. În cazul în care aspirantul nu obține calitatea de membru titular, taxa de înscriere și cotizația achitate pe perioada de aspirantură nu se restituie.
 
 Art. 11.
 	(1) Fiecare membru al ONCR plătește o cotizație trimestrială, Centrului local de care aparține.
@@ -168,7 +168,7 @@ Art. 24. Adunarea Generală are următoarele atribuții:
 		e. dă descărcare de gestiune ordonatorului principal de credite
 		f. aprobă proiectul de buget de venituri și cheltuieli, pentru anul următor, propus de Consiliul Director.
 		g. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacanțelor de mandat.
-		h. stabilește valoarea taxei de înscriere, a cotizației trimestriale și a cuantumului virat în contul ONCR.
+		h. stabilește valoarea cotizației trimestriale și a cuantumului virat în contul ONCR.
 		i. decide acordarea de titluri și distincții, la propunerea Consiliului Director.
         j. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
         k. alege membrii Consiliului Director pentru poziții vacante
@@ -562,7 +562,8 @@ Art. 93. Adunarea Generala a Centrului local are următoarele atribuții:
 		b. da descărcare de gestiune persoanei învestite de Adunarea Generală cu acest drept (de regulă Seful Centrului local).
 		c. dezbate și aprobă planul de activități al Centrului local pentru anul următor.
 		d. adoptă bugetul pentru anul următor și adoptă deciziile ce se impun.
-		e. stabilește valoarea taxei de înscriere și a cotizației, care nu pot fi mai mici decât cuantumurile stabilite de Adunarea Generală a ONCR.
+        e. stabilește valoarea cotizației, care nu poate fi mai mică decât cuantumul decis de Adunarea Generală a ONCR.
+		f. stabilește valoarea taxei de înscriere, care nu poate depăși valoarea cotizației pe un an decisă la punctul e.
 	(2) trienale:
 		a. toate atribuțiile Adunării Generale anuale.
 		b. evaluează individual și colectiv activitatea conducerii locale, a cărei mandat se încheie.
