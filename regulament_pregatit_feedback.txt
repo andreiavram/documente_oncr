@@ -261,12 +261,11 @@ Art. 44.
 	(3) Prezența a 3/4 din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
 	(5) Absența președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor art.43.
 	(6) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.	
-	(7) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a juristului organizației, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
-	(8) La ședintele Consiliului Director participă obligatoriu și fără drept de vot Directorul executiv și trezorierul.
-	(9) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
-	(10) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
-	(11) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
-	(12) Toate deciziile care sunt încă deschise votului până la data unei întâlniri de CD vor fi trecute pe ordinea de zi a acelei întâlniri.
+	(7) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a trezorierului, a juristului organizației, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
+	(8) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
+	(9) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
+	(10) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
+	(11) Toate deciziile care sunt încă deschise votului până la data unei întâlniri de CD vor fi trecute pe ordinea de zi a acelei întâlniri.
 
 Art. 45. 
 	(1) In perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri dar care au îndeplinit 50%+1 voturi, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
@@ -456,7 +455,7 @@ Art. 70. Trezorierul are următoarele atribuții:
 	f. se informează permanent asupra situației conturilor ONCR.
 	g. îndeplinește orice alte atribuții din domeniul financiar-contabil stabilite de Consiliul Director.
 
-Art. 71. Trezorierul este numit în funcție de Consiliul Director, este subordonat direct acestuia și are obligația de a participa, fără drept de vot, la ședințele Consiliului Director.
+Art. 71. Trezorierul este numit în funcție de Consiliul Director, este subordonat direct acestuia și poate fi invitat să participe, fără drept de vot, la ședințele Consiliului Director.
 
 Sectiunea B. Structuri locale
 =============================
