@@ -1,2 +1,3 @@
-# documente_oncr
-Documentele fundamentale ale ONCR
+# Documente fundamentale ONCR
+
+Pentru mai multe detalii, http://ag.scout.ro/anexe-la-oz/

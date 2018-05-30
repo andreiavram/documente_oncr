@@ -141,7 +141,7 @@ Art. 25. Atribuţii
 		d. hotărăște înființarea şi desființarea Centrelor Locale;
 		e. aprobă cererile Centrelor Locale care doresc sa obțină personalitate juridică;
 		f. aprobă bugetul de venituri și cheltuieli al ONCR pentru anul următor;
-		g. stabileşte valoarea taxei de înscriere, a carnetului de membru, a cotizaţiei trimestriale şi a cuantumului virat în contul ONCR;
+		g. stabileşte cardului de membru, a cotizaţiei trimestriale şi a cuantumului virat în contul ONCR;
 		h. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
 		i. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
 	(2) Adunarea Generală are următoarele atribuții trienale:
@@ -315,7 +315,8 @@ Art. 41. Atribuţii.
 		b. dezbate și adoptă planul de activitati al Centrului Local pentru anul următor;
 		c. dă descărcare de gestiune ordonatorului principal de credite pentru anul trecut;
 		d. aprobă bugetul pentru anul următor și adoptă deciziile ce se impun;
-		e. stabilește valoarea taxei de înscriere și a cotizației, care nu pot fi mai mici decât cuantumurile decise de Adunarea Generală a ONCR.
+		e. stabilește valoarea cotizației, care nu poate fi mai mică decât cuantumul decis de Adunarea Generală a ONCR.
+		f. stabilește valoarea taxei de înscriere, care nu poate depăși valoarea cotizației pe un an decisă la punctul e.
 
 	(2) Adunarea Generală a Centrului Local are următoarele atribuții trienale:
 		a. evaluează individual și colectiv activitatea organelor locale al căror mandat se încheie;
@@ -369,7 +370,7 @@ Art. 47. Activități economice
 Art. 48. Folosirea veniturilor organizaţiei se realizează potrivit Nomenclatorului financiar al ONCR (Anexa nr. 1 la Regulament) şi a legilor în vigoare.
 
 Art. 49. Taxă de înscriere și cotizație
-	(1) Fiecare membru plăteşte o taxă de înscriere şi, ulterior, o cotizaţie trimestrială, ale căror cuantumuri sunt stabilite de Adunarea Generală, în funcţie de nevoile ONCR.
+	(1) Fiecare membru plăteşte o taxă de înscriere şi, ulterior, o cotizaţie trimestrială, ale căror cuantumuri sunt stabilite de Adunarea Generală a Centrului Local în care se înscrie, în funcţie de nevoile Centrului Local și ale ONCR.
 	(2) Taxa de înscriere şi cotizaţia se plătesc în cadrul Centrului Local de provenienţă.
 
 Art. 50. Donații
