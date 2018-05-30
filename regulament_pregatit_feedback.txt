@@ -81,7 +81,7 @@ Art. 9.
 Art. 10. La depunerea adeziunii, fiecare aspirant plătește Centrului local unde se înscrie o taxă de înscriere. În cazul în care aspirantul nu obține calitatea de membru titular, taxa de înscriere și cotizația achitate pe perioada de aspirantură nu se restituie.
 
 Art. 11.
-	(1) Fiecare membru al ONCR plătește o cotizație trimestrială, Centrului local de care aparține.
+	(1) Fiecare membru al ONCR plătește o cotizație semestrială, Centrului local de care aparține.
     (2) Valoarea cotizației individuale și a cotei parte ce revine ONCR este stabilită anual de Adunarea Generală a ONCR.
 
 Art. 12. Calitatea de membru al ONCR se dovedește cu cardul de membru, tip, înseriat cu identificatorul membrului în organizație, emis de Comitetul executiv.
@@ -168,7 +168,7 @@ Art. 24. Adunarea Generală are următoarele atribuții:
 		e. dă descărcare de gestiune ordonatorului principal de credite
 		f. aprobă proiectul de buget de venituri și cheltuieli, pentru anul următor, propus de Consiliul Director.
 		g. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacanțelor de mandat.
-		h. stabilește valoarea cotizației trimestriale și a cuantumului virat în contul ONCR.
+		h. stabilește valoarea cotizației semestrială și a cuantumului virat în contul ONCR.
 		i. decide acordarea de titluri și distincții, la propunerea Consiliului Director.
         j. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
         k. alege membrii Consiliului Director pentru poziții vacante
@@ -566,8 +566,8 @@ u	e. dreptul de a deschide cont bancar propriu: Centrele locale cu personalitate
 	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR.
 
 Art. 92.
-	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
-	(2) Termenul limită de plată a cotizațiilor trimestriale este data de 15 ale lunii următoare încheierii trimestrului.
+	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează semestrial.
+	(2) Termenul limită de plată a cotizațiilor semestriale sunt data de 15 a lunilor ianuarie pentru semestrul I, respectiv iulie pentru semestrul II.
 	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament, conform unei proceduri definite de Comitetul Executiv.
         	
 Art. 93. Forul de conducere al Centrului local este Adunarea Generală a Centrului local, fiind legal constituită în prezența a cel puțin 2/3 din membrii centrului, care au implinit 16 ani, au depus promisiunea și au cotizația plătită la zi.
@@ -654,7 +654,7 @@ Art. 104. Veniturile ONCR (la nivel național și local) se realizează, conform
 
 Art. 105.
 	(1) Taxa de înscriere se încasează conform prevederilor art. 10.
-	(2) Cotizația se încasează trimestrial, conform prevederilor art. 11. de către Centrele locale.
+	(2) Cotizația se încasează semestrial, conform prevederilor art. 11. de către Centrele locale.
 	(3) Din sumele încasate cu titlul de cotizații, Centrele locale virează în contul ONCR o cotă parte, a cărei valoare procentuală este stabilită de către Adunarea Generală a ONCR. Modul de plată este stabilităconform prevederilor art. 89.
 	(4) Taxa de înscriere și cotizația nu se restituie membrilor care se retrag din organizație.
 
