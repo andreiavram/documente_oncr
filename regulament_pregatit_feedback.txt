@@ -120,7 +120,7 @@ Art. 16. Calitatea de membru titular al organizației se pierde prin:
 	a. retragere
 	b. neplata cotizației timp de 6 luni
 	c. neparticipare nejustificată timp de 3 luni la activitățile structurilor din care face parte.
-	d. excludere, pentru abateri grave, prevăzute la capitolul “Sancțiuni”al prezentului Regulament, precum și pentru fapte ce aduc prejudicii grave prestigiului și/sau intereselor ONCR.
+	d. excludere, pentru abateri grave, prevăzute la capitolul "Sancțiuni" al prezentului Regulament, precum și pentru fapte ce aduc prejudicii grave prestigiului și/sau intereselor ONCR.
 
 
 Capitolul III. Organele de conducere ale ONCR
@@ -140,7 +140,7 @@ Art. 18.
 	(2) Adunarea Generală se întrunește cel putin o dată pe an și are drept de control permanent asupra organelor prevăzute la art.17 lit. b si c.
 	(3) La Adunarea Generala participă, cu drept de vot, câte un delegat al fiecărui Centru local legal inființat, participarea fiind obligatorie.
 	(4) Delegații Centrelor Locale sancționate cu suspendare și aflate in interiorul termenului de suspendare, pot participa fără drept de vot.
-	(5) Delegații Centrelor Locale care funcționează pe bază de autorizație provizorie pot participa la Adunarea Generală fără drept de vot.
+	(5) Delegații Grupurilor Candidat pot participa la Adunarea Generală fără drept de vot.
 	(6) Echipa executivă transmite tuturor Centrelor locale, cu o lună înainte de data desfășurării Adunării Generale, situația Centrelor locale cu și fără drept de reprezentare.
 	(7) Centrele locale au obligația de a transmite Echipei executive, cu cel puțin o săptămână înaintea datei Adunării Generale, numele și funcția delegatului lor.
 
@@ -233,7 +233,7 @@ Art. 38. Hotărârile luate de Adunarea Generală, în limitele legii și statut
 Art. 39. Hotărârile Adunării Generale, contrare legii, actului constitutiv sau statutului, pot fi atacate în justiție de oricare dintre asociații care nu au luat parte la Adunarea Generală sau care au votat împotrivă și au cerut să se însereze aceasta în procesul verbal de ședință, în termen de 15 zile de la data când au luat cunoștință despre hotărâre sau de la data când a avut loc ședința, după caz.
 
 Secțiunea B. Consiliul Director
-==================
+===============================
 
 Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia. Consiliul Director emite Decizii și aprobă Procedurile de Lucru pentru toate structurile ONCR.
 
@@ -298,19 +298,21 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	h. decide conținutul contractului de management al Directorului executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Coordonatorii Naționali pentru fiecare obiectiv strategic.
 	j. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
-	k. propune rezoluții Adunării Generale
-	l. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
-	m. prezintă Adunării Generale evaluări asupra activităților naționale
-	n. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
-	o. întocmește planul calendar cu principalele acțiuni pentru anul următor
-	p. întocmește protocoale de colaborare cu alte organizații
-	q. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
-	r. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
-	s. propune Adunării Generale acordarea de distincții și titluri de onoare.
-	t. propune candidați pentru organismele OMMS sau cele europene și regionale.
-	u. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
-	v. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
-	w. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
+	k. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale centrelor locale respective.
+	l. propune rezoluții Adunării Generale
+	m. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
+	n. prezintă Adunării Generale evaluări asupra activităților naționale
+	o. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
+	p. întocmește planul calendar cu principalele acțiuni pentru anul următor
+	q. întocmește protocoale de colaborare cu alte organizații
+	r. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
+	s. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
+	t. propune Adunării Generale acordarea de distincții și titluri de onoare.
+	u. propune candidați pentru organismele OMMS sau cele europene și regionale.
+	v. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
+	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
+	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
 
 Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -515,9 +517,10 @@ Art. 82. Dacă într-o localitate nu sunt întrunite condițiile de înființare
         	
 Art. 83. Procedura de înființare a unui Centru local este următoarea:
 	(1) existența unui grup de inițiativă format din cel puțin 5 adulți și 20 de copii/tineri, care se întrunesc și își exprimă dorința de a deveni cercetași, care se materializează prin întocmirea unui proces-verbal înaintat Consiliului Director.
-	(2) Procesul-Verbal conține adresa sediului și componența Consiliului de conducere, plus documente anexe (lista de membri, datele personale ale membrilor din conducere, dovada de spațiu).
-	(3) pe baza procesului-verbal și documentelor anexe, Consiliul Director emite o autorizație provizorie de funcționare, valabilă până la prima Adunare Generală, dar nu mai puțin de șase luni.
-	(4) pentru această perioadă, Centrul local are următoarele obligații:
+	(2) pentru a le clarifica relația cu ONCR, aceste grupuri se numesc Grupuri Candidat
+	(3) Procesul-Verbal conține adresa sediului și componența Consiliului de conducere, plus documente anexe (lista de membri, datele personale ale membrilor din conducere, dovada de spațiu).
+	(4) pe baza procesului-verbal și documentelor anexe, Consiliul Director emite o autorizație provizorie de funcționare, valabilă până la prima Adunare Generală, dar nu mai puțin de șase luni.
+	(5) pentru această perioadă, Grupul Candidat are următoarele obligații:
 		a. să organizeze activități conforme cu metoda și principiile cercetășești
 		b. să trimită Consiliului Director evaluări asupra activităților desfășurate
 		c. să plătească cotizația
@@ -531,7 +534,7 @@ Art. 84.
 
 Art. 85. 
 	(1) Centrele Locale pot obține personalitate juridică (devenind filiale), dacă îndeplinesc următoarele condiții:
-		a. centrul local are decizie de înființare de cel puțin un an
+		a. Centrul Local are decizie de înființare de cel puțin un an; se acceptă diferențe de până la cel mult o lună în cazul în care, din cauza planificării Adunărilor Generale ordinare în diferiți ani, perioada dintre Adunările Generale ordinare nu permite împlinirea unui an întreg.
 		b. are un număr de cel puțin 10 lideri și 50 de cercetași
 		c. are un sediu stabil
 		d. dovedește capacitate de gestiune financiară
@@ -544,12 +547,21 @@ Art. 87. Personalitatea juridică permite Centrului local administrarea de centr
 
 Art. 88. Centrele Locale cu personalitate juridică au obligația depunerii situației financiare anuale și a altor documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și realizarea unui raport financiar anual (pe baza acestor documente) care este trimis Consiliului Director.
 
-Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
-	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor locale suspendate sau care funcționează pe bază de autorizație provizorie nu au drept de vot.
+Art. 89.
+    (1) Hotărârea Adunării Generale de acordare a dreptului de obținere a personalității juridice expira într-un an, definit la fel ca la Art. 85., punctul (1) lit. a.
+    (2) Dacă un Centru Local care a obținut acordul Adunării Generale pentru obținerea personalității juridice nu reușește să finalizeze procesul în acest termen, Centrul Local trebuie să se prezinte în fața Adunării Generale pentru a obține prelungirea acestui termen, tot în baza criteriilor de la Art. 85.
+
+Art. 90.
+    (1) În cazul în care un Centru Local care a dobândit personalitate juridică, devenind filială, nu mai îndeplinește măcar unul din criteriile de la Art. 85, punctul (1) pentru o perioadă de doi ani, acest Centru Local trebuie să redevină sucursală.
+    (2) Dacă conducerea unui Centru Local aflat într-o asemenea situație nu face demersurile necesare pentru închiderea filialei, Centrul Local va fi exclus din ONCR prin decizia Adunării Generale; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
+    (3) La constatarea neîndeplinirii a măcar unuia dintre criterii, un membru al Consiliului Director este delegat pentru a consilia și monitoriza Centrul Local în vederea evitării transformării în sucursală / excluderii, dacă este posibil
+
+Art. 91. Drepturile și obligațiile Centrelor locale sunt următoarele:
+	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor locale suspendate și ai Grupurilor Candidat nu au drept de vot.
 	b. dreptul de a participa la activități internaționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare.
-	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Centrele locale care funcționează pe bază de autorizație provizorie, numai sub îndrumarea unui centru local legal înființat.
+	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Candidat, numai sub îndrumarea unui Centru Local legal înființat.
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor locale legal înființate și care întrunesc condițiile de la art. 27.
-	e. dreptul de a deschide cont bancar propriu: Centrele locale cu personalitate juridică (filialele); Centrele locale fără personalitate juridică ( sucursalele ) pot solicita girul unei filiale sau al ONCR.
+u	e. dreptul de a deschide cont bancar propriu: Centrele locale cu personalitate juridică (filialele); Centrele locale fără personalitate juridică (sucursalele) pot solicita girul unei filiale sau al ONCR.
 	f. obligația de a depune situația financiară anuală: toate Centrele locale, filialele conform art. 88, iar sucursalele la trezorierul ONCR.
 	g. obligația de a depune alte raporturi financiare: toate Centrele locale, conform art. 88.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele locale.
@@ -563,20 +575,20 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	    (4) Proiectul are / caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale)
 	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR.
 
-Art. 90. 
+Art. 92.
 	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
 	(2) Termenul limită de plată a cotizațiilor trimestriale este data de 15 ale lunii următoare încheierii trimestrului.
 	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament, conform unei proceduri definite de Comitetul Executiv.
         	
-Art. 91. Forul de conducere al Centrului local este Adunarea Generală a Centrului local, fiind legal constituită în prezența a cel puțin 2/3 din membrii centrului, care au implinit 16 ani, au depus promisiunea și au cotizația plătită la zi.
+Art. 93. Forul de conducere al Centrului local este Adunarea Generală a Centrului local, fiind legal constituită în prezența a cel puțin 2/3 din membrii centrului, care au implinit 16 ani, au depus promisiunea și au cotizația plătită la zi.
 
-Art. 92.
-	(1) Adunarea Generală ordinară are loc în luna martie a fiecărui an. Adunarea Generală pentru alegerea conducerii Centrului local are loc din trei in trei ani.
+Art. 94.
+	(1) Adunarea Generală ordinară are loc în fiecare an, înaintea Adunării Generale naționale. Adunarea Generală pentru alegerea conducerii Centrului local are loc din trei in trei ani.
 	(2) Pregătirea Adunării Generale ordinare intră în atribuția Consiliului Centrului local.
 	(3) Deciziile se iau prin votul majorității simple.
 	(4) Adunarea extraordinară poate fi convocată de 1/2 din membrii cu drept de vot.
 
-Art. 93. Adunarea Generala a Centrului local are următoarele atribuții:
+Art. 95. Adunarea Generala a Centrului local are următoarele atribuții:
 	(1) anuale:
 		a. dezbate și aprobă raportul de activitate al Consiliului Centrului local și al cenzorului.
 		b. da descărcare de gestiune persoanei învestite de Adunarea Generală cu acest drept (de regulă Seful Centrului local).
@@ -591,53 +603,56 @@ Art. 93. Adunarea Generala a Centrului local are următoarele atribuții:
 		d. alege Consiliul Centrului local și cenzorul (cenzorii).
 		e. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.
 
-Art. 94.
+Art. 96.
 	(1) Intre sesiunile Adunării Generale, conducerea centrului este exercitată de Consiliul Centrului Local.
 	(2) La nivelul fiecărui Centru local, componența Consiliului Centrului local este decisă de Adunarea Generală, fără a se încălca prevederile Statutului ONCR (Sef de Centru local și minim patru membri, lideri adulți).
 	(3) Atribuțiile membrilor centrului sunt prevăzute în fișele de post, care se stabilesc și se aprobă de Adunarea Generală a fiecărui Centru local.
 	(4) Consiliul Centrului local se întrunește lunar sau ori de câte ori este nevoie, la convocarea Sefului de centru, iar deciziile se iau cu votul majorității simple.
 
-Art. 95. Consiliul Centrului local are următoarele atribuții:
+Art. 97. Consiliul Centrului local are următoarele atribuții:
 	a. asigură membrilor centrului un program bazat pe activități periodice.
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită către ONCR.
 	c. prezintă semestrial (sau la cerere) informări către conducerea ONCR, referitoare la activitatea sa.
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
+	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale)
 
-Art. 96. Seful Centrului local, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel putin 21 de ani, care a participat la stagiile pentru șefi de centru local. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului local.
+Art. 98. Seful Centrului local, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel putin 21 de ani, care a participat la stagiile pentru șefi de centru local. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului local.
 
-Art. 97.
+Art. 99.
 	(1) Seful Centrului local este responsabil cu implementarea deciziilor luate de Consiliul Centrului local și reprezintă Centrul local în interiorul și exteriorul ONCR.
 	(2) Pentru relațiile cu exteriorul ONCR, Seful Centrului local poate folosi titulatura de Președinte al Centrului local.
 
-Art. 98. 
+Art. 100.
 	(1) Cenzorul (cenzorii - în număr de trei - pentru Centrele locale cu mai mult de 100 de membri) este ales de Adunarea Generală a Centrului local.
 	(2) Atribuțiile cenzorului (cenzorilor) sunt următoarele:
 		a. asigură controlul financiar intern al Centrului local, verificând cheltuielile efectuate și situatia patrimoniului centrului.
 		b. raportează Adunării Generale a centrului rezultatele activității sale.
 	(3).Cenzorul participă la ședintele Consiliului Centrului local, fără drept de vot.
 
-Art. 99.
+Art. 101.
 	(1) Dacă activitatea structurii stagnează sau este regresivă din motive obiective/subiective imputabile unui lider, membrii Centrului local pot propune Consiliului Centrului local înlocuirea liderului respectiv.
 	(2) Dacă situația devine conflictuală și nu poate fi depășită la nivel local, membrii Centrului local au dreptul de a sesiza în scris Consiliul Director, care va trata situația conform prevederilor art.47, litera x.
 	(3).Dacă din motive obiective un lider nu poate face față responsabilităților asumate, își va prezenta demisia, urmând a fi înlocuit prin decizia organului colegial din care face parte.
 
-Art. 100.
+Art. 102.
 	(1) Centrul Local poate fi desființat în cazul in care este îndeplinită cel puțin una din următoarele condiții:
-		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 95 și încălcarea principiilor cercetășești.
+		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 97 și încălcarea principiilor cercetășești.
 		b. desfășurarea sau încurajarea unor activități care prejudiciază prestigiului și intereselor ONCR.
 		c. neremedierea situației care a determinat sancționarea prin suspendare (vezi cap. Sancțiuni).
+		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea în a treia Adunare Generală consecutivă, când se discută desființarea Centrelor Locale.
 	(2) Procedura de desființare urmează etapele:
 		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
 		b. Consiliul Director emite decizia de desființare care se transmite Centrului local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
 		c. Echipa executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
+		d. Dacă Centrul Local are personalitate juridică, acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
 
-Art. 101. Centrele locale care nu se supun procedurilor de desființare vor răspunde în justiție.
+Art. 103. Centrele locale care nu se supun procedurilor de desființare vor răspunde în justiție.
 
 
 Capitolul 5. Management financiar
 =================================
 
-Art. 102. Veniturile ONCR (la nivel național și local) se realizează, conform Statutului, din:
+Art. 104. Veniturile ONCR (la nivel național și local) se realizează, conform Statutului, din:
 	a. taxele de înscriere și cotizațiile membrilor.
 	b. veniturile realizate din activități economice directe.
 	c. dobânzile și dividentele rezultate din plasarea sumelor disponibile, în condiții legale.
@@ -645,35 +660,35 @@ Art. 102. Veniturile ONCR (la nivel național și local) se realizează, conform
 	e. resurse obținute de la bugetul de stat și/sau bugetele locale (finanțarea prin proiecte, în cadrul programelor de finanțare ale instituțiilor publice sau ONG-uri care gestionează asemenea fonduri.
 	f. alte venituri prevăzute de lege.
 
-Art. 103.
+Art. 105.
 	(1) Taxa de înscriere se încasează conform prevederilor art. 10.
 	(2) Cotizația se încasează trimestrial, conform prevederilor art. 11. de către Centrele locale.
 	(3) Din sumele încasate cu titlul de cotizații, Centrele locale virează în contul ONCR o cotă parte, a cărei valoare procentuală este stabilită de către Adunarea Generală a ONCR. Modul de plată este stabilităconform prevederilor art. 89.
 	(4) Taxa de înscriere și cotizația nu se restituie membrilor care se retrag din organizație.
 
-Art. 104.
+Art. 106.
 	(1) Structurile ONCR (aparatul executiv și Centrele locale cu personalitate juridică) pot desfășura activități economice directe cu caracter accesoriu (producerea de uniforme și alte efecte cercetășești, editarea de publicații, manuale, broșuri, pliante de profil, hărți, materiale filatelice, confecționarea de însemne și medalii, organizarea de activități sportive și recreative, acțiuni turistice, protecție și monitorizare ecologică, etc.) în strânsă legătură cu realizarea scopurilor organizației.
 	(2) Activitățile economice directe se vor desfășura cu respectarea prevederilor legale. Operațiunile financiare vor fi evidențiate în partidă contabilă separată iar rezultatele financiare se vor reflecta în bilanțul contabil anual.
 
-Art. 105. ONCR și filialele acesteia pot primi donații si/sau sponsorizări în bani și/sau bunuri de la persoane fizice sau juridice, dacă prin aceasta nu se aduce vreo atingere principiilor cercetășești și prestigiului ONCR. Sucursalele pot primi donații numai în numele ONCR.
+Art. 107. ONCR și filialele acesteia pot primi donații si/sau sponsorizări în bani și/sau bunuri de la persoane fizice sau juridice, dacă prin aceasta nu se aduce vreo atingere principiilor cercetășești și prestigiului ONCR. Sucursalele pot primi donații numai în numele ONCR.
 
-Art. 106.
+Art. 108. Folosirea veniturilor asociației se realizează potrivit nomenclatorului financiar al ONCR (anexa 6).
 
-Art. 107. 
+Art. 109.
 	(1) Materialele care sunt deteriorate din neglijență sau proastă folosință precum și cele lipsă sunt imputabile celui în grija căruia au fost încredințate.
 	(2) Materialele care au peste 3 ani de utilizare și prezintă un grad înalt de uzură ce le fac inutilizabile sau nesigure în exploatare, se casează de către o comisie a Centrului local (sau a Consiliului Director) numită în acest scop, și se scot din inventar.
 
-Art. 108.
+Art. 110.
 	(1) Fiecare Centru local poate să aibă ștampila sa proprie care să conțină sigla ONCR și denumirea Centrului local.
 	(2) Fiecare Centru local (sucursală) are dreptul de a solicita deschiderea de conturi bancare în numele acelei structuri, cu respectarea procedurii specifice pentru acest caz.
 
-Art. 109. Fiecare Centru local (sucursală) aplică în vederea realizării contabilității procedurile financiare interne ale Organizației.
+Art. 111. Fiecare Centru local (sucursală) aplică, în vederea realizării contabilității, procedurile financiare interne ale Organizației.
 
 
 Capitolul 6. Recompense și sancțiuni
 ====================================
 
-Art. 110.
+Art. 112.
 	(1) Pentru rezultate deosebite în activitatea cercetășească, precum și pentru contribuție substanțială la dezvoltarea ONCR, membri titulari pot fi recompensați după cum urmează:
 		a. mulțumiri adresate în fața structurii din care fac parte.
 		b. scrisori adresate familiei și/sau instituției de învățământ din care fac parte.
@@ -684,57 +699,57 @@ Art. 110.
 	(2) In cazul liderilor adulți, rezultatele deosebite pot constitui un criteriu pentru numirea într-o funcție cu responsabilitate.
 	(3) In cazul persoanelor care nu fac parte din ONCR, dar care au adus o contribuție la dezvoltarea sa, acestea pot deveni membri de onoare.
 
-Art. 111.
+Art. 113.
 	(1) Membrii ONCR, care prin comportamentul lor încalcă Principiile Cercetășești, prevederile Statutului, Regulamentului ONCR, precum și celelalte dispoziții sau normative stabilite de structurile naționale sau locale, sunt susceptibili de a fi sancționați, în funcție de gravitatea abaterii comise.
 
 	(2) Sancțiunile se aplică în mod gradat și au ca scop corectarea abaterii, fără a leza personalitatea cercetașului.
 
-Art. 112. Pentru membrii ONCR sub 18 ani (cercetași), sunt considerate abateri:
+Art. 114. Pentru membrii ONCR sub 18 ani (cercetași), sunt considerate abateri:
 	a. nerespectarea Promisiunii și a Legii Cercetașului.
 	b. comportamentul necorespunzător calității de cercetaș.
 	c. nerespectarea responsabilităților asumate, din neglijență sau reavoință.
 	d. încălcarea regulamentelor campurilor, stabilite de comun acord de către participanți sau impuse de organizatori.
 	e. săvârșirea unei fapte care frizează morala publică sau cade sub incidența codului penal.
 
-Art. 113. Sancțiunile pentru cercetași sunt următoarele:
+Art. 115. Sancțiunile pentru cercetași sunt următoarele:
 	a. mustrare verbală în fața unității de care aparține.
 	b. suspendare pe perioadă limitată (de la 2 săptămâni la o lună) de la activitățile patrulei (unității).
 	c. excludere, pentru abateri grave sau repetate.
 
-Art. 114. Abaterile sunt semnalate sau constatate de către:
+Art. 116. Abaterile sunt semnalate sau constatate de către:
 	a. colegii de patrulă sau unitate, care aduc faptul la cunoștința Sefului de unitate, conducătorului de grup sau Sefului de subcamp, după caz.
 	b. șeful de unitate sau un lider din Centrul local.
 	c. șeful de subcamp, un membru al Staff-ului sau comandantul campului.
 
 Art. 115. Analizarea situației și luarea deciziei aparține Sefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, în fața unității. Sancțiunea este adusă la cunoștința Consiliului Centrului local și este înscrisă, conform unei proceduri, în foaia matricolă a cercetașului.
 
-Art.116. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri: 
+Art. 118. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri:
 	a. abaterile enumerate la art. 112.
 	b. încălcarea Codului galben (art.14, paragraful 2).
 
-Art. 117. In cazul Sefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Sefului de unitate.
+Art. 119. In cazul Sefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Sefului de unitate.
         	
-Art. 118. In cazul Sefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 116, acesta poate fi sancționat conform art. 113, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației și cu acordul Sefului Centrului local.
+Art. 120. In cazul Sefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 118, acesta poate fi sancționat conform art. 115, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației și cu acordul Sefului Centrului local.
 
-Art. 119. In cazul Sefului de Centru local:
+Art. 121. In cazul Sefului de Centru local:
 	(1) pentru săvârșirea abaterilor prevăzute la art.116, constatate și dovedite de Consiliul Centrului local sau
 	(2) pentru nerespectarea obligațiilor asumate cu ocazia alegerii în funcție, constatate și dovedite de Consiliul Centrului local, Seful Centrului local poate fi destituit din funcție, de către Adunarea Generală a Centrului local, întrunită în sesiune extraordinară.
 	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului local poate sesiza Consiliul Director, care va acționa în conformitate cu art.48. lit.x.
 
-Art.120. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director, iar rezultatul anchetei este incriminatoriu, Consiliul Director aduce la cunoștința Centrului local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
+Art. 122. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director, iar rezultatul anchetei este incriminatoriu, Consiliul Director aduce la cunoștința Centrului local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
 
-Art. 121.
+Art. 123.
 	(1) In perioada instrumentării anchetei, persoana anchetată poate fi suspendată din funcție, dacă comisia de anchetă consideră aceasta necesar.
 	(2) Suspendarea din funcție nu poate depăși 30 zile și este ridicată imediat dacă rezultatele anchetei sunt negative.
 	(3) Comunicarea ridicării suspendării se va efectua în maxim 3 zile de la data prezentării rezultatelor anchetei în fața Consiliului Director.
 
-Art. 122.
+Art. 124.
 	(1) Membrii ONCR care candidează și sunt aleși în funcții eligibile nu pot fi destituiți decât de structurile care i-au ales.
 	(2) Pentru situația descrisă la art.118, destituirea (care poate urma suspendării din funcție) unui Sef de Centru local este de competența Adunării Generale a Centrului local.
         	
-Art. 123. Membrii Consiliului Director și ai Comisiei Naționale de Cenzori nu pot fi destituiți decât de Adunarea Generală a ONCR.
+Art. 125. Membrii Consiliului Director și ai Comisiei Naționale de Cenzori nu pot fi destituiți decât de Adunarea Generală a ONCR.
 
-Art. 124. Pentru structuri locale care se fac vinovate de acte de indisciplină în desfășurarea activităților cercetășești sau activități financiare, sancțiunea este suspendarea temporară.
+Art. 126. Pentru structuri locale care se fac vinovate de acte de indisciplină în desfășurarea activităților cercetășești sau activități financiare, sancțiunea este suspendarea temporară.
 	(1) Motivele suspendării pot fi următoarele (cel puțin un motiv):
 		a. neplata cotizației timp de șase luni de zile
 		b. lipsa de activitate timp de un an
@@ -744,32 +759,33 @@ Art. 124. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 		f. nereguli financiare și/sau nereguli în gestiunea materială 
 		g. datorii financiare (față de alte centre, față de ONCR, față de finanțatori, față de parteneri (interni sau externi).
 		h. comportament inadecvat al membrilor Centrului local respectiv la activități (naționale sau internaționale) sau care aduce atingere imaginii ONCR.
+		i. încălcarea prevederilor statutului sau regulamentului, a hotărârilor Adunării Generale sau a deciziilor Consiliului Director
 
 	(2) Suspendarea are loc pe o perioadă cuprinsă între 3 și 6 luni.
 	(3) Pe perioada suspendării, Centrele locale suportă restricțiile:
-		a. nu mai primesc corespondența de la ONCR
-		b. nu mai au dreptul să participe la activități naționale sau internaționale (campuri, stagii)
-		c. nu mai au dreptul să organizeze activități care să implice participarea altor centre.
-		d. nu pot propune proiecte spre finanțare
+		a. nu mai au dreptul să participe la activități naționale, cu participare națională sau internaționale (campuri, stagii)
+		b. nu mai au dreptul să organizeze activități care să implice participarea altor centre.
+		c. nu pot propune proiecte spre finanțare.
+		d. nu pot beneficia de susținerea structurilor naționale decât pentru acțiuni legate de ridicarea suspendării
+		e. nu pot reprezenta organizația în raport cu instituțiile statului sau cu orice alți parteneri, cu excepția obligațiilor legale / contractuale
 	(4) Suspendarea poate fi ridicată, prin decizia Consiliului Director, înainte de termen, dacă dispare cauza care a generat-o.
-	(4) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, Centrul Local respectiv va fi propus spre desființare.
+	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare.
+	(6) Membrii Centrelor Locale suspendate nu pot fi participanți la activități înafara Centrului Local strict din perspectiva rolului pe care îl au în Centrul Local. Membrii unui Centru Local suspendat care sunt membrii în structuri naționale / implicați în proiecte naționale pot să-și continue activitatea chiar dacă Centrul Local din care fac parte este sancționat cu suspendarea
+	(7) Propunerea spre desființare se înscrie pe ordinea de zi a următoarei Adunări Generale, chiar dacă Centrul Local i se ridică între timp suspendarea
 
-Art. 125.
+Art. 127.
 	(1) Impotriva sancțiunilor se poate face contestație, către organul care a pronunțat sancțiunea, sau apel, direct la Consiliul Director.
 	(2) In cazul în care Consiliul Director a propus sancțiunea, apelantul are dreptul de a-și susține cauza în Adunarea Generală, cauza fiind trecută ca punct pe ordinea de zi.
 
 Capitolul 7. Dispoziții finale
 ==============================
 
-Art. 126. Prezentul Regulament de Organizare și Funcționare al ONCR a fost elaborat pe baza prevederilor Statutului ONCR, adoptat de Adunarea Generală la data de 23.05.2003, și in vigoare de la această dată.
+Art. 128. Prezentul Regulament de Organizare și Funcționare al ONCR a fost elaborat pe baza prevederilor Statutului ONCR, adoptat de Adunarea Generală la data de 23.05.2003, și in vigoare de la această dată.
 
-Art. 127. Orice situație sau problemă neprevăzută în prezentul Regulament va fi analizată și soluționată de Consiliul Director și considerată ca jurisprudență.
+Art. 129. Orice situație sau problemă neprevăzută în prezentul Regulament va fi analizată și soluționată de Consiliul Director și considerată ca jurisprudență.
 
-Art. 128. Prezentul Regulament a fost aprobat de Adunarea Generală din data de 08. 05.2004 și intră în vigoare de la această dată.
+Art. 130. Prezentul Regulament a fost aprobat de Adunarea Generală din data de 08. 05.2004 și intră în vigoare de la această dată.
 
-Art. 129. Modificările prezentului Regulament pot fi efectuate în conformitate cu art. 55 din Statutul ONCR.
+Art. 131. Modificările prezentului Regulament pot fi efectuate în conformitate cu art. 55 din Statutul ONCR.
 
-Art. 130. Reglementările cuprinse în celelalte Regulamente de Organizare și Funcționare ale ONCR, se abrogă.
-
-
-
+Art. 132. Reglementările cuprinse în celelalte Regulamente de Organizare și Funcționare ale ONCR, se abrogă.
