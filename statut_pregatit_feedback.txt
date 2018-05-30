@@ -156,7 +156,7 @@ A 1.2 - Consiliul Director
 
 Art. 26. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
-	(2)_Consiliul Director este format din 7 membri ai ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
+	(2) Consiliul Director este format din 7 membri ai ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
 	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
 	(5) Preşedintele numeşte vicepreşedintele dintre membrii aleşi ai Consiliului Director.
@@ -164,18 +164,17 @@ Art. 26. Componenţa
 	(7) Un membru al ONCR are dreptul de a fi ales ca membru al Consiliului Director, indiferent de funcția deținută, doar pentru două mandate consecutive.
 
 Art. 27. Funcţionare
-	(1) Consiliul Director stabileşte atribuţiile membrilor acestuia pe baza obiectivelor strategice ale ONCR adoptate de Adunarea Generală, componenţa pe responsabilităţi a Consiliului Director fiind anunţată de către preşedinte în cadrul Adunării Generale.
-	(2) Cei 5 membri vor fi numiți de către Consiliul Director Coordonatori Naţionali pentru fiecare dintre prioritățile strategice ale ONCR şi pentru fiecare din zonele desemnate de Consiliul Director.
-	(3) Comisarul Internaţional este unul din cei 5 membri aleşi, care nu are ca atribuţie nici o prioritate strategică.
+	(1) Consiliul Director stabileşte atribuţiile membrilor acestuia pe baza obiectivelor strategice ale ONCR adoptate de Adunarea Generală, componenţa pe responsabilităţi a Consiliului Director fiind anunţată de către preşedinte cât mai curând după Adunărea Generală de alegeri.
+	(2) Membri vor fi numiți de către Consiliul Director Coordonatori Naţionali pentru fiecare dintre prioritățile strategice ale ONCR şi pentru fiecare din zonele desemnate de Consiliul Director.
+	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nici o prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
-	(5) Juristul sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
 	(6) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(7) Prezenţa a 3/4 din totalul membrilor constituie cvorumul necesar desfăşurării ședinței.
-	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
-	(9) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos.
+	(7) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui raspuns cu privire la decizii online, poate atrage de la sine demiterea unui membru din Consiliul Director, în conditiile prezentare în Regulament.	
+	(8) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
+	(9) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
 
 Art. 28. Vacanțe de mandat
-	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
+	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR. 
 	(2) În cazul vacanței funcției de preşedinte, interimatul acestei responsabilităţi este preluat de către vicepreşedinte, până la următoarea Adunare Generală anuală, unde va fi ales un preşedinte interimar care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală Trienală.
 
 Art. 29. Atribuţii:
@@ -203,6 +202,7 @@ Art. 29. Atribuţii:
 	v. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
 	w. stabileste delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	y. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației
 
 A1.3 - Președintele ONCR
 =========================

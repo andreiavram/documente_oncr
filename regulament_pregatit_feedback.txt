@@ -189,7 +189,7 @@ Art. 26.
 
 Art. 27. Candidații pentru Consiliul Director trebuie să îndeplinească următoarele condiții:
 	a. au implinit 21 de ani până la data Adunării Generale
-	b. sunt lideri ai organizației de cel puțin trei ani
+	b. sunt membri adulți ai organizației de cel puțin trei ani
 	c. au participat la cel puțin două stagii de formare în cadrul ONCR sau OMMS
 	d. au coordonat sau au participat direct la organizarea unei activități naționale
 
@@ -199,7 +199,7 @@ Art. 28. Nici un membru al ONCR nu poate face parte simultan din mai multe struc
 
 Art. 29. Funcția de președinte sau membru în Consiliul Director poate fi ocupată de aceiași persoană doar două mandate consecutive.
 		
-Art. 30. Candidații pentru structurile naționale sunt propuși de către centrele locale, prin transmiterea formularului de candidatură (anexa 2), către Comitetul executiv, cu cel puțin două săptămâni înainte de data Adunării Generale.
+Art. 30. Candidații pentru structurile naționale sunt propuși de către centrele locale, prin transmiterea formularului de candidatură (anexa 2), către Comitetul executiv, cu cel puțin o lună înainte de data Adunării Generale.
 
 Art. 31. 
 	(1) Verificarea îndeplinirii de către candidați a criteriilor de eligibilitate este efectuată de către o comisie formată dintr-un membru al Consiliului Director, un membru al Comitetului executiv și un membru al unui Centru Local, comisie desemnată de Consiliul Director.
@@ -235,38 +235,44 @@ Art. 39. Hotărârile Adunării Generale, contrare legii, actului constitutiv sa
 Secțiunea B. Consiliul Director
 ==================
 
-Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia.
+Art. 40. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale și asigură punerea în execuție a hotărârilor acesteia. Consiliul Director emite Decizii și aprobă Procedurile de Lucru pentru toate structurile ONCR.
 
 Art. 41.
-	(1) Consiliul Director este format din 11 membri ai ONCR (președintele și 10 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
-	(2) Președintele este ales nominal de către Adunarea Generală,iar ceilalti 10 sunt aleși cu titlul de membri.
+	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
+	(2) Președintele este ales nominal de către Adunarea Generală, iar ceilalti 6 sunt aleși cu titlul de membri.
 	(3) Președintele numește vicepreședintele dintre membrii Consiliului Director.
 	(4) Trezorierul ONCR este un membru ex oficio, numit de Consiliul Director.
 
 Art. 42. 
 	(1) Consiliul Director stabilește atribuțiile membrilor acestuia pe baza priorităților (obiectivelor strategice) ale ONCR, adoptate de Adunarea Generală, componența pe responsabilități a Consiliului Director fiind anunțată de președinte în cadrul Adunării Generale
-	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Coordonatori Naționali pentru fiecare obiectiv.
-	(3) Comisarul internațional are atribuții legate de activitățile cercetășești cu caracter internațional și nu are responsabilitatea nici unui obiectiv strategic.
+	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Responsabili Naționali pentru fiecare obiectiv.
+	(3) Comisarul internațional conduce Departamentul Internațional și are atribuții legate de relația cu orice structuri cercetășești din afara țării; nu are responsabilitatea nici unui obiectiv strategic.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Atribuțiile președintelui, vicepreședintelui și trezorierului sunt prezentate in extenso, în fișele posturilor respective, din prezentul Regulament.
+	(6) Toți membri sunt responsabili de a păstra o comunicare constantă cu colegii de Consiliu Director, răspunzând într-un timp rezonabil solicitărilor care îi sunt adresate.
 
-Art. 43. 
-	(1) Secretarul Consiliului Director este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
-	(2) Secretarul Consiliului Director semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
+Art. 43. Secretarul Consiliului Director
+	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
+	(2) semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
+	(3) se îngrijește de publicarea deciziilor consiliului către Centrele Locale
 
 Art. 44.
 	(1) Consiliul Director se intrunește în ședintă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
 	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de termen.
-	(3) Prezența a ¾ din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
-	(4) Deciziile Consiliului Director se iau cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot.
+	(3) Prezența a 3/4 din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
 	(5) Absența președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor art.43.
-	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
-	(7) La ședintele Consiliului Director participă obligatoriu și fără drept de vot Directorul executiv și trezorierul.
+	(6) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
+	(7) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a trezorierului, a juristului organizației, a șefilor centrelor locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
+	(8) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
+	(9) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
+	(10) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
+	(11) Toate deciziile care sunt încă deschise votului până la data unei întâlniri de CD vor fi trecute pe ordinea de zi a acelei întâlniri.
 
 Art. 45. 
-	(1) In perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
-	(2) In situația în care nici unul dintre aceștia nu va accepta funcția, CD va funcționa cu numărul de membri rămași până la prima Adunare Generală când vor fi organizate alegeri pentru completarea CD. In situația înlocuirii a mai mult de 3 membri ai CD, acesta va convoca Adunarea Generală extraordinară pentru alegerea unui nou CD.
-	(3) In cazul vacanței funcției de președinte, interimatul acestei responsabiliăți este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din urnătoarea Adunare Generală.
+	(1) In perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri dar care au îndeplinit 50%+1 voturi, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
+	(2) In situația în care nici unul dintre aceștia nu va accepta funcția, CD va funcționa cu numărul de membri rămași până la prima Adunare Generală când vor fi organizate alegeri pentru completarea CD. In situația înlocuirii a mai mult de 3 membri ai CD, sau în situația în care rămân mai puțin de 4 membri în CD, acesta va convoca Adunarea Generală extraordinară pentru alegerea unui nou CD.
+	(3) Nu se consideră un mandat în sensul art. 29 mandatele asumate în condițiile Art. 45. punctele (1) și (2)
+	(4) In cazul vacanței funcției de președinte, interimatul acestei responsabiliăți este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală trienală.
 
 Art. 46. 
 	(1) Sedintele Consiliului Director sunt conduse de președinte iar în lipsa acestuia de vicepreședinte.
@@ -287,19 +293,19 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	i. numește dintre membrii săi Responsabilii Naționali pentru fiecare obiectiv strategic.
 	j. decide componența echipelor naționale pe baza propunerilor Coordonatorilor Naționali.
 	k. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
-	l. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale centrelor locale respective.
-	m. propune rezoluții Adunării Generale
-	n. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
-	o. prezintă Adunării Generale evaluări asupra activităților naționale
-	p. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
-	q. întocmește planul calendar cu principalele acțiuni pentru anul următor
-	r. întocmește protocoale de colaborare cu alte organizații
-	s. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
-	t. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
-	u. propune Adunării Generale acordarea de distincții și titluri de onoare.
-	v. propune candidați pentru organismele OMMS sau cele europene și regionale.
-	w. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
-	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	l. propune rezoluții Adunării Generale
+	m. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
+	n. prezintă Adunării Generale evaluări asupra activităților naționale
+	o. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
+	p. întocmește planul calendar cu principalele acțiuni pentru anul următor
+	q. întocmește protocoale de colaborare cu alte organizații
+	r. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
+	s. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
+	t. propune Adunării Generale acordarea de distincții și titluri de onoare.
+	u. propune candidați pentru organismele OMMS sau cele europene și regionale.
+	v. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
+	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
 
 Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -460,7 +466,7 @@ Art. 72. La nivel local, ONCR are filiale și sucursale, denumite Centre Locale.
         	
 Art. 73. Centrul local este alcătuit, din punct de vedere organizatoric, din patrule și unități, structurate pe ramuri de vârstă (lupișori, temerari, exploratori, seniori) și membrii acestora pot purta uniformă și însemne specifice.
         	
-La activitățile naționale sau internaționale, membrii ONCR poartă uniforma de culoare bej; 
+La activitățile naționale sau internaționale, membrii ONCR poartă uniforma de culoare bej;
         	
 Art. 74. Patrula este formațiunea de bază, formată din 4 - 9 cercetași din aceeași ramură de vârstă, având un șef de patrulă ales din rândul membrilor săi. In patrulă, fiecare membru are un rol definit în funcție de programul specific pentru ramura de vârstă din care face parte. Patrula are ca simbol un fanion, în forma unui triunghi isoscel (baza 40 cm și înălțimea 25 cm).
 
@@ -479,7 +485,7 @@ Art. 78. Centrul local este o structură organizatorică formată din cel puțin
     Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Statutului și Regulamentului.
 
     În cazul în care se solicită înființarea unui Grup Candidat urmare retragerii din Centrul Local existent a unor lideri și cercetași aceasta nu va fi pusă în discuție decât după cercetarea de către Consiliul Director sau comisia desemnată de acesta a împrejurărilor care au determinat această situație.
-        	
+
 Art. 79.Atribuțiile Centrului local sunt următoarele:
 	a. coordonează activitatea membrilor structurii la nivel local
 	b. facilitează activitățile desfășurate de cercetași
@@ -507,7 +513,7 @@ Art. 83. Procedura de înființare a unui Centru local este următoarea:
 		a. să organizeze activități conforme cu metoda și principiile cercetășești
 		b. să trimită Consiliului Director evaluări asupra activităților desfășurate
 		c. să plătească cotizația
-
+/
 Art. 84.
 	(1) Centrul Local se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
@@ -542,6 +548,12 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	i. obligația de a prezenta Comitetului executiv un raport anual de activitate: toate Centrele locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	k. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele locale
 	l. obligația de a declara la Adunarea Generală a Centrului local patrimoniul și numărul de membri: toate Centrele locale.
+	m. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, indiferent dacă Centrul Local este filială sau sucursală. Pentru a se încadra în această categorie, proiectele propuse trebuie să îndeplinească unul sau mai multe din următoarele criterii:
+	    (1) Proiectul angajează extern Centrul Local pe o perioadă de mai mult de un an
+	    (2) Proiectul are un buget total de mai mult de 50.000 EUR
+	    (3) Proiectul are o finanțare ale cărei condiții includ posibilitatea obligativității returnării finanțării în cazul neîndeplinirii unor obiective
+	    (4) Proiectul are / caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale)
+	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR.
 
 Art. 90. 
 	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
