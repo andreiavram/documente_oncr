@@ -88,7 +88,7 @@ Art. 12. Calitatea de membru al ONCR se dovedește cu cardul de membru, tip, în
 	
 	Cardurile se distribuie fiecărui Centru local, pe bază de tabel nominal, cu semnăturile membrilor și se eliberează acestora de către Consiliul Centrului local.
 	
-	In cazul pierderii sau deteriorării cardului, la cererea Centrului Local, Echipa executivă declară nul cardul pierdut și emite unul nou.
+	In cazul pierderii sau deteriorării cardului, la cererea Centrului Local, Comitetul executiv declară nul cardul pierdut și emite unul nou.
 	
 Art. 13. Drepturile membrilor titulari sunt:
 	a. să poarte uniforma și însemnele organizatiei.
@@ -133,7 +133,7 @@ Art. 17. Structurile naționale ale ONCR sunt:
 	a. Adunarea Generală
 	b. Consiliul Director
 	c. Comisia Natională de Cenzori
-	d. Echipa executivă
+	d. Comitetul executiv
         
 Art. 18.
 	(1) Adunarea Generală este forul suprem de conducere al ONCR, fiind alcatuită din delegații tuturor Centrelor locale.
@@ -141,8 +141,8 @@ Art. 18.
 	(3) La Adunarea Generala participă, cu drept de vot, câte un delegat al fiecărui Centru local legal inființat, participarea fiind obligatorie.
 	(4) Delegații Centrelor Locale sancționate cu suspendare și aflate in interiorul termenului de suspendare, pot participa fără drept de vot.
 	(5) Delegații Centrelor Locale care funcționează pe bază de autorizație provizorie pot participa la Adunarea Generală fără drept de vot.
-	(6) Echipa executivă transmite tuturor Centrelor locale, cu o lună înainte de data desfășurării Adunării Generale, situația Centrelor locale cu și fără drept de reprezentare.
-	(7) Centrele locale au obligația de a transmite Echipei executive, cu cel puțin o săptămână înaintea datei Adunării Generale, numele și funcția delegatului lor.
+	(6) Comitetul executiv transmite tuturor Centrelor locale, cu o lună înainte de data desfășurării Adunării Generale, situația Centrelor locale cu și fără drept de reprezentare.
+	(7) Centrele locale au obligația de a transmite Comitetului executiv, cu cel puțin o săptămână înaintea datei Adunării Generale, numele și funcția delegatului lor.
 
 Art. 19.
 	(1) Adunarea Generală se întrunește în sesiune ordinara anuală, în luna aprilie, la inițiativa Consiliului Director, sau în sesiune extraordinară, ori de câte ori este nevoie, la inițiativa Consiliului Director sau a cel puțin unei treimi din numărul Centrelor locale
@@ -151,13 +151,13 @@ Art. 19.
 	(4) Fiecare delegat al unui Centru local dispune de un singur vot.
 	(5) In cadrul Adunării Generale, deciziile vor fi luate prin majoritate simplă (50%+1) din numărul voturilor delegaților cu drept de vot prezenți. Se exceptează cazurile expres prevăzute în Statutul ONCR.
         
-Art. 20. Toate activitățile legate de pregătirea și desfășurarea Adunării Generale intră în atribuțiile Echipei executive, care va acționa sub îndrumarea Consiliului Director.
+Art. 20. Toate activitățile legate de pregătirea și desfășurarea Adunării Generale intră în atribuțiile Comitetului executiv, care va acționa sub îndrumarea Consiliului Director.
 
 Art. 21. La Adunarea Generală pot participa, în calitate de invitați, fără drept de vot, membri titulari, membri de onoare, reprezentanți ai unor instituții sau ONG-uri, cu care colaborează ONCR.
 
-Art. 22. Adunarea Generală este condusă de un prezidiu propus de președintele ONCR și validat de Adunarea Generală, iar redactarea procesului verbal intră în sarcina Echipei execUtive.
+Art. 22. Adunarea Generală este condusă de un prezidiu propus de președintele ONCR și validat de Adunarea Generală, iar redactarea procesului verbal intră în sarcina Comitetului Executiv.
         
-Art. 23. Validarea delegaților este realizată de o comisie formată din: un reprezentant al Consiliului Director (care poate fi și din afara acestuia), un reprezentant al Comisiei de Cenzori și secretarul Echipei executive. Componența nominală a comisiei este stabilită de Consiliul Director și comunicată Centrelor locale odată cu ordinea de zi finală propusă.
+Art. 23. Validarea delegaților este realizată de o comisie formată din: un reprezentant al Consiliului Director (care poate fi și din afara acestuia), un reprezentant al Comisiei de Cenzori și secretarul Comitetului executiv. Componența nominală a comisiei este stabilită de Consiliul Director și comunicată Centrelor locale odată cu ordinea de zi finală propusă.
 		
 Art. 24. Adunarea Generală are următoarele atribuții:
 	(1) Anuale:
@@ -179,7 +179,7 @@ Art. 24. Adunarea Generală are următoarele atribuții:
 		d. alege președintele, membrii Consiliului Director și membrii Comisiei Naționale de Cenzori.
 		e. dezbate și aprobă obiectivele strategice pentru următorii trei ani și planul trienal de acțiune al ONCR.
 
-Art. 25. Raportul de activitate al structurilor naționale, precum și eventualele propuneri de modificări la Statutul și Regulamentul ONCR, vor fi comunicate, de către Echipa exeCutivă, Centrelor locale, cu o lună înainte de data Adunării Generale.
+Art. 25. Raportul de activitate al structurilor naționale, precum și eventualele propuneri de modificări la Statutul și Regulamentul ONCR, vor fi comunicate, de către Comitetul Executiv, Centrelor locale, cu o lună înainte de data Adunării Generale.
 
 Art. 26. 
 	(1) Ordinea de zi a Adunării Generale este propusă de Consiliul Director și comunicată Centrelor Locale cu cel puțin 45 de zile înaintea datei adunării.
@@ -199,10 +199,10 @@ Art. 28. Nici un membru al ONCR nu poate face parte simultan din mai multe struc
 
 Art. 29. Funcția de președinte sau membru în Consiliul Director poate fi ocupată de aceiași persoană doar două mandate consecutive.
 		
-Art. 30. Candidații pentru structurile naționale sunt propuși de către centrele locale, prin transmiterea formularului de candidatură (anexa 2), către Echipa executivă, cu cel puțin o lună înainte de data Adunării Generale.
+Art. 30. Candidații pentru structurile naționale sunt propuși de către centrele locale, prin transmiterea formularului de candidatură (anexa 2), către Comitetul executiv, cu cel puțin o lună înainte de data Adunării Generale.
 
 Art. 31. 
-	(1) Verificarea îndeplinirii de către candidați a criteriilor de eligibilitate este efectuată de către o comisie formată dintr-un membru al Consiliului Director, un membru al Echipei executive și un membru al unui Centru Local, comisie desemnată de Consiliul Director.
+	(1) Verificarea îndeplinirii de către candidați a criteriilor de eligibilitate este efectuată de către o comisie formată dintr-un membru al Consiliului Director, un membru al Comitetului executiv și un membru al unui Centru Local, comisie desemnată de Consiliul Director.
 	(2) Înainte de începerea procedurii de alegere, un membru al comisiei prezintă Adunării Generale lista candidaților validați.
 
 Art. 32. Candidații pentru structurile naționale sunt obligați să fie prezenți la Adunarea Generală.
@@ -276,16 +276,10 @@ Art. 45.
 
 Art. 46. 
 	(1) Sedintele Consiliului Director sunt conduse de președinte iar în lipsa acestuia de vicepreședinte.
-	(2) La fiecare ședintă se întocmește un proces verbal, pe care-l semnează toți membrii Consiliului Director prezenți. Procesul verbal va fi redactat de către secretarul Echipei executive. In cel mult 7 zile de la data ședinței, secretarul Comitetului executiv va elabora pe baza procesului verbal un document rezumativ cu problemele discutate și deciziile adoptate, care va fi avizat de către un membru al Consiliului Director, (numit prin decizie a Consiliului) și adus la cunoștința Centrelor locale prin secretariatul Echipei executive.
+	(2) La fiecare ședintă se întocmește un proces verbal, pe care-l semnează toți membrii Consiliului Director prezenți. Procesul verbal va fi redactat de către secretarul Consiliului Director și adus la cunoștința Centrelor Locale în cel mult 7 zile de la data ședinței.
 	(3) În cazul în care funcția de Secretar al Consiliului Director este vacantă, redactarea și aducerea la cunoștință a procesului verbal va reveni în sarcina membrului Consiliului Director desemnat să îndeplinească atribuțiule Secretarului.
 
-Art. 47. Organizarea structurii executive
-    (1) Activitatea Consiliului Director este susținută de membrii Echipei executive.
-    (2) Consiliul Director stabilește direcțiile generale de implementare ale obiectivelor strategice, pe care Directorul Executiv le transpune în planul operațional.
-    (3) Directorul Executiv stabilește structura Echipei Executive necesară pentru a-l duce la îndeplinire, formând echipe, grupuri de lucru sau poziții după nevoie.
-    (3) Planul operațional și structura echipei executive sunt aprobate de către Consiliul Director
-    (5) Persoanele din structura executivă vor fi coordonate de Directorul Executiv direct sau prin delegare și vor funcționa după reguli stabilite de acesta.
-    (6) Coordonatorii naționali urmăresc constant activitatea Echipei Executive și se asigură că rezultatele acesteia se încadrează în strategia ONCR
+Art. 47. Activitatea fiecărui Coordonator Național este susținută de membrii Comitetului executiv. La nivelul fiecărui departament se organizează câte o echipă națională, formată din lideri ONCR. Echipa va fi coordonată de Coordonatorul Național și va funcționa după reguli stabilite de acesta, în acord cu responsabilul executiv aferent.
 
 Art. 48. Consiliul Director are următoarele atribuții:
 	a. convoacă Adunarea Generală.
@@ -293,24 +287,25 @@ Art. 48. Consiliul Director are următoarele atribuții:
 	c. decide asupra obiectivelor și bugetului proiectelor naționale.
 	d. elaborează planul de acțiune anual și trienal, în colaborare cu Directorul executiv.
 	e. decide bugetul de funcționare a structurilor naționale, în limitele bugetului ONCR.
-	f. aprobă raportul de activitate anual și trienal, pe baza propunerilor Echipei executive.
-	g. aprobă structura pe responsabilități a Echipei executive, angajările personalului retribuit, fișele de post și fondul de salarii.
+	f. aprobă raportul de activitate anual și trienal, pe baza propunerilor Comitetului executiv.
+	g. aprobă structura pe responsabilități a Comitetului executiv, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului executiv și controlează activitatea acestuia.
-	i. numește dintre membrii săi Coordonatorii Naționali pentru fiecare obiectiv strategic.
-	j. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
-	k. propune rezoluții Adunării Generale
-	l. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
-	m. prezintă Adunării Generale evaluări asupra activităților naționale
-	n. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
-	o. întocmește planul calendar cu principalele acțiuni pentru anul următor
-	p. întocmește protocoale de colaborare cu alte organizații
-	q. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
-	r. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
-	s. propune Adunării Generale acordarea de distincții și titluri de onoare.
-	t. propune candidați pentru organismele OMMS sau cele europene și regionale.
-	u. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
-	v. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
-	w. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
+	i. numește dintre membrii săi Responsabilii Naționali pentru fiecare obiectiv strategic.
+	j. decide componența echipelor naționale pe baza propunerilor Coordonatorilor Naționali.
+	k. emite decizii de autorizare și suspendare a centrelor locale, avizează propunerile de înființare și desființare a Centrelor Locale.
+	l. propune rezoluții Adunării Generale
+	m. aprobă, la propunerea Comisarului internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe
+	n. prezintă Adunării Generale evaluări asupra activităților naționale
+	o. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale
+	p. întocmește planul calendar cu principalele acțiuni pentru anul următor
+	q. întocmește protocoale de colaborare cu alte organizații
+	r. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
+	s. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
+	t. propune Adunării Generale acordarea de distincții și titluri de onoare.
+	u. propune candidați pentru organismele OMMS sau cele europene și regionale.
+	v. stabilește componența delegaților Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
+	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil
 
 Art. 49. Atribuțiile președintelui, vicepreședintelui, comisarului internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -330,23 +325,21 @@ Art. 53. In cazul constatării unor nereguli comise de Directorul executiv, Comi
 
 Art. 54. Comisia Națională de Cenzori funcționează în baza unui Regulament intern, aprobat de Adunarea Generală (anexa 3).
 
-Secțiunea D - Echipa executivă
+Secțiunea D - Comitetul executiv
 ================================
 
-Art. 55. Echipa executivă este structura responsabilă cu implementarea tuturor rezoluțiilor Adunării Generale și a Deciziilor Consiliului Director.
+Art. 55. Comitetul executiv este structura responsabilă cu implementarea tuturor rezoluțiilor Adunării Generale și a Deciziilor Consiliului Director.
 
-Art. 56. Echipa executivă este condusă de către Directorul executiv, care este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
+Art. 56. Comitetul executiv este condus de către Directorul executiv, care este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
 
 Art. 57. 
-	(1) Echipa executivă are în compunere personal angajat cu contract de muncă și membri voluntari, cu atribuții executive pentru diferite zone de responsabilitate, în funcție de prioritățile strategice adoptate de Adunarea Generală.
-	(2) Structura și componența Echipei executive sunt stabilite de Directorul executiv, și aprobate de Consiliul Director.
-	(3) Directorul executiv poate modifica structura și componența Echipei executive în vederea implementării planului operațional agreat cu Consiliul Director, după necesități și posibilități, cu acordul Consiliului Director.
+	(1) Comitetul executiv are în compunere personal angajat cu contract de muncă și membri voluntari, cu atribuții executive pentru diferite zone de responsabilitate, în funcție de prioritățile strategice adoptate de Adunarea Generală.
+	(2) Structura și componența Comitetului executiv sunt stabilite de Directorul executiv, și aprobate de Consiliul Director.Directorul executiv poate modifica structura și componența Comitetului executiv, după necesități și posibilități, cu acordul Consiliului Director
 
-
-Art. 58. Atribuțiile Echipei executive sunt următoarele:
+Art. 58. Atribuțiile Comitetului executiv sunt următoarele:
 	a. asigură buna funcționare a activității ONCR pe parcursul unui mandat
 	b. ține evidența centralizată a centrelor locale, atât a membrilor cât și a cotizațiilor.
-	c. sprijină activitatea Coordonatorilor Naționali
+	c. sprijină activitatea Coordonatorilor Naționali, delegând câte un membru al comitetului pentru fiecare prioritate strategică.
 	d. elaborează propunerea de buget anual al ONCR pe baza bugetelor stabilite de către Coordonatorii Naționali.
 	e. pregătește din punct de vedere administrativ ședintele Consiliului Director și întâlnirile echipelor naționale
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
@@ -363,11 +356,10 @@ Art. 58. Atribuțiile Echipei executive sunt următoarele:
 	q. sprijină și încurajează participarea centrelor locale la viața asociativă prin proiecte, evenimente, seminarii, etc.
 	r. pregătește Adunarea Generală, pe baza deciziilor și sub îndrumarea Consiliului Director.
 	s. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Coordonatorilor Naționali.
-	t. primește și verifică rapoartele de activitate anuale, rapoartele financiare și patrimoniale ale centrelor locale și le arhivează.
-	u. elaborează procedurile de lucru ale ONCR pe care le supune aprobării Consiliului Director
-	v. propune planuri operaționale pentru aprobare Consiliului Director pe baza obiectivelor strategice stabilite de acesta
+	t. primește rapoartele de activitate anuale, rapoartele financiare și patrimoniale ale centrelor locale și le arhivează.
 		
-Art. 59. Echipa executivă este subordonată ierarhic Consiliului Director și nemijlocit președintelui ONCR.
+Art. 59. Comitetul executiv este subordonat ierarhic Consiliului Director și nemijlocit președintelui ONCR.
+		
 
 Funcții la nivel național
 =========================
@@ -390,7 +382,7 @@ a. Președintele ONCR
 
 Art. 60. Președintele ONCR este membru al Consiliului Director, fiind ales de Adunarea Generală conform procedurii prezentate la art. 35.
 
-Art. 61. Atribuțiile președintelui ONCR sunt următoarele:
+Art. 61.Atribuțiile președintelui ONCR sunt următoarele:
 	a. prezidează lucrările Adunării Generale
 	b. convoacă și prezidează ședintele Consiliului Director
 	c. reprezintă ONCR la nivel local, național și internațional, în relațiile cu instituțiile publice și organizațiile neguvernamentale
@@ -425,9 +417,9 @@ Art. 64. Comisarul internațional este membru al Consiliului Director și are ur
 d. Coordonatori Naționali
 ==========================
 
-Art. 65. Coordonatorii Naționali sunt membri ai Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală; Aceștia se asigură de indeplinirea obiectivelor atât prin definirea direcțiilor de implementare a acestora, cât și prin urmărirea continuă a gradului de implementare a proiectelor dezvoltate pe baza lor.
+Art. 65. Coordonatorii Naționali sunt membri al Consiliului Director care au diferite responsabilități legate de obiectivele strategice stabilite de Adunarea Generală, care decid, sub aspect tehnic și financiar, modul de aducere la îndeplinire a acestor obiective. In activitatea lor sunt sprijiniți de personalul retribuit sau voluntar din Comitetul executiv.
 
-Art. 66. Responsabilii Naționali urmăresc implementarea de către echipele executive ale planurilor operaționale respective în vederea asigurării încadrării rezultatelor acestora în strategia ONCR.
+Art. 66. Fiecare Coordonator Național își alcătuiește o echipă de lucru, cu care colaborează permanent, pentru aducerea la îndeplinire a obiectivelor specifice.
 
 Art. 67. Coordonatorii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
 
@@ -440,15 +432,15 @@ Art. 68.
 	(2) Directorul executiv candidează pentru un mandat de trei ani și este angajat cu contract de muncă pe perioadă nedeterminată.
 
 Art. 69. Atribuțiile Directorului executiv sunt următoarele:
-	a. elaborează, împreună cu președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Echipei executive.
-	b. propune structura de personal, pe responsabilități, a Echipei executive și componența nominală a acesteia.
+	a. elaborează, împreună cu președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Comitetului executiv.
+	b. propune structura de personal, pe responsabilități, a Comitetului executiv și componența nominală a acestuia.
 	c. angajează personal retribuit și semnează contractele de muncă ale acestuia.
-	d. elaborează fișele de post ale personalului retribuit din cadrul Echipei executive.
-	e. gestionează activitatea Echipei executive și răspunde de aceasta în fața Consiliului Director.
+	d. elaborează fișele de post ale personalului retribuit din cadrul Comitetului executiv.
+	e. gestionează activitatea Comitetului executiv și răspunde de aceasta în fața Consiliului Director.
 	f. propune planul calendar anual cu principalele activități și urmărește îndeplinirea acestora.
 	g. angajează contabilul autorizat al asociației și asigură respectarea hotărârilor Adunării Generale, a deciziilor Consiliului Director, precum și a legislației în vigoare asupra exercițiului financiar și patrimonial al ONCR.
 	h. este ordonator de credite (are drept de semnatură autorizată pe conturile bancare ale ONCR, la nivel național). 
-	i. convoacă și coordonează ședintele Echipei executive.
+	i. convoacă și coordonează ședintele Comitetului executiv.
 	k. asigură distribuirea corectă și eficientă a fondurilor ONCR, în funcție de necesități, în cadrul limitelor bugetare stabilite de Consiliul Director și aprobate de Adunarea Generală.
 	l. poate reprezenta ONCR în fața autorităților, partenerilor și organelor fiscale, pe baza și în limitele mandatului acordat de Consiliul Director și a atribuțiilor prevăzute în Statutul ONCR.
 	m. împreună cu președintele ONCR, poate reprezenta ONCR în fața Centrelor Locale, a liderilor naționali și locali, pe baza și în limitele mandatului acordat de Consiliul Director și a atribuțiilor prevăzute în Statulul ONCR.
@@ -553,7 +545,7 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	f. obligația de a depune situația financiară anuală: toate Centrele locale, filialele conform art. 88, iar sucursalele la trezorierul ONCR.
 	g. obligația de a depune alte raporturi financiare: toate Centrele locale, conform art. 88.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele locale.
-	i. obligația de a prezenta Echipei executive un raport anual de activitate: toate Centrele locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
+	i. obligația de a prezenta Comitetului executiv un raport anual de activitate: toate Centrele locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	k. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele locale
 	l. obligația de a declara la Adunarea Generală a Centrului local patrimoniul și numărul de membri: toate Centrele locale.
 	m. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, indiferent dacă Centrul Local este filială sau sucursală. Pentru a se încadra în această categorie, proiectele propuse trebuie să îndeplinească unul sau mai multe din următoarele criterii:
@@ -629,7 +621,7 @@ Art. 100.
 	(2) Procedura de desființare urmează etapele:
 		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
 		b. Consiliul Director emite decizia de desființare care se transmite Centrului local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
-		c. Echipa executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
+		c. Comitetul executiv, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
 
 Art. 101. Centrele locale care nu se supun procedurilor de desființare vor răspunde în justiție.
 
