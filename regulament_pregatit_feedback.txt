@@ -455,7 +455,7 @@ Art. 70. Trezorierul are următoarele atribuții:
 	f. se informează permanent asupra situației conturilor ONCR.
 	g. îndeplinește orice alte atribuții din domeniul financiar-contabil stabilite de Consiliul Director.
 
-Art. 71. Trezorierul este numit în funcție de Consiliul Director, este subordonat direct acestuia și poate fi invitat să participe, fără drept de vot, la ședințele Consiliului Director.
+Art. 71. Trezorierul este numit în funcție de Consiliul Director, este subordonat direct acestuia și are obligația de a participa, fără drept de vot, la ședințele Consiliului Director.
 
 Sectiunea B. Structuri locale
 =============================
@@ -507,7 +507,7 @@ Art. 83. Procedura de înființare a unui Centru local este următoarea:
 		a. să organizeze activități conforme cu metoda și principiile cercetășești
 		b. să trimită Consiliului Director evaluări asupra activităților desfășurate
 		c. să plătească cotizația
-
+/
 Art. 84.
 	(1) Centrul Local se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
@@ -547,9 +547,7 @@ Art. 89. Drepturile și obligațiile Centrelor locale sunt următoarele:
 	    (2) Proiectul are un buget total de mai mult de 50.000 EUR
 	    (3) Proiectul are o finanțare ale cărei condiții includ posibilitatea obligativității returnării finanțării în cazul neîndeplinirii unor obiective
 	    (4) Proiectul are / caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale)
-	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener de nivel național al ONCR
-	    (6) Proiectul implică o asociere care poate prejudicia imaginea cercetășiei în comunitate, atât în cazul successului cât și în cazul eșecului proiectului.
-	n. obligatia de a desfășura doar proiecte care, prin specificul lor, să se încadreze în desfășurarea programului educativ cercetășesc pentru membrii Centrului Local sau să aducă Centrului Local resursele necesare pentru a îndeplini același scop
+	    (5) Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR.
 
 Art. 90. 
 	(1) Plata cotizațiilor Centrelor locale către ONCR se efectuează trimestrial.
