@@ -139,7 +139,7 @@ Art. 25. Atribuţii
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
 		d. hotărăște înființarea şi desființarea Centrelor Locale;
-		e. aprobă cererile Centrelor Locale care doresc sa obțină personalitate juridică;
+		e. aprobă cererile Centrelor Locale care doresc sa obțină personalitate juridică și hotărește cu privire la excluderea Centrelor Locale cu personalitate juridică care nu mai sunt conforme;
 		f. aprobă bugetul de venituri și cheltuieli al ONCR pentru anul următor;
 		g. stabileşte cardului de membru, a cotizaţiei trimestriale şi a cuantumului virat în contul ONCR;
 		h. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
@@ -169,12 +169,12 @@ Art. 27. Funcţionare
 	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nici o prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(6) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(7) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui raspuns cu privire la decizii online, poate atrage de la sine demiterea unui membru din Consiliul Director, în conditiile prezentare în Regulament.	
+	(7) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui raspuns cu privire la decizii online, poate atrage de la sine demiterea unui membru din Consiliul Director, în conditiile prezentare în Regulament.
 	(8) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale
 	(9) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
 
 Art. 28. Vacanțe de mandat
-	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR. 
+	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
 	(2) În cazul vacanței funcției de preşedinte, interimatul acestei responsabilităţi este preluat de către vicepreşedinte, până la următoarea Adunare Generală anuală, unde va fi ales un preşedinte interimar care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală Trienală.
 
 Art. 29. Atribuţii:
@@ -203,6 +203,7 @@ Art. 29. Atribuţii:
 	w. stabileste delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	y. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației
+	z. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică
 
 A1.3 - Președintele ONCR
 =========================
@@ -299,7 +300,7 @@ Art. 38. Atribuţii:
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 			
-Art. 39. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri sau a plății cotizaţiei, în condiţiile prevăzute de Regulamenul ONCR.
+Art. 39. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamenul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
 =========================================
