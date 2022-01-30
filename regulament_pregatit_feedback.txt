@@ -537,9 +537,11 @@ Art. 87. Procedura de înființare a unui Centru Local este următoarea:
 Art. 88.
 	(1) Centrul Local se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
-		a. să cuprindă cel puțin două unități (25 - 30 membri)
+		a. să cuprindă cel puțin două patrule (25 membri din care cel puțin 3 lideri)
 		b. să fi îndeplinit cel puțin criteriile minime pentru Nivelul 1 - Centre Locale în dezvoltare, în evaluarea IEDLOC.
+		c. în cazul Grupurilor externe care cer să devină Centre Locale este necesară recomandarea din partea Centrului Local Mentor.
 	(3) Centrele Locale astfel înființate au personalitate juridică. Filiala se constituie prin hotărârea Adunării Generale a ONCR. Personalitatea juridică se dobândește de la data înscrierii filialei în Registrul asociațiilor și fundațiilor.
+	(4) Toate Centrele Locale la înființare semnează un contract cu ONCR, prin care primesc susținerea organizației pentru a-și desfășura activitatea și a reprezenta local ONCR, drepturi care pot fi suspendate de Consiliul Director și retrase de Adunarea Generală.
 
 Art. 93.
 	(1) Hotărârea Adunării Generale de înființare a unui Centru Local expiră într-un an.
@@ -629,7 +631,7 @@ Art. 106.
 		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
 		b. Consiliul Director emite decizia de desființare care se transmite Centrului Local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
 		c. Echipa Executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
-		d. Dacă Centrul Local are personalitate juridică, acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
+		d. Prin dizolvarea Centrului Local acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
 		e. În baza art. 52, lit. w. din Regulamentul ONCR, în urma unei anchete și întocmirii unui raport de către Comisia desemnată de Consiliul Director, se constată că activitatea Centrului Local urmărește un alt scop decât cel pentru care a fost constituit.
 
 Art. 107. Centrele Locale care nu se supun procedurilor de desființare vor răspunde în justiție.
@@ -742,6 +744,7 @@ Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 		g. datorii financiare (față de alte centre, față de ONCR, față de finanțatori, față de parteneri (interni sau externi).
 		h. comportament inadecvat al membrilor Centrului Local respectiv la activități (naționale sau internaționale) sau care aduce atingere imaginii ONCR.
 		i. încălcarea prevederilor statutului sau regulamentului, a hotărârilor Adunării Generale sau a deciziilor Consiliului Director
+		j. încălcarea prevederilor din Contractul semnat la înființare
 	(2) Suspendarea are loc pe o perioadă cuprinsă între 3 și 6 luni.
 	(3) Pe perioada suspendării, Centrele Locale suportă restricțiile:
 		a. nu mai au dreptul să participe la activități naționale, cu participare națională sau internaționale (campuri, stagii)
@@ -752,7 +755,6 @@ Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 	(4) Suspendarea poate fi ridicată, prin decizia Consiliului Director, înainte de termen, dacă dispare cauza care a generat-o.
 	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare.
 	(6) Membrii Centrelor Locale suspendate nu pot fi participanți la activități înafara Centrului Local strict din perspectiva rolului pe care îl au în Centrul Local. Membrii unui Centru Local suspendat care sunt membrii în structuri naționale/ implicați în proiecte naționale pot să-și continue activitatea chiar dacă Centrul Local din care fac parte este sancționat cu suspendarea.
-	(7) Propunerea spre desființare se înscrie pe ordinea de zi a următoarei Adunări Generale, chiar dacă Centrului Local i se ridică între timp suspendarea.
 
 Art. 131.
 	(1) Împotriva sancțiunilor se poate face contestație, către organul care a pronunțat sancțiunea, sau apel, direct la Consiliul Director.
