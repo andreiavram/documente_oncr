@@ -324,8 +324,8 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	u. propune candidați pentru organismele OMMS sau cele europene și regionale.
 	v. stabilește componența delegațiilor Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
-	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil.
-	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
+	x. aprobă proiectele Centrelor Locale, care aduc un risc crescut organizației, conform limitelor definite în IEDLOC, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil.
+	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale tuturor Centrelor Locale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
 
 Art. 53. Atribuțiile Președintelui, Vicepreședintelui, Comisarului Internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -502,7 +502,14 @@ Art. 82. Centrul Local este o structură organizatorică formată din cel puțin
 
 	În cazul în care se solicită înființarea unui Grup Candidat ca urmare a retragerii din Centrul Local existent a unor lideri și cercetași, aceasta nu va fi pusă în discuție decât după cercetarea de către Consiliul Director sau comisia desemnată de acesta a împrejurărilor care au determinat această situație.
 
-	În cazul în care un Centru Local cu personalitate juridică, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire direct ca Centru Local cu personalitate juridică, condiția necesară fiind îndeplinirea criteriilor și procedurilor statutare pentru aceasta forma de organizare.
+	(1) În cazul în care un Centru Local, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire, condiția necesară fiind îndeplinirea criteriilor și procedurilor statutare pentru aceasta formă de organizare.
+	(2) În cazul divizării, se împarte întregul patrimoniu al Centrului Local între Centrul local existent și Centrul Local nou, care ia astfel ființă.
+	(3) După divizare atât Centrul Local existent, cât și Centrul local nou format, devin Centre Locale de Nivel 1 și pot trece prin evaluarea IEDLOC în vederea trecerii la Nivelul 2 după minim 1 an de zile de la divizare.
+
+Art. 82 +1. 
+	(1) Centrele Locale sunt organizate pe categorii de responsabilitate, în 3 categorii, după cum urmează: Nivelul 1 - Centre Locale în dezvoltare, Nivelul 2 - Centre Locale stabile și Nivelul 3 - Centre Locale puternice, conform criteriilor definite în Anexa (x), IEDLOC
+	(2) Centrele Locale trec de la un nivel la altul când îndeplinesc criteriile de definire a nivelului la care își doresc să treacă, sau când nu mai îndeplinesc criteriile de definire a nivelului în care se găsesc, doar după trecerea prin procesul de evaluare IEDLOC (definit în anexă) care determină nivelul la care trec. Atât Centrele Locale cât și Consiliul Director pot solicita procesul de evaluare.
+	(3) Centrele Locale care au minim 1 an de la înființare pot deveni Centre Locale de nivel 2 (dacă îndeplinesc criteriile minime) și pot mentora un Grup Extern. Centrele Locale care au minim 2 ani de la înființare și îndeplinesc criteriile minime pot deveni Centre locale de nivel 3 și pot mentora mai multe Grupuri externe simultan.
 
 Art. 83. Atribuțiile Centrului Local sunt următoarele:
 	a. coordonează activitatea membrilor structurii la nivel local
@@ -534,7 +541,7 @@ Art. 87. Procedura de înființare a unui Centru Local este următoarea:
 		c. să plătească cotizația
 
 Art. 88.
-	(1) Centrul Local se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
+	(1) Centrul Local se consideră legal constituit după înscrierea în Registrul asociațiilor și fundațiilor, în baza deciziei de înființare, emise de către Consiliul Director, pe baza hotărârii Adunării Generale.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
 		a. să cuprindă cel puțin două patrule (25 membri din care cel puțin 3 lideri)
 		b. să fi îndeplinit cel puțin criteriile minime pentru Nivelul 1 - Centre Locale în dezvoltare, în evaluarea IEDLOC.
@@ -548,13 +555,13 @@ Art. 93.
 
 Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor Locale suspendate și ai Grupurilor Candidat nu au drept de vot.
-	b. dreptul de a participa la activități internaționale: membrii tuturor Centrelor Locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare.
-	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor Locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Candidat, numai sub îndrumarea unui Centru Local legal înființat.
+	b. dreptul de a participa la activități internaționale: membrii tuturor Centrelor Locale legal înființate, asupra cărora nu sunt aplicate sancțiuni disciplinare.
+	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor Locale, asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Externe, numai sub îndrumarea Centrului Local mentor.
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor Locale legal înființate și care întrunesc condițiile de la art. 31.
-	e. dreptul de a deschide cont bancar propriu: Centrele Locale cu personalitate juridică (filialele); Centrele Locale fără personalitate juridică (sucursalele) pot solicita girul unei filiale sau al ONCR.
+	e. dreptul de a deschide cont bancar propriu: Centrele Locale legal înființate.
 	f. obligația de a depune situația financiară anuală și alte documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și trimiterea unui raport financiar anual (pe baza acestor documente) către Consiliul Director.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele Locale.
-	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
+	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	j. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele Locale
 	k. obligația de a declara la Adunarea Generală a Centrului Local patrimoniul și numărul de membri: toate Centrele Locale.
 	l. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, conform condițiilor definite în Anexa IEDLOC.
