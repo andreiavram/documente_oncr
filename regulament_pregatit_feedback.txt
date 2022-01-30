@@ -539,31 +539,11 @@ Art. 88.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
 		a. să cuprindă cel puțin două unități (25 - 30 membri)
 		b. să fi dovedit capacitate organizatorică și de inițiativă, pentru a fi integrat în structura ONCR.
-	(3) Centrele Locale astfel înființate nu au personalitate juridică și sunt sucursale.
-
-Art. 89. 
-	(1) Centrele Locale pot obține personalitate juridică (devenind filiale), dacă îndeplinesc următoarele condiții:
-		a. Centrul Local are decizie de înființare de cel puțin un an; se acceptă diferențe de până la cel mult o lună în cazul în care, din cauza planificării Adunărilor Generale ordinare în diferiți ani, perioada dintre Adunările Generale ordinare nu permite împlinirea unui an întreg.
-		b. are un număr de cel puțin 10 lideri și 50 de cercetași.
-		c. are un sediu stabil.
-		d. dovedește capacitate de gestiune financiară.
-		e. are putere financiară dovedită prin atragere de fonduri.
-		f. activul patrimonial, alcătuit din aportul în natură sau în bani al asociaților, este în valoare de cel puțin dublul salariului minim pe economie, la data respectivă.
-
-Art. 90. Personalitatea juridică permite Centrului Local angajarea de personal retribuit.
-        	
-Art. 91. Personalitatea juridică permite Centrului Local administrarea de centre scout sau de proiecte naționale pe un termen mai lung de un an.
-
-Art. 92. Centrele Locale cu personalitate juridică au obligația depunerii situației financiare anuale și a altor documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și realizarea unui raport financiar anual (pe baza acestor documente) care este trimis Consiliului Director.
+	(3) Centrele Locale astfel înființate au personalitate juridică. Filiala se constituie prin hotărârea Adunării Generale a ONCR. Personalitatea juridică se dobândește de la data înscrierii filialei în Registrul asociațiilor și fundațiilor.
 
 Art. 93.
-	(1) Hotărârea Adunării Generale de acordare a dreptului de obținere a personalității juridice expiră într-un an, definit la fel ca la Art. 89., punctul (1) lit. a.
-	(2) Dacă un Centru Local care a obținut acordul Adunării Generale pentru obținerea personalității juridice nu reușește să finalizeze procesul în acest termen, Centrul Local trebuie să se prezinte în fața Adunării Generale pentru a obține prelungirea acestui termen, tot în baza criteriilor de la Art. 86.
-
-Art. 94.
-	(1) În cazul în care un Centru Local care a dobândit personalitate juridică, devenind filială, nu mai îndeplinește măcar unul din criteriile de la Art. 89, punctul (1) pentru o perioadă de doi ani, acest Centru Local trebuie să redevină sucursală.
-   	(2) Dacă conducerea unui Centru Local aflat într-o asemenea situație nu face demersurile necesare pentru închiderea filialei, Centrul Local va fi exclus din ONCR prin decizia Adunării Generale; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
-	(3) La constatarea neîndeplinirii a măcar unuia dintre criterii, un membru al Consiliului Director este delegat pentru a consilia și monitoriza Centrul Local în vederea evitării transformării în sucursală/ excluderii, dacă este posibil
+	(1) Hotărârea Adunării Generale de înființare a unui Centru Local expiră într-un an.
+	(2) Dacă un grup care a obținut hotărârea Adunării Generale de înființare ca Centru Local nu reușește să finalizeze procesul pentru obținerea personalității juridice în acest termen, Centrul Local trebuie să se prezinte în fața Adunării Generale pentru a obține prelungirea acestui termen, tot în baza criteriilor de la Art. 88 alineatul 2.
 
 Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	a. dreptul de a participa la lucrările Adunării Generale: delegații tuturor Centrelor Locale; delegații Centrelor Locale suspendate și ai Grupurilor Candidat nu au drept de vot.
@@ -571,8 +551,7 @@ Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor Locale legal înființate (cu decizie de înființare), asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Candidat, numai sub îndrumarea unui Centru Local legal înființat.
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor Locale legal înființate și care întrunesc condițiile de la art. 31.
 	e. dreptul de a deschide cont bancar propriu: Centrele Locale cu personalitate juridică (filialele); Centrele Locale fără personalitate juridică (sucursalele) pot solicita girul unei filiale sau al ONCR.
-	f. obligația de a depune situația financiară anuală: toate Centrele Locale, filialele conform art. 88, iar sucursalele la trezorierul ONCR.
-	g. obligația de a depune alte raporturi financiare: toate Centrele Locale, conform art. 89.
+	f. obligația de a depune situația financiară anuală și alte documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și trimiterea unui raport financiar anual (pe baza acestor documente) către Consiliul Director.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele Locale.
 	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	j. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele Locale
@@ -678,10 +657,10 @@ Art. 109.
 	(4) Taxa de înscriere și cotizația nu se restituie membrilor care se retrag din organizație.
 
 Art. 110.
-	(1) Structurile ONCR (aparatul executiv și Centrele Locale cu personalitate juridică) pot desfășura activități economice directe cu caracter accesoriu (producerea de uniforme și alte efecte cercetășești, editarea de publicații, manuale, broșuri, pliante de profil, hărți, materiale filatelice, confecționarea de însemne și medalii, organizarea de activități sportive și recreative, acțiuni turistice, protecție și monitorizare ecologică, etc.) în strânsă legătură cu realizarea scopurilor organizației.
+	(1) Structurile ONCR (aparatul executiv și Centrele Locale) pot desfășura activități economice directe cu caracter accesoriu (producerea de uniforme și alte efecte cercetășești, editarea de publicații, manuale, broșuri, pliante de profil, hărți, materiale filatelice, confecționarea de însemne și medalii, organizarea de activități sportive și recreative, acțiuni turistice, protecție și monitorizare ecologică, etc.) în strânsă legătură cu realizarea scopurilor organizației.
 	(2) Activitățile economice directe se vor desfășura cu respectarea prevederilor legale. Operațiunile financiare vor fi evidențiate în partidă contabilă separată, iar rezultatele financiare se vor reflecta în bilanțul contabil anual.
 
-Art. 111. ONCR și filialele acesteia pot primi donații și/ sau sponsorizări în bani și/ sau bunuri de la persoane fizice sau juridice, dacă prin aceasta nu se aduce vreo atingere principiilor cercetășești și prestigiului ONCR. Sucursalele pot primi donații numai în numele ONCR.
+Art. 111. ONCR și Centrele Locale legal înființate pot primi donații și/ sau sponsorizări în bani și/ sau bunuri de la persoane fizice sau juridice, dacă prin aceasta nu se aduce vreo atingere principiilor cercetășești și prestigiului ONCR.
 
 Art. 112. Folosirea veniturilor asociației se realizează potrivit nomenclatorului financiar al ONCR (anexa 6).
 
@@ -691,9 +670,8 @@ Art. 113.
 
 Art. 114.
 	(1) Fiecare Centru Local poate să aibă ștampila sa proprie care să conțină sigla ONCR și denumirea Centrului Local.
-	(2) Fiecare Centru Local (sucursală) are dreptul de a solicita deschiderea de conturi bancare în numele acelei structuri, cu respectarea procedurii specifice pentru acest caz.
 
-Art. 115. Fiecare Centru Local (sucursală) aplică, în vederea realizării contabilității, procedurile financiare interne ale Organizației.
+Art. 115. Fiecare Centru Local aplică, în vederea realizării contabilității, procedurile financiare interne ale Organizației.
 
 Capitolul V. Recompense și sancțiuni
 ====================================
