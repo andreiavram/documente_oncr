@@ -178,7 +178,6 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 		a. dezbate și aprobă rapoartele de activitate ale Consiliului Director și Comisiei Naționale de Cenzori.
 		b. stabilește prioritățile (direcțiile) dezvoltării organizației pentru anul următor și adoptă deciziile ce se impun.
 		c. hotărăște înființarea și desființarea de Centre Locale, la propunerea Consiliului Director.
-		d. aprobă cererile Centrelor Locale care doresc obținerea personalității juridice.
 		e. dă descărcare de gestiune ordonatorului principal de credite.
 		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
 		g. stabilește valoarea cotizației anuale și a cuantumului virat în contul ONCR.
@@ -481,7 +480,7 @@ Art. 75. Trezorierul este numit în funcție de Consiliul Director, este subordo
 Secțiunea E - Structuri locale
 ==============================
 
-Art. 76. La nivel local, ONCR are filiale și sucursale, denumite Centre Locale. Acestea au nume proprii și se înființează de către ONCR, ca urmare a hotărârii Adunării Generale și a deciziei Consiliului Director.
+Art. 76. La nivel local, ONCR are filiale, denumite Centre Locale. Acestea au nume proprii și se înființează de către ONCR, ca urmare a hotărârii Adunării Generale și a deciziei Consiliului Director.
         	
 Art. 77. Centrul Local este alcătuit, din punct de vedere organizatoric, din patrule și unități, structurate pe ramuri de vârstă (lupișori, temerari, exploratori, seniori) și membrii acestora pot purta uniformă și însemne specifice.
         	
