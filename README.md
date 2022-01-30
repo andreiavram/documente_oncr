@@ -12,6 +12,8 @@ Dacă creați un branch nou, el va fi selectat apoi automat. Dacă vă întoarce
 
 Apoi, în branch-ul vostru, selectați fișierul în care veți să propuneți modificări (sau selectați Add file > Create new file din meniul din dreapta drop-down-ului pentru branch-uri). Odată deschis, aveți un buton de editare:
   
+  **musai musai să vă asigurați că sunteți pe branch-ul vostru, altfel pot apărea necazuri**
+  
   ![Screenshot 2022-01-30 131919](https://user-images.githubusercontent.com/2837718/151697421-d4e5eb33-e7e5-4ec5-8265-4b9d73a07cb3.png)
   
 Faceți ce modificări credeți că sunt necesare. Ideal, seturile de modificări (un set de modificări sunt schimbările înainte de a da "commit") au sens de sine stătător sau împreună cu altele, dar nu includ într-un singur set modificări care nu țin unele de altele (putem extrage și grupa mai multe seturi de modificări împreună, dar nu putem sparge o singură modificare în mai multe).
