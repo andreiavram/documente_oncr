@@ -298,7 +298,7 @@ B1 - Centrul Local
 
 Art. 38. Componenţă
 	(1) La nivel local, ONCR are filiale, numite Centre Locale.
-	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Candidat local, format din minimum 5 adulţi şi 20 copii şi/ sau tineri.
+	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Extern, în baza hotărârii Adunării Generale ONCR.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
 	(4) Centrele Locale se bucură de autonomie decizională şi au libertatea de asociere în scopul derulării de activităţi specifice şi păstrării identităţii.
 	(5) Centrul Local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamentul ONCR.
@@ -311,7 +311,7 @@ Art. 39. Atribuţii:
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
-Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
+Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
 ========================================
