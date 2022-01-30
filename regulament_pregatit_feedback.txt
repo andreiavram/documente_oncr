@@ -538,7 +538,7 @@ Art. 88.
 	(1) Centrul Local se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
 	(2) Condițiile necesare de îndeplinit sunt următoarele:
 		a. să cuprindă cel puțin două unități (25 - 30 membri)
-		b. să fi dovedit capacitate organizatorică și de inițiativă, pentru a fi integrat în structura ONCR.
+		b. să fi îndeplinit cel puțin criteriile minime pentru Nivelul 1 - Centre Locale în dezvoltare, în evaluarea IEDLOC.
 	(3) Centrele Locale astfel înființate au personalitate juridică. Filiala se constituie prin hotărârea Adunării Generale a ONCR. Personalitatea juridică se dobândește de la data înscrierii filialei în Registrul asociațiilor și fundațiilor.
 
 Art. 93.
@@ -556,12 +556,7 @@ Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale legal înființate; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
 	j. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele Locale
 	k. obligația de a declara la Adunarea Generală a Centrului Local patrimoniul și numărul de membri: toate Centrele Locale.
-	l. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, indiferent dacă Centrul Local este filială sau sucursală. Pentru a se încadra în această categorie, proiectele propuse trebuie să îndeplinească unul sau mai multe din următoarele criterii:
-	    (1) Proiectul angajează extern Centrul Local pe o perioadă de mai mult de un an
-	    (2) Proiectul are un buget total de mai mult de 50.000 EUR
-	  (3) Proiectul are o finanțare ale cărei condiții includ posibilitatea obligativității returnării finanțării în cazul neîndeplinirii unor obiective
-	  (4) Proiectul are/ caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale)
-	  (5) Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR.
+	l. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, conform condițiilor definite în Anexa IEDLOC.
 	m. Centrele Locale se pot asocia în rețele informale, conform Anexei 7.
 	n. obligația de a desfășura doar proiecte care, prin specificul lor, să se încadreze în desfășurarea programului educativ cercetășesc pentru membrii Centrului Local sau să aducă Centrului Local resursele necesare pentru a îndeplini același scop. Se acordă o perioadă de 3 ani de la adoptare pentru alinierea Centrelor Locale cu această obligație, exclusiv pentru proiectele asumate la momentul adoptării.
 
