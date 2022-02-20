@@ -362,7 +362,7 @@ Art. 46. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similar
 B4+1 - Grupuri de Cercetași
 ===========================
 
-Art. 46+1. În faza incipientă sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
+Art. 46+1. În faza incipientă a dezvoltării unui Centru Local sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
 
 Art. 46+2. Grupul de Cercetași este format din minim o patrulă, și poate exista fără un lider adult propriu.
 
@@ -370,7 +370,7 @@ Art. 46+3. Un Grup de Cercetași poate exista doar sub tutela unui Centru Local 
 
 Art. 46+4. Structura mentor își îndeplinește această atribuție în baza unui Plan de Mentorat
 
-Art. 46+5. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ de Centrul Local mentor;
+Art. 46+5. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ în Centrul Local mentor;
 
 Art. 46+6. Grupul de Cercetași se va organiza intern, în măsura în care numărul de membrii îi permite, informal, pe aceleași principii și structuri democratice cu cele din Centrele Locale - Adunare Generală, Consiliu al Grupului de Cercetași ales prin vot
 
