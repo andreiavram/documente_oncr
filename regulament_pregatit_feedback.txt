@@ -665,38 +665,67 @@ Art. 106.
 
 Art. 107. Centrele Locale care nu se supun procedurilor de desființare vor răspunde în justiție.
 
-Art. 107+1. Un Centru Local poate mentora Grupuri de Cercetași care au, în total, nu mai mult de 1/2 din numărul total de membri ai acelui Centru Local.
+Art. 107+1. Centrele Locale pot mentora unul sau mai multe Grupuri de Cercetași, în următoarele condiții:
+	(1) Numărul de membri al Grupurilor de cercetași, în total, nu depășește 1/2 din numărul total de membri ai Centrului Local la momentul asumării Planului de Mentorat.
+	(2) Centrul Local a obținut acreditarea de Centru Local Mentor de la Consiliului Director
+
+Art. 107+1. Acreditarea de Centru Local Mentor este conferită Centrelor Locale, la cerere, de către Consiliul Director, în urmă verificării următoarelor condiții:
+	(1) Centrul Local are lideri care au experiență relevantă și actuală în lucrul cu copii și tineri și în viața Centrului Local și care au parcurs, cu maxim un an înaintea obținerii acreditării, stagiul pentru mentoratul Grupurilor de Cercetași
+	(2) Dacă Centrul Local mentorează sau a mentorat în trecut Grupuri de Cercetași, acesta desfășoară / a desfășurat responsabil procesele respective, îndeplinind cu bună credință acțiunile din Planurile de Mentorat
+	(3) Centrul Local nu este sub efectul unei sancțiuni și are un istoric care îl recomandă pentru a fi mentor pentru Grupuri de Cercetași
+	(4) Centrul Local îndeplinește criteriile minime IEDLOC pentru mentorat
+
+Art. 107+1. Acreditarea poate fi ridicată mai repede de termenul de doi ani dacă Centrul Local nu mai îndeplinește criteriile de acreditare.
+Art. 107+1. Numărul de Grupuri de Cercetași pe care un Centru Local le poate mentora simultan este specificat în IEDLOC.
+
 
 E2. Grupul de cercetași
 =======================
 
 Art. 107+1. Alcătuirea Grupului de Cercetași urmărește îndeaproape organizarea de Centru Local, definită la Art. 77.
 
-Art. 107+2. În grupurile de Cercetași, una din unități poate fi, prin excepție, formată dintr-o singură patrulă. Liderul care îndrumă unitatea trebuie să fie lider ONCR, dar poate să nu facă parte din Grupul de Cercetași; este ales de către membrii unității, în baza planului de mentorat și a propunerilor făcute de structura mentor.
+Art. 107+2. În grupurile de Cercetași, una din unități (sau unitatea, în cazul în care exită doar una) poate fi, prin excepție, formată dintr-o singură patrulă. Liderul care îndrumă unitatea trebuie să fie lider ONCR, dar poate să nu facă parte din Grupul de Cercetași; este ales de către membrii unității, în baza planului de mentorat și a propunerilor făcute de structura mentor.
 
 Art. 107+3. Grupurile de Cercetași există exclusiv sub mentoratul și gestiunea administrativă a unei structuri mentor, care de regulă este un Centru Local care îndeplinește condițiile minime pentru această situație. 
 
 Art. 107+4. În situații excepționale, în care nu este posibilă arondarea la un Centru Local din proximitatea geografică, Consiliul Director poate împuternici orice alt Centru Local eligibil să mentoreze grupul de cercetași, cu acordul acelui Centru Local. Alternativ, Consiliul Director poate împuternici nominal un grup de minim 3 lideri din ONCR care să asigure mentoratul grupului de cercetași, acesta primind formal mentoratul Consiliului Director; într-o astfel de situație excepțională, liderii și membrii grupului de cercetași vor participa la activități cercetășești și administrative în Centrele Locale ale liderilor desemnați ca mentori.
 
-Art. 107.5. Planul de mentorat. 2 lideri. AG-urile ambelor. 
+Art. 107.5. Pentru înființarea unui Grup de Cercetași sunt necesare:
+	(1) Acordul unui grup informal de persoane de a forma împreună un Grup de cercetași
+	(2) Elaborarea, de către o structură mentor alături de Grupul de cercetași a unui Plan de Mentorat pe o perioadă de 1 an, care să descrie în ce condiții se va desfășura mentoratul și care conține minim:
+		(a) angajamentul reciproc al Grupului de Cercetași și al structurii mentor pentru dezvoltarea cercetășiei în Grupul de Cercetași, 
+		(b) obiective și un plan de acțiune concret cu privire la participarea Grupului de cercetași la activități cercetășești și organizatorice ale structurii mentor, precum și activitățile proprii Grupului de cercetași
+		(c) termenele pentru planificarea și evaluarea planului de mentorat
+		(d) persoanele desemnate din partea Grupului de cercetași și a stucturii mentor pentru urmărirea implementării planului de mentorat
+	(3) Acordul unei structuri de a prelua mentoratul Grupului de cercetași, în baza Planului de mentorat de la punctul (2), în condițiile art. 107+3 și 107+4; în situația din art. 107+3, acordul este dat printr-o hotărâre de Adunare Generală; în situația art. 107.4, acordul este dat printr-o decizie a Consiliului Director.
+	(4) Adițional, în cazul în care structura mentor este un Centru Local, este necesar și avizul Consiliului Director pentru Planul de mentorat.
 
-Art. 107.6. Grupurile de Cercetași se pot înființa în aceeași localitate în care există deja un Centru Local ONCR doar dacă
-(1) Structura mentor este un Centru Local din aceeași localitate și
-(2) Există un motiv administrativ justificat pentru organizarea ca grup de cercetași (și nu ca unitate în Centrele Locale existente: pregătirea înființării unui Centru Local nou, preluarea de Centrul Local mentor a unor Centre Locale în dificultate)
+Art. 107.5. Planul de mentorat poate fi reînnoit după perioada de 1 an și în situații excepționale poate fi modificat în timpul implementării, cu acordul tuturor părților implicate, exprimat conform Art. 107.5, punctele (3) și (4).
+Art. 107.5+0. Cerințele minime pentru Planul de Mentorat sunt elemente de procedură internă a ONCR.
+
+Art. 107+5+0. Activitățile Grupului de cercetași pot avea loc doar cu participarea unor reprezentanți ai structurii mentor sau cu acordul explicit al structurii mentor dat în scris pentru fiecare activitate în parte; în această a doua situație, este obligatoriu ca liderii care organizează activitatea din Grupul de Cercetași să fi participat la activități ale Centrului Local Mentor în prealabil și să fi parcurs stagiul de inițiere în cercetășie.
+Art. 107+5+1. În vederea pregătirii Grupului de cercetași pentru autonomie, structura mentor poate asigura un cont distinct în bancă pentru gestiunea financiară autonomă a Grupului de cercetași, structura mentor asumându-și respectarea procedurilor financiare pentru acel cont;
+Art. 107+5+2. Grupul de Cercetași poate avea o gestiune separată în softul ONCR, subordonată structurii mentor.
+Art. 107+5+3. Grupul de Cercetași poate participa la evenimente interne sau externe și poate dezvolta parteneriate și accesa finanțări doar prin intermediul structurii mentor, cu participarea activă a persoanelor desemnate din aceasta.
+
+
+Art. 107.6. Grupurile de Cercetași se pot înființa în aceeași localitate în care există deja un Centru Local ONCR doar dacă 
+	(1) Structura mentor este un Centru Local din aceeași localitate și
+	(2) Există un motiv administrativ justificat pentru organizarea ca grup de cercetași (și nu ca unitate în Centrele Locale existente: pregătirea înființării unui Centru Local nou, preluarea de Centrul Local mentor a unor Centre Locale în dificultate)
 
 Art. 107.7 Membri grupurilor de cercetași nu pot deveni alumni în primii 3 ani de existență ai grupului din care fac parte
 
-!!! Art. 107+5. Grupurile de cercetași pot solicita și parcurge, alături de structura mentor, evaluarea IEDLOC pentru Centru Local (nivel 1); în situația împlinirii unui punctaj minim, cu recomandarea structurii mentor, grupul de cercetași poate solicita Adunării Generale a ONCR înființarea sa ca Centru Local.
+Art. 107+5. Grupurile de cercetași pot solicita și parcurge, alături de structura mentor, evaluarea IEDLOC pentru Centru Local (nivel 1); în situația împlinirii condițiilor minime, cu recomandarea scrisă a structurii mentor, grupul de cercetași poate solicita Adunării Generale a ONCR înființarea sa ca Centru Local.
 
 Art. 107.8 Grupurile de Cercetași vor urmări impicarea tinerilor în luarea deciziilor și, în funcție de dimensiunea grupului, deciziile se vor lua prin mecanisme democratice care să ofere legitimitate rezultatelor, astfel:
-(1) deciziile interne importante ale vor fi luate prin Adunarea Generală a membrilor grupului
-(2) în cazul în care sunt suficienți adulți, grupul poate desemna un Consiliu al Grupului de Cercetași format din minim 3 adulți, care funcționează similar cu un Consiliu al Centrului Local
+	(1) deciziile interne importante ale vor fi luate prin Adunarea Generală a membrilor grupului
+	(2) în cazul în care sunt suficienți adulți, grupul poate alege un Consiliu al Grupului de Cercetași format din minim 3 adulți, care funcționează similar cu un Consiliu al Centrului Local
 
 Art. 107.9. Membri grupurilor de cercetași
-(1) participă cu invitați cu titlul de observator fără drept de vot la Adunările Generale ale Centrului Local mentor, unde li se oferă un spațiu de exprimare al opiniilor / pozițiilor grupului.
-(2) pot participa la întâlnirile Consiliului Centrului Local mentor, la invitația acestuia
-(2) nu pot candida pentru poziții în structurile de conducere / control ale structurilor naționale sau locale ale ONCR
-(3) pot trimite delegați fără drept de vot la Adunarea Generală a ONCR
+	(1) participă cu invitați cu titlul de observator fără drept de vot la Adunările Generale ale Centrului Local mentor, unde li se oferă un spațiu de exprimare al opiniilor / pozițiilor grupului.
+	(2) pot participa la întâlnirile Consiliului Centrului Local mentor, la invitația acestuia
+	(3) nu pot candida pentru poziții în structurile de conducere / control ale structurilor naționale sau locale ale ONCR
+	(4) pot trimite delegați fără drept de vot la Adunarea Generală a ONCR
 
 Art. 107.10. Grupul de cercetași își încetează existența:
 	(1) când devine Centru Local
