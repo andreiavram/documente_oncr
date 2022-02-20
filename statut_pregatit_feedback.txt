@@ -312,6 +312,8 @@ Art. 39. Atribuţii:
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
+Art. 39+1. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
+
 Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
@@ -382,8 +384,6 @@ Art. 46+9. Grupul de Cercetași își încetează existența:
 	(1) când devine Centru Local
 	(2) dacă nu respectă Planul de Mentorat
 	(3) prin decizia membrilor
-
-Art. 46+10. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
 
 B5 - Alte structuri locale
 ==========================
