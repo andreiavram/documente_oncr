@@ -177,7 +177,7 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 	(1) Anuale:
 		a. dezbate și aprobă rapoartele de activitate ale Consiliului Director și Comisiei Naționale de Cenzori.
 		b. stabilește prioritățile (direcțiile) dezvoltării organizației pentru anul următor și adoptă deciziile ce se impun.
-		c. hotărăște înființarea și desființarea de Centre Locale, la propunerea Consiliului Director.
+		c. hotărăște înființarea și desființarea de Centre Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, la propunerea Consiliului Director.
 		d. aprobă cererile Centrelor Locale care doresc obținerea personalității juridice.
 		e. dă descărcare de gestiune ordonatorului principal de credite.
 		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
@@ -265,6 +265,7 @@ Art. 46.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Atribuțiile președintelui, vicepreședintelui și trezorierului sunt prezentate în extenso, în fișele posturilor respective, din prezentul Regulament.
 	(6) Toți membrii sunt responsabili de a păstra o comunicare constantă cu colegii de Consiliu Director, răspunzând într-un timp rezonabil solicitărilor cărora le sunt adresate.
+	(7) Consiliul Director mandatează, la început de mandat, câte o persoană dintre membrii săi pentru a gestiona relația cu fiecare Centru cercetășesc. În responsabilitățile persoanelor mandatate intră participarea la întâlnirile anuale pentru planificarea și monitorizarea implementării strategiei, sprijin în stabilirea și implementarea strategiei, asigurarea unui dialog deschis și funcțional între Consiliul Centrului cercetășesc și Consiliul Director al ONCR.
 
 Art. 47. Secretarul Consiliului Director
 	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
@@ -311,7 +312,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	g. aprobă structura pe responsabilități a Echipei Executive, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului Executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Coordonatorii Naționali pentru fiecare obiectiv strategic.
-	j. emite decizii de autorizare și suspendare a Centrelor Locale, avizează propunerile de înființare și desființare a Centrelor Locale.
+	j. emite decizii de autorizare și suspendare a Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, avizează propunerile de înființare și desființare a Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală.
 	k. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale Centrelor Locale respective.
 	l. propune rezoluții Adunării Generale.
 	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe.
@@ -327,6 +328,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil.
 	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
+	z. desemnează o persoană ca membru în fiecare Consiliu de Centru Cercetășesc.
 
 Art. 53. Atribuțiile Președintelui, Vicepreședintelui, Comisarului Internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -367,7 +369,7 @@ Art. 62. Atribuțiile Echipei Executive sunt următoarele:
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
 	g. asigură comunicarea eficientă, la nivel național, prin intermediul secretariatului.
 	h. sprijină funcționarea Centrelor Locale.
-	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale, punând aceste informații la dispoziția secretarului CD.
+	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, punând aceste informații la dispoziția secretarului CD.
 	j. ține evidența membrilor și Centrelor Locale ale ONCR.
 	k. asigură funcționarea secretariatului ONCR din sediul Consiliului Director.
 	l. asigură multiplicarea documentelor ONCR periodice, a pliantelor, broșurilor etc, și distribuirea lor utilizatorilor.
@@ -444,6 +446,7 @@ Art. 69. Coordonatorii Naționali sunt membri ai Consiliului Director care au di
 Art. 70. Responsabilii Naționali urmăresc implementarea de către echipele executive ale planurilor operaționale respective în vederea asigurării încadrării rezultatelor acestora în strategia ONCR.
 
 Art. 71. Coordonatorii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
+
 e. Directorul Executiv
 
 Art. 72. 
@@ -668,6 +671,70 @@ Art. 104.
 		b. raportează Adunării Generale a centrului rezultatele activității sale.
 	(3) Cenzorul participă la ședințele Consiliului Centrului Local, fără drept de vot.
 
+E5 Alte Structuri Locale
+
+E5.1 Centre Cercetășești
+
+Art 104+1 Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale cu personalitate juridică, denumite Centre Cercetășești, în vederea desfăşurării activităţilor prevăzute de art. 110 din Regulament, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
+
+Art 104+2 Atribuțiile Centrului cercetășesc
+	a. facilitează activități cercetășești
+	b. facilitează activități de educație non-formală pentru copii, tineri și adulți
+	c. Organizarea şi desfăşurarea activităţilor de schimburi de tineri şi colaborare internaţională;
+	d. Oferirea de facilităţi de cazare, inclusiv găzduirea de parcuri pentru rulote, campinguri și tabere;
+	e. Organizează şi desfășoară altor activităţi asistenţă turistică;
+	f. Coordonează activitatea structurii la nivel local;
+	g. Identifică și gestionează resursele materiale și financiare;
+	h. Reprezintă membrii în cadrul Adunării Generale;
+	i. Asigură comunicarea membrilor structurii locale cu ceilalți membri ai ONCR sau cu structurile acesteia.
+
+Art 104+3 Procedura de înființare a Centrului Cercetășesc
+	(1)  Existența unui grup format din cel puțin 3 adulți cercetași peste 18 ani, din care cel puțin o persoană să aibă peste 21 ani, care se întrunesc și își exprimă dorința de a crea un Centru Cercetășesc, care se materializează prin întocmirea unui proces verbal înaintat Consiliului Director;
+	(2) Procesul verbal conține adresa sediului și componența Consiliului de conducere, plus documente anexe (lista de membri, datele personale ale membrilor din conducere, dovada de spațiu).
+	(3) Pe baza procesului verbal și a documentelor anexe, Consiliul Director emite o autorizație provizorie de funcționare, valabilă până la prima Adunare Generală, dar nu mai puțin de șase luni.
+	(4) pentru această perioadă, Centrul are următoarele obligații:
+		a. să trimită Consiliului Director evaluări asupra activităților desfășurate
+		b. să plătească cotizația pentru membrii săi
+		c. să organizeze activități conform atribuțiilor structurii
+
+Art 104+4 
+	(1) Centrul Cercetășesc se consideră legal constituit în urma emiterii unei decizii de înființare, de către Consiliul Director, pe baza hotărârii Adunării Generale.
+	(2) Condițiile necesare de îndeplinit sunt următoarele:
+		a. să fi dovedit capacitate organizatorică și de inițiativă, pentru a fi integrat în structura ONCR.
+		b. să aibă dezvoltat un statut și un regulament de funcționare propriu.
+		c. să prezinte o strategie pe termen mediu și/sau lung de dezvoltare a Centrului cercetășesc în acord cu viziunea și misiunea organizației.
+		d. are putere financiară dovedită prin atragere de fonduri.
+		e. dovedește capacitate de gestiune financiară.
+		f. activul patrimonial, alcătuit din aportul în natură sau în bani al asociaților, este în valoare de cel puțin dublul salariului minim pe economie, la data respectivă.
+
+Art 104+5 Drepturi și obligații
+	a. dreptul de a participa la lucrările Adunării Generale fără drept de vot;
+	b. dreptul de a participa la activități naționale și internaționale;
+	c. dreptul de a deschide cont bancar propriu;
+	d. obligația depunerii situației financiare anuale și a altor documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și realizarea unui raport financiar anual (pe baza acestor documente) care este trimis Consiliului Director;
+	e. obligația de a vira cuantumul cotizațiilor în contul ONCR;
+	f. obligația de a prezenta Adunării Generale un raport anual de activitate;
+	g. obligația de a organiza Adunarea Generală a Centrului cercetășesc;
+	h. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație. Pentru a se încadra în această categorie, proiectele propuse trebuie să îndeplinească unul sau mai multe din următoarele criterii:
+	    (1) Proiectul angajează extern Centrul cercetășesc pe o perioadă de mai mult de un an;
+	    (2) Centrul gestionează în proiect bugete mai mari de 15.000 de EUR;
+	    (3) Proiectul are un buget total de mai mare de 50.000 EUR;
+	    (4) Proiectul are o finanțare ale cărei condiții includ posibilitatea obligativității returnării finanțării în cazul neîndeplinirii unor obiective;
+	    (5) Proiectul are/ caută o finanțare din bani publici la nivel național (Ministere, fonduri naționale);
+	    (6)Proiectul se desfășoară în parteneriat cu un potențial partener strategic și instituțional de nivel național al ONCR;
+	i. Obligația de a deservi cu prioritate membrii organizației.
+
+Art. 104+6 Funcționarea Centrului Cercetășesc
+	(1) Forul de conducere al Centrului cercetășesc este Adunarea Generală, fiind legal constituită în prezența a cel puțin 2/3 din membrii titulari ai centrului, care au împlinit 18 ani, au depus promisiunea și au cotizația plătită la zi.
+	(2) Adunarea Generală a Centrului cercetășesc se desfășoară în același mod și are aceleași atribuții ca Adunarea Generală a Centrului Local.
+	(3) La Adunarea Generală, este invitată fără drept de vot, persoana mandatată din Consiliul Director pentru a ține legătura cu Centrul cercetășesc.
+	(4) Între sesiunile Adunării Generale, conducerea centrului este exercitată de Consiliul Centrului cercetășesc, format din Președinte și minim 2 membri, din care unul este desemnat de către Consiliul Director al ONCR.
+	(5) Atribuțiile membrilor centrului sunt prevăzute în fișele de post, care se stabilesc și se aprobă de Adunarea Generală.
+	(6) Președintele Centrului cercetășesc, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel puțin 21 de ani. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului Local.
+	(7) Consiliul Centrului Cercetășesc se întrunește lunar sau ori de câte ori este nevoie, la convocarea Președintelui, iar deciziile se iau cu votul majorității simple.
+	(8) Consiliul Centrului Cercetășesc are aceleași atribuții ca un Consiliu de Centru local. 
+	(9) Cenzorul (comisia de cenzori pentru Centre cu mai mult de 100 de membri) este ales de către Adunarea Generală a Centrului Cercetășesc și are atribuții similare cu cele ale cenzorului (comisiei de cenzori) pentru un Centru Local. 
+	(10) Centrele Cercetășești se desființează prin decizia Adunării Generale pentru lipsă de activitate, comunicare, neplata cotizației, neprezentarea la 2 Adunări Generale succesive și urmează aceiași procedură de desființare ca a Centrelor Locale.
 
 Capitolul IV. Management financiar
 ==================================
