@@ -177,7 +177,7 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 	(1) Anuale:
 		a. dezbate și aprobă rapoartele de activitate ale Consiliului Director și Comisiei Naționale de Cenzori.
 		b. stabilește prioritățile (direcțiile) dezvoltării organizației pentru anul următor și adoptă deciziile ce se impun.
-		c. hotărăște înființarea și desființarea de Centre Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, la propunerea Consiliului Director.
+		c. hotărăște înființarea și desființarea de Centre Locale, a Centrelor Cercetășești și a Structurilor umbrelă, la propunerea Consiliului Director.
 		d. aprobă cererile Centrelor Locale care doresc obținerea personalității juridice.
 		e. dă descărcare de gestiune ordonatorului principal de credite.
 		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
@@ -312,7 +312,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	g. aprobă structura pe responsabilități a Echipei Executive, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului Executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Coordonatorii Naționali pentru fiecare obiectiv strategic.
-	j. emite decizii de autorizare și suspendare a Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, avizează propunerile de înființare și desființare a Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală.
+	j. emite decizii de autorizare și suspendare a Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă, avizează propunerile de înființare și desființare a Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă.
 	k. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale Centrelor Locale respective.
 	l. propune rezoluții Adunării Generale.
 	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe.
@@ -369,7 +369,7 @@ Art. 62. Atribuțiile Echipei Executive sunt următoarele:
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
 	g. asigură comunicarea eficientă, la nivel național, prin intermediul secretariatului.
 	h. sprijină funcționarea Centrelor Locale.
-	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale, a Centrelor Cercetășești și a Centrelor de coordonare locală, punând aceste informații la dispoziția secretarului CD.
+	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă, punând aceste informații la dispoziția secretarului CD.
 	j. ține evidența membrilor și Centrelor Locale ale ONCR.
 	k. asigură funcționarea secretariatului ONCR din sediul Consiliului Director.
 	l. asigură multiplicarea documentelor ONCR periodice, a pliantelor, broșurilor etc, și distribuirea lor utilizatorilor.
