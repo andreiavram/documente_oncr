@@ -149,7 +149,7 @@ Art. 26 Atribuţii
 		a. dezbate raportul de activitate al Consiliului Director, al Echipei Executive, al Comisiei Naţionale de Cenzori;
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
-		d. hotărăște înființarea şi desființarea Centrelor Locale;
+		d. hotărăște înființarea şi desființarea Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă;
 		e. aprobă cererile Centrelor Locale care doresc să obțină personalitate juridică și hotărăște cu privire la excluderea Centrelor Locale cu personalitate juridică care nu mai sunt conforme;
 		f. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
 		g. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
@@ -201,7 +201,7 @@ Art. 30. Atribuţii:
 	g. aprobă structura pe responsabilități a Echipei Executive, angajările executivilor, fișele de post și fondul de salarii;
 	h. decide conţinutul contractului de management al Directorului Executiv şi controlează activitatea acestuia;
 	i. numește dintre membrii săi Coordonatori Naţionali pentru fiecare prioritate strategică;
-	j. decide autorizarea și suspendarea Centrelor Locale; avizează propunerile de înființare și desființare a Centrelor Locale;
+	j. decide autorizarea și suspendarea Centrelor Locale; avizează propunerile de înființare și desființare a Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă;
 	k. propune rezoluţii pentru Adunarea Generală;
 	l. aprobă, la propunerea Comisarului Internaţional, componenţa contingentelor de cercetași români pentru participarea la activități internaționale în afara ţării;
 	m. prezintă Adunării Generale evaluări asupra activităţilor naţionale;
@@ -266,14 +266,14 @@ Art. 35. Atribuţii:
 	e. pregăteşte din punct de vedere administrativ şedințele Consiliului Director şi întâlnirile echipelor naţionale;
 	f. asigură comunicarea eficientă la nivel naţional;
 	g. sprijină funcționarea Centrelor Locale pe baza deciziei Consiliului Director, sub îndrumarea Coordonatorilor Naționali;
-	h. se asigură de îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalităţii juridice Centrelor Locale;
+	h. se asigură de îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalităţii juridice Centrelor Locale, Centrelor Cercetășești și a Structurilor umbrelă;
 	i. asigură secretariatul ONCR;
 	j. publică documentele ONCR periodice, cărți, broșuri, pliante etc.;
 	k. gestionează finanțele și patrimoniul ONCR;
 	l. produce și comercializează însemne, uniforme și alte materiale cercetăşeşti;
 	m. facilitează participarea membrilor ONCR la activități cercetăşeşti naționale și internaționale;
-	n. asigură legătura funcțională dintre Consiliul Director și Centrele Locale;
-	o. încurajează și sprijină participarea Centrelor Locale la viața asociativă prin proiecte, evenimente, seminarii etc.;
+	n. asigură legătura funcțională dintre Consiliul Director și Structurile Locale;
+	o. încurajează și sprijină participarea Structurilor Locale la viața asociativă prin proiecte, evenimente, seminarii etc.;
 	p. pregătește Adunarea Generală pe baza deciziilor Consiliului Director;
 	q. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Coordonatorilor Naționali.
 
@@ -362,9 +362,30 @@ Art. 46. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similar
 B5 - Alte structuri locale
 ==========================
 
-Art. 47. Structuri locale
-	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale (filiale) cu sau fără personalitate juridică în vederea desfăşurării activităţilor prevăzute de art. 48 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
-	b. Autorizarea acestor structuri se face pe baza unor proceduri ce vor fi stabilite de Consiliul Director în termen de 60 de zile de la aprobarea actului adiţional de către Adunarea Generală a organizaţiei.
+B5.1 Centre Cercetășești
+
+Art. 47. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale cu personalitate juridică, denumite Centre Cercetășești, în vederea desfăşurării activităţilor prevăzute de art. 49 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
+
+Art. 47+1. Atribuții:
+	a. facilitează activități cercetășești
+	b. facilitează activități de educație non-formală pentru copii, tineri și adulți
+	c. Organizarea şi desfăşurarea activităţilor de schimburi de tineri şi colaborare internaţională;
+	d. Oferirea de facilităţi de cazare, inclusiv găzduirea de parcuri pentru rulote, campinguri și tabere;
+	e. Organizarea şi desfăşurarea altor activităţi asistenţă turistică;
+
+Art.47+2. Centrele Cercetășești se desființează prin decizia Adunării Generale pentru lipsă de activitate, comunicare, neplata cotizației, neprezentarea la 2 Adunări Generale succesive.
+
+B5.2 Structură umbrelă
+
+Art 47+3. Consiliul Director al organizației poate autoriza înființarea unor structuri fără personalitate juridică, denumite Structuri umbrelă, înființate obligatoriu la nivelul localităților și/sau județelor unde există mai mult de un Centru Local.
+
+Art. 47+4. Atribuții:
+	a. Asigură coordonarea (fără subordonare) între grupuri a activităților Centrelor Locale și oferă un cadru formal de colaborare și dialog pentru identificarea de proiecte și nevoi comune.
+	b. Permite Centrelor Locale să își exprime părerea despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
+	c. Coordonează abordarea sponsorilor, partenerilor strategici și a partenerilor instituționali la nivel local sau județean.
+	d. Oferă un cadru pentru îmăpărtășirea de experiențe cu scopul de a învăța din reușitele și greșelile celorlalte grupuri.
+	
+Art. 47+5 Structurile umbrelă se desființează prin decizia Consiliului Director în situația în care în urma desființării unor Centre Locale din localitate/județ, rămâne un singur Centru Local în Structura umbrelă. 
 
 Capitolul V. Management financiar
 =================================
@@ -399,7 +420,7 @@ Art. 53. Ordonatorii de credit ONCR sunt după cum urmează:
 	c. semnarea bilanţului anual: Contabilul Autorizat şi Directorul Executiv.
 
 Art 54. Desființarea.
-	(1) Toate bunurile Centrelor Locale care se desfiinţează trec în administrarea ONCR; Consiliul Director dispune folosirea acestora.
+	(1) Toate bunurile Structurilor Locale care se desfiinţează trec în administrarea ONCR; Consiliul Director dispune folosirea acestora.
 	(2) În cazul dizolvării Asociaţiei, patrimoniul acesteia se împarte Centrelor Locale sau grupurilor de cercetaşi rămase.
 
 Capitolul VI. Regulament, Elemente de identificare şi dispoziţii de aplicare
