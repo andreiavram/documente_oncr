@@ -547,7 +547,8 @@ Art. 88.
 		b. să fi îndeplinit cel puțin criteriile minime pentru Nivelul 1 - Centre Locale în dezvoltare, în evaluarea IEDLOC.
 		c. în cazul Grupurilor externe care cer să devină Centre Locale este necesară recomandarea din partea Centrului Local Mentor.
 	(3) Centrele Locale astfel înființate au personalitate juridică. Filiala se constituie prin hotărârea Adunării Generale a ONCR. Personalitatea juridică se dobândește de la data înscrierii filialei în Registrul asociațiilor și fundațiilor.
-	(4) Toate Centrele Locale la înființare semnează un contract cu ONCR, prin care primesc susținerea organizației pentru a-și desfășura activitatea și a reprezenta local ONCR, drepturi care pot fi suspendate de Consiliul Director și retrase de Adunarea Generală.
+	(4) Toate Centrele Locale la înființare semnează un contract cu ONCR, prin reprezentantul legal, în numele entității, prin care primesc susținerea organizației pentru a-și desfășura activitatea și a reprezenta local ONCR, drepturi care pot fi suspendate de Consiliul Director și retrase de Adunarea Generală.
+	(5) Formatul contractului este decis de Consiliul Director și conține minimum următoarele elemente: numele și logo-ul entității, drepturile și obligațiile Centrelui Local, informații despre reprezentarea cercetășiei (misiunea, viziune, valori, reguli de brand etc.), angajamentul față de formare, angajamentul față de dezvoltarea comunității, asumarea respectării Regulamentului, Statutului și a deciziilor AG și CD și condițiile de reziliere a contractului, fără a se limita la acestea.
 
 Art. 93.
 	(1) Hotărârea Adunării Generale de înființare a unui Centru Local expiră într-un an.
