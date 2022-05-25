@@ -177,7 +177,7 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 	(1) Anuale:
 		a. dezbate și aprobă rapoartele de activitate ale Consiliului Director și Comisiei Naționale de Cenzori.
 		b. stabilește prioritățile (direcțiile) dezvoltării organizației pentru anul următor și adoptă deciziile ce se impun.
-		c. hotărăște înființarea și desființarea de Centre Locale, a Centrelor Cercetășești și a Structurilor umbrelă, la propunerea Consiliului Director.
+		c. hotărăște înființarea și desființarea de Centre Locale și a Centrelor Cercetășești, la propunerea Consiliului Director.
 		d. aprobă cererile Centrelor Locale care doresc obținerea personalității juridice.
 		e. dă descărcare de gestiune ordonatorului principal de credite.
 		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director și membrii Comisiei Naționale de Cenzori; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
@@ -312,7 +312,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	g. aprobă structura pe responsabilități a Echipei Executive, angajările personalului retribuit, fișele de post și fondul de salarii.
 	h. decide conținutul contractului de management al Directorului Executiv și controlează activitatea acestuia.
 	i. numește dintre membrii săi Coordonatorii Naționali pentru fiecare obiectiv strategic.
-	j. emite decizii de autorizare și suspendare a Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă, avizează propunerile de înființare și desființare a Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă.
+	j. emite decizii de autorizare și suspendare a Centrelor Locale și a Centrelor Cercetășești, avizează propunerile de înființare și desființare a Centrelor Locale și a Centrelor Cercetășești.
 	k. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale Centrelor Locale respective.
 	l. propune rezoluții Adunării Generale.
 	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe.
@@ -369,7 +369,7 @@ Art. 62. Atribuțiile Echipei Executive sunt următoarele:
 	f. elaborează lunar sau ori de câte ori este necesar, rapoarte de activitate, pe care le trimite membrilor Consiliului Director sau le prezintă în ședințele acestuia.
 	g. asigură comunicarea eficientă, la nivel național, prin intermediul secretariatului.
 	h. sprijină funcționarea Centrelor Locale.
-	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale, a Centrelor Cercetășești și a Structurilor umbrelă, punând aceste informații la dispoziția secretarului CD.
+	i. verifică îndeplinirea condițiilor prevăzute în Regulament cu privire la autorizarea, înființarea, suspendarea, desființarea și acordarea personalității juridice Centrelor Locale și a Centrelor Cercetășești, punând aceste informații la dispoziția secretarului CD.
 	j. ține evidența membrilor și Centrelor Locale ale ONCR.
 	k. asigură funcționarea secretariatului ONCR din sediul Consiliului Director.
 	l. asigură multiplicarea documentelor ONCR periodice, a pliantelor, broșurilor etc, și distribuirea lor utilizatorilor.
@@ -736,45 +736,6 @@ Art. 104+6 Funcționarea Centrului Cercetășesc
 	(9) Cenzorul (comisia de cenzori pentru Centre cu mai mult de 100 de membri) este ales de către Adunarea Generală a Centrului Cercetășesc și are atribuții similare cu cele ale cenzorului (comisiei de cenzori) pentru un Centru Local. 
 	(10) Centrele Cercetășești se desființează prin decizia Adunării Generale pentru lipsă de activitate, comunicare, neplata cotizației, neprezentarea la 2 Adunări Generale succesive și urmează aceiași procedură de desființare ca a Centrelor Locale.
 
-E5.2 Structură umbrelă
-
-Art. 104+7 Consiliul Director al organizației poate autoriza înființarea unor structuri fără personalitate juridică, denumite structuri umbrelă, înființate obligatoriu la nivelul localităților și/sau județelor unde există mai mult de un Centru Local. Toate Centrele Locale dintre localitate și/sau județ fac parte de drept din Structura umbrelă locală și/sau Structura umbrelă județeană.
-
-Art. 104+8 Atribuții:
-	a. Asigură coordonarea (fără subordonare) între grupuri a activităților Centrelor Locale și oferă un cadru formal de colaborare și dialog pentru identificarea de proiecte și nevoi comune.
-	b. Permite Centrelor Locale să își exprime părerea despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
-	c. Coordonează abordarea sponsorilor, partenerilor strategici și a partenerilor instituționali la nivel local sau județean.
-	d. Oferă un cadru pentru îmăpărtășirea de experiențe cu scopul de a învăța din reușitele și greșelile celorlalte grupuri.
-	
-Art. 104+9 
-	(1) Procedură de înființare
-		a.  Existența a cel puțin 2 Centre Locale la nivelul localității și/sau la nivelul județului, reprezentată de cel puțin o persoană cu vârsta de minim 18 ani din fiecare Centru Local, care se materializează prin întocmirea unei proces verbal înaintate Consiliului Director. 
-		b. în cazul în care există mai multe Centre Locale în aceiași localitate și cel puțin un alt Centru Local în județ, se vor înființa obligatoriu o Structură umbrelă locală și o Structură umbrelă județeană.
-		c. Procesul verbal conține numele Centrelor Locale ce vor face parte din structură și datele de contact ale reprezentaților fiecărui Centru Local.
-		d. Pe baza procesului verbal, Consiliul Director emite o decizie de înființare a structurii umbrelă locale, respectiv o decizie de înființare a structurii umbrelă județeană.
-	(2) în urma înființării unui Centru Local nou într-o localitate sau județ unde există deja o Structură umbrelă, Centrul Local devine automat parte din Structura / structurile umbrelă.
-
-Art. 104+10 Drepturi și obligații ale Centrelor Locale parte din Structura umbrelă:
-	(1) dreptul de a organiza activități locale și regionale comune;
-	(2) dreptul de a crea propriile mecanisme interne (acces comun la resurse, baze de echipament comun, spații comune de activități etc);
-	(3) obligația de participa la toate întâlnirile Structurii umbrelă și dreptul de a-ți exprima votul;
-	(4) obligația de a comunica procesele verbale ale întâlnirilor Structurilor umbrelă către toate Centrele Locale implicate, Consiliului Director și Directorului Executiv;
-	(5) obligația de a aduce în discuție în Structura umbrelă minim acele proiecte care au potențialul de a le influența activitatea sau parteneriatele celorlalte Centre Locale (proiecte cu risc, proiecte cu vizibilitate mare, activități care au loc în apropierea altor Centre Locale din Structura umbrelă etc);
-	
-Art.104+11 Funcționarea structurii umbrelă:
-	(1) întâlnirile structurii umbrelă au loc de cel puțin 2 ori pe an și ori de câte ori este nevoie (alternativ pentru localitate/județ);
-	(2) secretariatul structurii este asigurat, prin rotație, de fiecare Centru Local component, după un calendar stabilit, pe perioade de succesiune de 1 an;
-	(3) rolul secretariatului este de facilita și pregăti întâlnirile și de a asigura comunicarea în interiorul Structurii umbrelă, convoacă întâlnirile structurii și pregătește din timp ordinea de zi.
-	(4) calendarul întâlnirilor structurilor umbrelă este agreat cu toate Centrele Locale din componența structurii;
-	(5) luare de decizii este prin unanimitate;
-	(6) conflictele sau blocajele sunt soluționate cu ajutorul Consiliului Director; 
-	(7) persoanele delegate raportează direct Consiliului Centrului Local;
-	(8) minuta și concluziile întâlnirii se trimit către toate Centrele Locale;
-	(8) întâlnirile pot avea loc și online, în cazul în care Centrele Locale decis asta.
-
-Art. 104+12 Desființarea Structurii umbrelă
-	(1) Structura umbrelă se desființează de către Consiliul Director în situația în care în urma desființării unor Centre Locale din localitate/județ, rămâne un singur Centru Local în Structura umbrelă. 
-
 Capitolul IV. Management financiar
 ==================================
 
@@ -883,7 +844,6 @@ Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 		f. nereguli financiare și/ sau nereguli în gestiunea materială 
 		g. datorii financiare (față de alte centre, față de ONCR, față de finanțatori, față de parteneri (interni sau externi).
 		h. comportament inadecvat al membrilor Centrului Local respectiv la activități (naționale sau internaționale) sau care aduce atingere imaginii ONCR.
-		h+1 refuzul creării Structurilor umbrelă sau neparticiparea la minim 2 întâlniri pe an în cadrul acestora
 		i. încălcarea prevederilor statutului sau regulamentului, a hotărârilor Adunării Generale sau a deciziilor Consiliului Director
 	(2) Suspendarea are loc pe o perioadă cuprinsă între 3 și 6 luni.
 	(3) Pe perioada suspendării, Centrele Locale suportă restricțiile:
