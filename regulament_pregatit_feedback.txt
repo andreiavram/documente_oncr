@@ -673,22 +673,20 @@ E5 Alte Structuri Locale
 
 E5.2 Structură umbrelă
 
-Art. 104+7 Consiliul Director al organizației poate autoriza înființarea unor structuri fără personalitate juridică, denumite structuri umbrelă, înființate obligatoriu la nivelul localităților și/sau județelor unde există mai mult de un Centru Local. Toate Centrele Locale dintre localitate și/sau județ fac parte de drept din Structura umbrelă locală și/sau Structura umbrelă județeană.
+Art. 104+7 Consiliul Director al organizației constată apariția unor structuri fără personalitate juridică, denumite structuri umbrelă, înființate de drept la nivelul localităților și/sau județelor unde există mai mult de un Centru Local. Toate Centrele Locale dintre localitate și/sau județ fac parte de drept din Structura umbrelă locală și/sau Structura umbrelă județeană.
 
 Art. 104+8 Atribuții:
 	a. Asigură coordonarea (fără subordonare) între grupuri a activităților Centrelor Locale și oferă un cadru formal de colaborare și dialog pentru identificarea de proiecte și nevoi comune.
-	b. Permite Centrelor Locale să își exprime părerea despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
+	b. Permite Centrelor Locale să își exprime poziția despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
 	c. Coordonează abordarea sponsorilor, partenerilor strategici și a partenerilor instituționali la nivel local sau județean.
 	d. Oferă un cadru pentru îmăpărtășirea de experiențe cu scopul de a învăța din reușitele și greșelile celorlalte grupuri.
 	
-Art. 104+9 
-	(1) Procedură de înființare
-		a.  Existența a cel puțin 2 Centre Locale la nivelul localității și/sau la nivelul județului, reprezentată de cel puțin o persoană cu vârsta de minim 18 ani din fiecare Centru Local, care se materializează prin întocmirea unei proces verbal înaintate Consiliului Director. 
-		b. în cazul în care există mai multe Centre Locale în aceiași localitate și cel puțin un alt Centru Local în județ, se vor înființa obligatoriu o Structură umbrelă locală și o Structură umbrelă județeană.
-		c. Procesul verbal conține numele Centrelor Locale ce vor face parte din structură și datele de contact ale reprezentaților fiecărui Centru Local.
-		d. Pe baza procesului verbal, Consiliul Director emite o decizie de înființare a structurii umbrelă locale, respectiv o decizie de înființare a structurii umbrelă județeană.
-	(2) în urma înființării unui Centru Local nou într-o localitate sau județ unde există deja o Structură umbrelă, Centrul Local devine automat parte din Structura / structurile umbrelă.
-
+Art. 104+9  Procedură de înființare:
+	(1) Structura umbrelă ia ființă de drept în momentul în care există mai mult de un Centru Local la nivel de unitate administrativ-teritorială (localitate și / sau județ)
+	(2) În cazul în care există mai multe Centre Locale în aceeași localitate și cel puțin un alt Centru Local în județ, se vor înființa obligatoriu o Structură umbrelă locală și o Structură umbrelă județeană.
+	(3) În urma înființării unui Centru Local nou într-o localitate sau județ unde există deja o Structură umbrelă, Centrul Local devine automat parte din Structura / structurile umbrelă. 
+	(4) Consiliul Director înștiințează în termen de 30 de zile calendaristice Centrele Locale de modificări ale componenței sau existenței structurilor umbrelă
+	
 Art. 104+10 Drepturi și obligații ale Centrelor Locale parte din Structura umbrelă:
 	(1) dreptul de a organiza activități locale și regionale comune;
 	(2) dreptul de a crea propriile mecanisme interne (acces comun la resurse, baze de echipament comun, spații comune de activități etc);
@@ -708,7 +706,7 @@ Art.104+11 Funcționarea structurii umbrelă:
 	(8) întâlnirile pot avea loc și online, în cazul în care Centrele Locale decis asta.
 
 Art. 104+12 Desființarea Structurii umbrelă
-	(1) Structura umbrelă se desființează de către Consiliul Director în situația în care în urma desființării unor Centre Locale din localitate/județ, rămâne un singur Centru Local în Structura umbrelă. 
+	(1) Structura umbrelă se desființează de drept când condiția de la Art. 104+9 alineatul (1) nu mai este îndeplinită.
 
 Capitolul IV. Management financiar
 ==================================
