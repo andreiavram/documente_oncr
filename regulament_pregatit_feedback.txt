@@ -444,6 +444,7 @@ Art. 69. Coordonatorii Naționali sunt membri ai Consiliului Director care au di
 Art. 70. Responsabilii Naționali urmăresc implementarea de către echipele executive ale planurilor operaționale respective în vederea asigurării încadrării rezultatelor acestora în strategia ONCR.
 
 Art. 71. Coordonatorii Naționali au dreptul de a controla, fiecare în sectorul său de responsabilitate, personal sau printr-un delegat, modul de desfășurare al activităților la nivel național sau local, și utilizarea resurselor financiare alocate.
+
 e. Directorul Executiv
 
 Art. 72. 
@@ -481,6 +482,8 @@ Art. 75. Trezorierul este numit în funcție de Consiliul Director, este subordo
 Secțiunea E - Structuri locale
 ==============================
 
+E1. Centrul Local
+
 Art. 76. La nivel local, ONCR are filiale și sucursale, denumite Centre Locale. Acestea au nume proprii și se înființează de către ONCR, ca urmare a hotărârii Adunării Generale și a deciziei Consiliului Director.
         	
 Art. 77. Centrul Local este alcătuit, din punct de vedere organizatoric, din patrule și unități, structurate pe ramuri de vârstă (lupișori, temerari, exploratori, seniori) și membrii acestora pot purta uniformă și însemne specifice.
@@ -491,19 +494,19 @@ Art. 78. Patrula este formațiunea de bază, formată din 4 - 9 cercetași din a
 
 Art. 79. Unitatea este structura compusă din 2 – 5 patrule din aceeași ramură de vârstă. Unitatea este îndrumată de un lider adult ales de către membrii unității, pe baza propunerilor făcute de Consiliul Centrului Local.
         	
-Art. 80. Condițiile minime pe care trebuie să le îndeplinească un lider adult pentru a fi șef de unitate sunt: vârsta de cel puțin 18 ani și participarea la minim două stagii de formare de bază. Șeful de unitate numește până la maxim patru lideri adulți, care îl ajută în implementarea propunerii educative a ONCR la nivelul unității. 
+Art. 80. (1)Condițiile minime pe care trebuie să le îndeplinească un lider adult pentru a fi șef de unitate sunt: vârsta de cel puțin 18 ani și participarea la minim două stagii de formare de bază. Șeful de unitate numește până la maxim patru lideri adulți, care îl ajută în implementarea propunerii educative a ONCR la nivelul unității. 
 
-	Responsabilitățile Șefului de unitate sunt prevăzute în fișa postului, al cărei conținut este stabilit de Consiliul Director.
+	(2)Responsabilitățile Șefului de unitate sunt prevăzute în fișa postului, al cărei conținut este stabilit de Consiliul Director.
 
 Art. 81. Cercetașii care depășesc vârsta de 18 ani, nu își desfășoară activitatea ca seniori și nu își asumă nicio responsabilitate educativă, organizatorică sau administrativă în cadrul ONCR, pot opta pentru a deveni alumni.
         	
-Art. 82. Centrul Local este o structură organizatorică formată din cel puțin două unități (minim 5 lideri și 20 de copii sau tineri) a căror activitate este integrată într-o strategie locală comună.
+Art. 82. (1)Centrul Local este o structură organizatorică formată din cel puțin două unități (minim 5 lideri și 20 de copii sau tineri) a căror activitate este integrată într-o strategie locală comună.
 
-	Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Statutului și Regulamentului.
+	(2)Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Statutului și Regulamentului.
 
-	În cazul în care se solicită înființarea unui Grup Candidat ca urmare a retragerii din Centrul Local existent a unor lideri și cercetași, aceasta nu va fi pusă în discuție decât după cercetarea de către Consiliul Director sau comisia desemnată de acesta a împrejurărilor care au determinat această situație.
+	(3)În cazul în care se solicită înființarea unui Grup Candidat ca urmare a retragerii din Centrul Local existent a unor lideri și cercetași, aceasta nu va fi pusă în discuție decât după cercetarea de către Consiliul Director sau comisia desemnată de acesta a împrejurărilor care au determinat această situație.
 
-	În cazul în care un Centru Local cu personalitate juridică, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire direct ca Centru Local cu personalitate juridică, condiția necesară fiind îndeplinirea criteriilor și procedurilor statutare pentru aceasta forma de organizare.
+	(4)În cazul în care un Centru Local cu personalitate juridică, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire direct ca Centru Local cu personalitate juridică, condiția necesară fiind îndeplinirea criteriilor și procedurilor statutare pentru aceasta forma de organizare.
 
 Art. 83. Atribuțiile Centrului Local sunt următoarele:
 	a. coordonează activitatea membrilor structurii la nivel local
@@ -590,7 +593,29 @@ Art. 96.
 	(1) Plata cotizațiilor Centrelor Locale către ONCR se efectuează anual.
 	(2) Termenul limită de plată a cotizațiilor anuale este data de 15 ianuarie a anului cercetășesc în curs.
 	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament, conform unei proceduri definite de Echipa Executivă.
-        	
+
+Art. 96+1.
+	(1) Dacă activitatea structurii stagnează sau este regresivă din motive obiective/ subiective imputabile unui lider, membrii Centrului Local pot propune Consiliului Centrului Local înlocuirea liderului respectiv.
+	(2) Dacă situația devine conflictuală și nu poate fi depășită la nivel local, membrii Centrului Local au dreptul de a sesiza în scris Consiliul Director, care va trata situația conform prevederilor art. 49, litera w.
+	(3) Dacă din motive obiective un lider nu poate face față responsabilităților asumate, își va prezenta demisia, urmând a fi înlocuit prin decizia organului colegial din care face parte.
+
+Art. 96+2.
+	(1) Centrul Local poate fi desființat în cazul în care este îndeplinită cel puțin una din următoarele condiții:
+		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 98 și încălcarea principiilor cercetășești.
+		b. desfășurarea sau încurajarea unor activități care prejudiciază prestigiului și intereselor ONCR.
+		c. neremedierea situației care a determinat sancționarea prin suspendare (vezi cap. Sancțiuni).
+		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea în a treia Adunare Generală consecutivă, când se discută desființarea Centrelor Locale.
+	(2) Procedura de desființare urmează etapele:
+		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
+		b. Consiliul Director emite decizia de desființare care se transmite Centrului Local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
+		c. Echipa Executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
+		d. Dacă Centrul Local are personalitate juridică, acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
+		e. În baza art. 52, lit. w. din Regulamentul ONCR, în urma unei anchete și întocmirii unui raport de către Comisia desemnată de Consiliul Director, se constată că activitatea Centrului Local urmărește un alt scop decât cel pentru care a fost constituit.
+
+Art. 96+3. Centrele Locale care nu se supun procedurilor de desființare vor răspunde în justiție.
+  
+E2 Adunarea Generală a Centrului Local
+
 Art. 97. Forul de conducere al Centrului Local este Adunarea Generală a Centrului Local, fiind legal constituită în prezența a cel puțin 2/3 din membrii titulari ai centrului, care au împlinit 16 ani, au depus promisiunea și au cotizația plătită la zi. Alumni pot participa la Adunarea Generală ca invitați, fără a avea drept de vot.
 
 Art. 98.
@@ -614,6 +639,8 @@ Art. 99. Adunarea Generală a Centrului Local are următoarele atribuții:
 		d. alege Consiliul Centrului Local și Cenzorul (Cenzorii).
 		e. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.
 
+E3 Consiliul Centrului Local
+
 Art. 100.
 	(1) Între sesiunile Adunării Generale, conducerea centrului este exercitată de Consiliul Centrului Local.
 	(2) La nivelul fiecărui Centru Local, componența Consiliului Centrului Local este decisă de Adunarea Generală, fără a se încălca prevederile Statutului ONCR (Șef de Centru Local și minim patru membri, lideri adulți).
@@ -633,32 +660,54 @@ Art. 103.
 	(1) Șeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliul Centrului Local și reprezintă Centrul Local în interiorul și exteriorul ONCR.
 	(2) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
 
+E4 Comisia de Cenzori
+
 Art. 104.
 	(1) Cenzorul (cenzorii - în număr de trei - pentru Centrele Locale cu mai mult de 100 de membri) este ales de Adunarea Generală a Centrului Local.
 	(2) Atribuțiile cenzorului (cenzorilor) sunt următoarele:
 		a. asigură controlul financiar intern al Centrului Local, verificând cheltuielile efectuate și situația patrimoniului centrului.
 		b. raportează Adunării Generale a centrului rezultatele activității sale.
 	(3) Cenzorul participă la ședințele Consiliului Centrului Local, fără drept de vot.
- 
-Art. 105.
-	(1) Dacă activitatea structurii stagnează sau este regresivă din motive obiective/ subiective imputabile unui lider, membrii Centrului Local pot propune Consiliului Centrului Local înlocuirea liderului respectiv.
-	(2) Dacă situația devine conflictuală și nu poate fi depășită la nivel local, membrii Centrului Local au dreptul de a sesiza în scris Consiliul Director, care va trata situația conform prevederilor art. 49, litera w.
-	(3) Dacă din motive obiective un lider nu poate face față responsabilităților asumate, își va prezenta demisia, urmând a fi înlocuit prin decizia organului colegial din care face parte.
 
-Art. 106.
-	(1) Centrul Local poate fi desființat în cazul în care este îndeplinită cel puțin una din următoarele condiții:
-		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 98 și încălcarea principiilor cercetășești.
-		b. desfășurarea sau încurajarea unor activități care prejudiciază prestigiului și intereselor ONCR.
-		c. neremedierea situației care a determinat sancționarea prin suspendare (vezi cap. Sancțiuni).
-		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea în a treia Adunare Generală consecutivă, când se discută desființarea Centrelor Locale.
-	(2) Procedura de desființare urmează etapele:
-		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
-		b. Consiliul Director emite decizia de desființare care se transmite Centrului Local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
-		c. Echipa Executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
-		d. Dacă Centrul Local are personalitate juridică, acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
-		e. În baza art. 52, lit. w. din Regulamentul ONCR, în urma unei anchete și întocmirii unui raport de către Comisia desemnată de Consiliul Director, se constată că activitatea Centrului Local urmărește un alt scop decât cel pentru care a fost constituit.
+E5 Alte Structuri Locale
 
-Art. 107. Centrele Locale care nu se supun procedurilor de desființare vor răspunde în justiție.
+E5.2 Structură umbrelă
+
+Art. 104+7 Consiliul Director al organizației constată apariția unor structuri fără personalitate juridică, denumite structuri umbrelă, înființate de drept la nivelul localităților și/sau județelor unde există mai mult de un Centru Local. Toate Centrele Locale dintre localitate și/sau județ fac parte de drept din Structura umbrelă locală și/sau Structura umbrelă județeană.
+
+Art. 104+8 Atribuții:
+	a. Asigură coordonarea (fără subordonare) între grupuri a activităților Centrelor Locale și oferă un cadru formal de colaborare și dialog pentru identificarea de proiecte și nevoi comune.
+	b. Permite Centrelor Locale să își exprime poziția despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
+	c. Coordonează abordarea sponsorilor, partenerilor strategici și a partenerilor instituționali la nivel local sau județean.
+	d. Oferă un cadru pentru îmăpărtășirea de experiențe cu scopul de a învăța din reușitele și greșelile celorlalte grupuri.
+	
+Art. 104+9  Procedură de înființare:
+	(1) Structura umbrelă ia ființă de drept în momentul în care există mai mult de un Centru Local la nivel de unitate administrativ-teritorială (localitate și / sau județ)
+	(2) În cazul în care există mai multe Centre Locale în aceeași localitate și cel puțin un alt Centru Local în județ, se vor înființa obligatoriu o Structură umbrelă locală și o Structură umbrelă județeană.
+	(3) În urma înființării unui Centru Local nou într-o localitate sau județ unde există deja o Structură umbrelă, Centrul Local devine automat parte din Structura / structurile umbrelă. 
+	(4) În situația în care într-o localitate / județ există mai mult de 10 Centre Locale, pentru o organizare mai facilă se pot înființa mai multe structuri umbrelă, cu condiția ca ele să fie echilibrate ca număr și să își asigure o comunicare constantă despre concluziile întâlnirilor lor cu celalalte structuri din aceeași localitate / județ. 
+	(5) Consiliul Director înștiințează în termen de 30 de zile calendaristice Centrele Locale de modificări ale componenței sau existenței structurilor umbrelă
+	
+Art. 104+10 Drepturi și obligații ale Centrelor Locale parte din Structura umbrelă:
+	(1) dreptul de a organiza activități locale și regionale comune;
+	(2) dreptul de a crea propriile mecanisme interne (acces comun la resurse, baze de echipament comun, spații comune de activități etc);
+	(3) obligația de participa la toate întâlnirile Structurii umbrelă și dreptul de a-ți exprima votul;
+	(4) obligația de a comunica procesele verbale ale întâlnirilor Structurilor umbrelă către toate Centrele Locale implicate, Consiliului Director și Directorului Executiv;
+	(5) obligația de a aduce în discuție în Structura umbrelă minim acele proiecte care au potențialul de a le influența activitatea sau parteneriatele celorlalte Centre Locale (proiecte cu risc, proiecte cu vizibilitate mare, activități care au loc în apropierea altor Centre Locale din Structura umbrelă etc);
+	
+Art.104+11 Funcționarea structurii umbrelă:
+	(1) întâlnirile structurii umbrelă au loc de cel puțin 2 ori pe an și ori de câte ori este nevoie (alternativ pentru localitate/județ);
+	(2) secretariatul structurii este asigurat, prin rotație, de fiecare Centru Local component, după un calendar stabilit, pe perioade de succesiune de 1 an;
+	(3) rolul secretariatului este de facilita și pregăti întâlnirile și de a asigura comunicarea în interiorul Structurii umbrelă, convoacă întâlnirile structurii și pregătește din timp ordinea de zi.
+	(4) calendarul întâlnirilor structurilor umbrelă este agreat cu toate Centrele Locale din componența structurii;
+	(5) luare de decizii este prin unanimitate;
+	(6) conflictele sau blocajele sunt soluționate cu ajutorul Consiliului Director; 
+	(7) persoanele delegate raportează direct Consiliului Centrului Local;
+	(8) minuta și concluziile întâlnirii se trimit către toate Centrele Locale;
+	(8) întâlnirile pot avea loc și online, în cazul în care Centrele Locale decis asta.
+
+Art. 104+12 Desființarea Structurii umbrelă
+	(1) Structura umbrelă se desființează de drept când condiția de la Art. 104+9 alineatul (1) nu mai este îndeplinită.
 
 Capitolul IV. Management financiar
 ==================================
@@ -768,6 +817,7 @@ Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 		f. nereguli financiare și/ sau nereguli în gestiunea materială 
 		g. datorii financiare (față de alte centre, față de ONCR, față de finanțatori, față de parteneri (interni sau externi).
 		h. comportament inadecvat al membrilor Centrului Local respectiv la activități (naționale sau internaționale) sau care aduce atingere imaginii ONCR.
+		h+1 refuzul creării Structurilor umbrelă sau neparticiparea la minim 2 întâlniri pe an în cadrul acestora
 		i. încălcarea prevederilor statutului sau regulamentului, a hotărârilor Adunării Generale sau a deciziilor Consiliului Director
 	(2) Suspendarea are loc pe o perioadă cuprinsă între 3 și 6 luni.
 	(3) Pe perioada suspendării, Centrele Locale suportă restricțiile:

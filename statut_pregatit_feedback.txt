@@ -272,8 +272,8 @@ Art. 35. Atribuţii:
 	k. gestionează finanțele și patrimoniul ONCR;
 	l. produce și comercializează însemne, uniforme și alte materiale cercetăşeşti;
 	m. facilitează participarea membrilor ONCR la activități cercetăşeşti naționale și internaționale;
-	n. asigură legătura funcțională dintre Consiliul Director și Centrele Locale;
-	o. încurajează și sprijină participarea Centrelor Locale la viața asociativă prin proiecte, evenimente, seminarii etc.;
+	n. asigură legătura funcțională dintre Consiliul Director și Structurile Locale;
+	o. încurajează și sprijină participarea Structurilor Locale la viața asociativă prin proiecte, evenimente, seminarii etc.;
 	p. pregătește Adunarea Generală pe baza deciziilor Consiliului Director;
 	q. elaborează, înainte de ședința trienală a Adunării Generale, planul trienal de acțiune pe baza recomandărilor Coordonatorilor Naționali.
 
@@ -362,9 +362,17 @@ Art. 46. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similar
 B5 - Alte structuri locale
 ==========================
 
-Art. 47. Structuri locale
-	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale (filiale) cu sau fără personalitate juridică în vederea desfăşurării activităţilor prevăzute de art. 48 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
-	b. Autorizarea acestor structuri se face pe baza unor proceduri ce vor fi stabilite de Consiliul Director în termen de 60 de zile de la aprobarea actului adiţional de către Adunarea Generală a organizaţiei.
+B5.2 Structură umbrelă
+
+Art 47+3. Consiliul Director al organizației constată apariția unor structuri fără personalitate juridică, denumite structuri umbrelă, înființate de drept la nivelul localităților și/sau județelor unde există mai mult de un Centru Local. Toate Centrele Locale dintre localitate și/sau județ fac parte de drept din Structura umbrelă locală și/sau Structura umbrelă județeană.
+
+Art. 47+4. Atribuții:
+	a. Asigură coordonarea (fără subordonare) între grupuri a activităților Centrelor Locale și oferă un cadru formal de colaborare și dialog pentru identificarea de proiecte și nevoi comune.
+	b. Permite Centrelor Locale să își exprime poziția despre proiecte ale Centrelor Locale din zona lor care pot avea impact, pozitiv sau negativ, și asupra lor.
+	c. Coordonează abordarea sponsorilor, partenerilor strategici și a partenerilor instituționali la nivel local sau județean.
+	d. Oferă un cadru pentru îmăpărtășirea de experiențe cu scopul de a învăța din reușitele și greșelile celorlalte grupuri.
+	
+Art. 47+5 Structurile umbrelă se desființează de drept în situația în care în urma desființării unor Centre Locale din localitate/județ, rămâne un singur Centru Local în Structura umbrelă. 
 
 Capitolul V. Management financiar
 =================================
@@ -399,7 +407,7 @@ Art. 53. Ordonatorii de credit ONCR sunt după cum urmează:
 	c. semnarea bilanţului anual: Contabilul Autorizat şi Directorul Executiv.
 
 Art 54. Desființarea.
-	(1) Toate bunurile Centrelor Locale care se desfiinţează trec în administrarea ONCR; Consiliul Director dispune folosirea acestora.
+	(1) Toate bunurile Structurilor Locale care se desfiinţează trec în administrarea ONCR; Consiliul Director dispune folosirea acestora.
 	(2) În cazul dizolvării Asociaţiei, patrimoniul acesteia se împarte Centrelor Locale sau grupurilor de cercetaşi rămase.
 
 Capitolul VI. Regulament, Elemente de identificare şi dispoziţii de aplicare
