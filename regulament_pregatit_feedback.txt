@@ -685,7 +685,8 @@ Art. 104+9  Procedură de înființare:
 	(1) Structura umbrelă ia ființă de drept în momentul în care există mai mult de un Centru Local la nivel de unitate administrativ-teritorială (localitate și / sau județ)
 	(2) În cazul în care există mai multe Centre Locale în aceeași localitate și cel puțin un alt Centru Local în județ, se vor înființa obligatoriu o Structură umbrelă locală și o Structură umbrelă județeană.
 	(3) În urma înființării unui Centru Local nou într-o localitate sau județ unde există deja o Structură umbrelă, Centrul Local devine automat parte din Structura / structurile umbrelă. 
-	(4) Consiliul Director înștiințează în termen de 30 de zile calendaristice Centrele Locale de modificări ale componenței sau existenței structurilor umbrelă
+	(4) În situația în care într-o localitate / județ există mai mult de 10 Centre Locale, pentru o organizare mai facilă se pot înființa mai multe structuri umbrelă, cu condiția ca ele să fie echilibrate ca număr și să își asigure o comunicare constantă despre concluziile întâlnirilor lor cu celalalte structuri din aceeași localitate / județ. 
+	(5) Consiliul Director înștiințează în termen de 30 de zile calendaristice Centrele Locale de modificări ale componenței sau existenței structurilor umbrelă
 	
 Art. 104+10 Drepturi și obligații ale Centrelor Locale parte din Structura umbrelă:
 	(1) dreptul de a organiza activități locale și regionale comune;
