@@ -688,7 +688,13 @@ Art. 107+2. În grupurile de Cercetași, una din unități (sau unitatea, în ca
 
 Art. 107+3. Grupurile de Cercetași există exclusiv sub mentoratul și gestiunea administrativă a unei structuri mentor, care de regulă este un Centru Local care îndeplinește condițiile minime pentru această situație. 
 
-Art. 107+4. În situații excepționale, în care nu este posibilă arondarea la un Centru Local din proximitatea geografică, Consiliul Director poate împuternici orice alt Centru Local eligibil să mentoreze grupul de cercetași, cu acordul acelui Centru Local. Alternativ, Consiliul Director poate împuternici nominal un grup de minim 3 lideri din ONCR care să asigure mentoratul grupului de cercetași, acesta primind formal mentoratul Consiliului Director; într-o astfel de situație excepțională, liderii și membrii grupului de cercetași vor participa la activități cercetășești și administrative în Centrele Locale ale liderilor desemnați ca mentori.
+Art. 107+4. În situații excepționale, în care nu este posibilă arondarea la un Centru Local din proximitatea geografică, Consiliul Director poate:
+(1) împuternici orice alt Centru Local eligibil să mentoreze grupul de cercetași, cu acordul acelui Centru Local sau
+(2) împuternici nominal un grup de minim 3 lideri din ONCR care să asigure mentoratul grupului de cercetași, acesta primind formal mentoratul Consiliului Director;
+
+Art. 107+4.1. În situația de la art. 107+4., punctul (1), liderii și membrii grupului de cercetași:
+(1) vor participa la activități cercetășești și administrative în cadrul Centrelelor Locale de care aparțin liderii desemnați ca mentori și
+(2) vor aparține administrativ de un Centru Local desemnat de Consiliul Director în acest sens
 
 Art. 107.5. Pentru înființarea unui Grup de Cercetași sunt necesare:
 	(1) Acordul unui grup informal de persoane de a forma împreună un Grup de cercetași
