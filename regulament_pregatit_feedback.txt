@@ -502,7 +502,7 @@ Art. 82. Centrul Local este o structură organizatorică formată din cel puțin
 
 	În cazul în care se solicită înființarea unui Grup Candidat ca urmare a retragerii din Centrul Local existent a unor lideri și cercetași, aceasta nu va fi pusă în discuție decât după cercetarea de către Consiliul Director sau comisia desemnată de acesta a împrejurărilor care au determinat această situație.
 
-	(1) În cazul în care un Centru Local, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire, condiția necesară fiind îndeplinirea criteriilor și procedurilor statutare pentru aceasta formă de organizare.
+	(1) În cazul în care un Centru Local, ca urmare a hotărârii Adunării Generale a Centrului Local se divizează, grupul nou este propus Adunării Generale a ONCR pentru constituire.
 	(2) În cazul divizării, se împarte întregul patrimoniu al Centrului Local între Centrul local existent și Centrul Local nou, care ia astfel ființă.
 	(3) După divizare atât Centrul Local existent, cât și Centrul local nou format, devin Centre Locale de Nivel 1 și pot trece prin evaluarea IEDLOC în vederea trecerii la Nivelul 2 după minim 1 an de zile de la divizare.
 
@@ -559,7 +559,6 @@ Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	b. dreptul de a participa la activități internaționale: membrii tuturor Centrelor Locale legal înființate, asupra cărora nu sunt aplicate sancțiuni disciplinare.
 	c. dreptul de a participa la activități naționale: membrii tuturor Centrelor Locale, asupra cărora nu sunt aplicate sancțiuni disciplinare; Grupurile Externe, numai sub îndrumarea Centrului Local mentor.
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor Locale legal înființate și care întrunesc condițiile de la art. 31.
-	e. dreptul de a deschide cont bancar propriu: Centrele Locale legal înființate.
 	f. obligația de a depune situația financiară anuală și alte documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și trimiterea unui raport financiar anual (pe baza acestor documente) către Consiliul Director.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele Locale.
 	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
