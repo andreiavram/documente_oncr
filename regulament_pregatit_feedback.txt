@@ -69,13 +69,15 @@ Art. 6.
 Art. 7.
 	(1) Calitatea de membru titular al ONCR se obține în urma completării unei adeziuni (care exprimă aderarea la Lege și Promisiune, precum și la prevederile Statutului și Regulamentului ONCR) și parcurgerea unei perioade de aspirantură.
 	(2) Pentru membrii până la 18 ani, este necesar acordul scris (pe adeziune) al unui părinte (tutorelui sau forului tutelar).
-	(3) În cazul adulților, este necesară recomandarea scrisă (pe adeziune) a cel puțin unui lider adult.
+	(3) În cazul adulților, este necesară recomandarea scrisă (pe adeziune) a cel puțin unui lider adult și prezentarea documentelor necesare conform prevederilor cuprinse în Politica de protecție a copilului, tânărului și adultului în cercetășie (denumită în continuare Politica Safe from Harm), care este parte integrantă a acestui Regulament (anexa 1).
+	(4) În cazul persoanelor excluse anterior din ONCR, care cer reînscrierea, este necesară, pe lângă îndeplinirea cerințelor de la alineatele (1)-(3), și o evaluare din partea echipei de Safe from Harm.
 
 Art. 8.
-	(1) Aspirantura este o perioadă de selectare și pregătire, în care aspirantul dovedește că înțelege, cunoaște, respectă și aplică Legea Cercetașului, Metoda și Principiile Cercetășești și își asumă responsabilitățile ce decurg din acestea. După parcurgerea perioadei de aspirantură, aspirantul depune Promisiunea, devenind membru titular.
+	(1) Aspirantura este o perioadă de selectare și pregătire, în care aspirantul dovedește că înțelege, cunoaște, respectă și aplică Legea Cercetașului, Metoda și Principiile Cercetășești, Politica Safe from Harm și își asumă responsabilitățile ce decurg din acestea. După parcurgerea perioadei de aspirantură, aspirantul depune Promisiunea, devenind membru titular.
 	(2) Perioada de aspirantură are o durată cuprinsă între două și șase luni, la latitudinea Consiliului Centrului Local, pentru fiecare aspirant în parte.
 	(3) Adulții care se pregătesc pentru a deveni lideri activează sub îndrumarea unui lider și urmează stagiile necesare dobândirii de cunoștințe și abilități pentru asumarea unor responsabilități în organizație.
 	(4) Condițiile pentru asumarea oricărei responsabilități sunt, în general, vârsta, pregătirea și vechimea în ONCR, precum rezultă din prevederile prezentului Regulament, în cazul unor funcții sau responsabilități.
+	(5) În cadrul procesului de selecție pentru ocuparea funcțiilor și responsabilităților vor fi promovați aplicanții care nu au fost sancționați disciplinar până atunci.
 
 Art. 9.
 	(1) Depunerea Promisiunii, de către aspiranții sub 18 ani, se face cu acordul și în fața patrulei în care activează, în cadrul unui ceremonial.
@@ -104,6 +106,7 @@ Art. 13. Drepturile membrilor titulari sunt:
 	i. să aleagă și să fie aleși în funcții de conducere.
 	j. să-și manifeste libertatea de exprimare a propriei spiritualități, fără a o îngrădi sau limita pe a celorlalți.
 	k. să se transfere de la un Centru Local la altul, individual, pe baza unei cereri scrise și cu acordul șefilor centrelor respective.
+	l. să se dezvolte într-un mediu sigur, în care sunt încurajați să își atingă potențialul maxim.
 	
 Art. 14. 
 	(1) Obligațiile membrilor titulari sunt:
@@ -113,8 +116,8 @@ Art. 14.
 		d. să își asume deciziile structurilor din care fac parte.
 		e. să plătească la timp cotizația și să îndeplinească toate îndatoririle financiare sau materiale ce le revin în raport cu structurile ONCR.
 		f. să nu utilizeze mijloacele materiale și financiare ale ONCR în scopuri personale sau în alte activități decât cele ale structurilor din care fac parte.
-	(2) Pe lângă aceste obligații, liderii adulți sunt obligați să respecte cu strictețe normele privind securitatea fizică, psihică și afectivă a membrilor organizației, așa cum sunt prevăzute în "Codul Galben" (anexa 1)
-
+		g. să respecte prevederile politicii Safe from Harm.
+	(2) Membrii care împlinesc vârsta de 18 ani și care preiau responsabilități educative, organizatorice sau administrative în cadrul ONCR au obligativitatea prezentării documentelor necesare conform Procedurilor cuprinse în Politica Safe from Harm.
 
 Art. 15. Membrii organizației nu pot face uz de calitatea pe care o au în ONCR în activitatea lor publică, politică, sindicală, profesională sau în cadrul altor asociații.
 
@@ -327,6 +330,8 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil.
 	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
+	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
+	aa. decide asupra propunerilor de sancționare a membrilor din ONCR, primite de la Echipa Națională SfH, în baza rapoartelor comisiilor de anchetă.
 
 Art. 53. Atribuțiile Președintelui, Vicepreședintelui, Comisarului Internațional și Coordonatorilor Naționali sunt prezentate în Regulament.
 		
@@ -626,6 +631,7 @@ Art. 101. Consiliul Centrului Local are următoarele atribuții:
 	c. prezintă semestrial (sau la cerere) informări către conducerea ONCR, referitoare la activitatea sa.
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
 	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale).
+	f. numește dintre membrii adulți ai centrului local cel puțin un Responsabil Local de Safe from Harm, conform prevederilor Politicii Safe from Harm.
 
 Art. 102. Șeful Centrului Local, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel puțin 21 de ani, care a participat la stagiile pentru șefi de Centru Local. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului Local.
 
@@ -642,7 +648,7 @@ Art. 104.
  
 Art. 105.
 	(1) Dacă activitatea structurii stagnează sau este regresivă din motive obiective/ subiective imputabile unui lider, membrii Centrului Local pot propune Consiliului Centrului Local înlocuirea liderului respectiv.
-	(2) Dacă situația devine conflictuală și nu poate fi depășită la nivel local, membrii Centrului Local au dreptul de a sesiza în scris Consiliul Director, care va trata situația conform prevederilor art. 49, litera w.
+	(2) Dacă situația devine conflictuală și nu poate fi depășită la nivel local, membrii Centrului Local au dreptul de a sesiza în scris Consiliul Director, care va trata situația conform prevederilor art. 52, litera w sau Responsabilul Național de Safe from Harm, care acționează conform prevederilor Politicii Safe from Harm.
 	(3) Dacă din motive obiective un lider nu poate face față responsabilităților asumate, își va prezenta demisia, urmând a fi înlocuit prin decizia organului colegial din care face parte.
 
 Art. 106.
@@ -711,41 +717,48 @@ Art. 116.
 
 Art. 117.
 	(1) Membrii ONCR, care prin comportamentul lor încalcă Principiile Cercetășești, prevederile Statutului, Regulamentului ONCR, precum și celelalte dispoziții sau normative stabilite de structurile naționale sau locale, sunt susceptibili de a fi sancționați, în funcție de gravitatea abaterii comise.
-	(2) Sancțiunile se aplică în mod gradat și au ca scop corectarea abaterii, fără a leza personalitatea cercetașului.
+	(2) Sancțiunile se aplică în mod gradat și au ca scop corectarea abaterii, fără a leza personalitatea cercetașului. Pentru toate situațiile care țin de protecția și siguranța copilului, tânărului și adultului, sancțiunile se aplică conform prevederilor aferente Politicii Safe from Harm.
 
-Art. 118. Pentru membrii ONCR sub 18 ani (cercetași), sunt considerate abateri:
+Art. 118. Pentru membrii ONCR sub 18 ani, sunt considerate abateri:
 	a. nerespectarea Promisiunii și a Legii Cercetașului.
 	b. comportamentul necorespunzător calității de cercetaș.
 	c. nerespectarea responsabilităților asumate, din neglijență sau reavoință.
 	d. încălcarea regulamentelor campurilor, stabilite de comun acord de către participanți sau impuse de organizatori.
 	e. săvârșirea unei fapte care frizează morala publică sau cade sub incidența codului penal.
+	f. nerespectarea prevederilor Politicii Safe from Harm.
 
-Art. 119. Sancțiunile pentru cercetași sunt următoarele:
-	a. mustrare verbală în fața unității de care aparțin.
-	b. suspendare pe perioadă limitată (de la 2 săptămâni la o lună) de la activitățile patrulei (unității).
+Art. 119. Sancțiunile pentru membri sunt următoarele:
+	a. avertisment scris.
+	b. suspendare pe perioadă limitată (de la 2 săptămâni la 1 an) de la activitățile cercetășești.
 	c. excludere, pentru abateri grave sau repetate.
+	d. Participarea la activități numai în prezența unui alt lider sau a Responsabilului Local SfH pe o perioadă de la 3 luni la 6 luni
+	e. Monitorizarea activității la patrulă de către șeful de unitate pe o perioadă de la 3 luni la 6 luni
+	f. Interdicția de a fi coordonator de activități locale / regionale / naționale pe o perioadă de la 3 luni la 1 an
+	g. Interdicția de a participa la evenimente regionale/naționale pe o perioadă de la 3 luni la 1 an
+	h. Interdicția de a fi lider însoțitor, membru în CMT sau IST la evenimente internaționale
+	i. Urmarea cursului online de CNV și minimum 7 ore de practică dovedită, urmărită de responsabilul SfH local
 
-Art. 120. Abaterile sunt semnalate sau constatate de către:
-	a. colegii de patrulă sau unitate, care aduc faptul la cunoștința șefului de unitate, conducătorului de grup sau șefului de subcamp, după caz.
-	b. șeful de unitate sau un lider din Centrul Local.
-	c. șeful de subcamp, un membru al staff-ului sau comandantul campului.
 
-Art. 121. Analizarea situației și luarea deciziei aparține șefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, în fața unității. Sancțiunea este adusă la cunoștința Consiliului Centrului Local și este înscrisă, conform unei proceduri, în foaia matricolă a cercetașului.
+Art. 120. Abaterile pot fi sunt semnalate de către orice membru al organizației sau orice altă persoană terță (părinți, parteneri, colaboratori etc).
+
+Art. 121. 
+	(1) Analizarea situației și luarea deciziei aparține șefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, și a unității, după caz. Sancțiunea este adusă la cunoștința Consiliului Centrului Local.
+	(2) Pentru sesizările legate de nerespectarea prevederile Politicii Safe from Harm, analizarea situației și luarea deciziilor se realizează conform procedurilor Safe from Harm.
 
 Art. 122. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri:
 	a. abaterile enumerate la art. 118.
-	b. încălcarea Codului galben (art.14 (2)).
+	b. încălcarea Politicii Safe from Harm (art.14 (2)).
 
 Art. 123. În cazul Șefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Șefului de unitate.
         	
-Art. 124. În cazul Șefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 118, acesta poate fi sancționat conform art. 119, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației și cu acordul Șefului Centrului Local.
+Art. 124. În cazul Șefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 122, acesta poate fi sancționat conform art. 119, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației de către aceștia sau, respectiv, de către Responsabilul Local de Safe from Harm și cu acordul Șefului Consiliului Centrului Local.
 
 Art. 125. În cazul Șefului de Centru Local:
 	(1) pentru săvârșirea abaterilor prevăzute la art. 118, constatate și dovedite de Consiliul Centrului Local sau
 	(2) pentru nerespectarea obligațiilor asumate cu ocazia alegerii în funcție, constatate și dovedite de Consiliul Centrului Local, Șeful Centrului Local poate fi destituit din funcție, de către Adunarea Generală a Centrului Local, întrunită în sesiune extraordinară.
-	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului Local poate sesiza Consiliul Director, care va acționa în conformitate cu art. 52. lit. w.
+	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului Local poate sesiza Consiliul Director, care va acționa în conformitate cu art. 52. lit. w., sau Responsabilul Național/Regional de Safe from Harm, care acționează conform procedurilor Politicii Safe from Harm.
 
-Art. 126. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director, iar rezultatul anchetei este incriminatoriu, Consiliul Director aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
+Art. 126. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director sau de o comisie de Safe from Harm,, iar rezultatul anchetei este incriminatoriu, Consiliul Director sau, respectiv, Responsabilul Național/Regional de Safe from Harm aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
 
 Art. 127.
 	(1) În perioada instrumentării anchetei, persoana anchetată poate fi suspendată din funcție, dacă comisia de anchetă consideră aceasta necesar.
@@ -754,7 +767,7 @@ Art. 127.
 
 Art. 128.
 	(1) Membrii ONCR care candidează și sunt aleși în funcții eligibile nu pot fi destituiți decât de structurile care i-au ales.
-	(2) Pentru situația descrisă la art. 122, destituirea (care poate urma suspendării din funcție) unui Șef de Centru Local este de competența Adunării Generale a Centrului Local.
+	(2) Pentru situația descrisă la art. 125, destituirea (care poate urma suspendării din funcție) unui Șef de Centru Local este de competența Adunării Generale a Centrului Local.
         	
 Art. 129. Membrii Consiliului Director și ai Comisiei Naționale de Cenzori nu pot fi destituiți decât de Adunarea Generală a ONCR.
 
