@@ -98,12 +98,14 @@ Art. 17. În cadrul ONCR, membrii sunt:
 	Membrii de onoare sunt persoanele cărora ONCR le conferă acest titlu, în funcţie de contribuţia adusă susţinerii organizaţiei.
 
 Art. 18. Obținerea calității de membru titular al ONCR
-	(1) Calitatea de membru titular al ONCR se obţine în urma completării unei adeziuni (care exprimă aderarea la Lege şi Promisiune precum şi la prevederile Statutului şi Regulamentului) și parcurgerea unei perioade de aspirantură cuprinsă între 2 și 6 luni (în funcție de ramura de vârstă), în cadrul unei patrule. În această perioadă, viitorul membru dovedeşte că acceptă Legea Cercetaşului, Metoda şi Principiile Cercetăşeşti şi îşi asumă responsabilităţile ce decurg din acestea.
+	(1) Calitatea de membru titular al ONCR se obţine în urma completării unei adeziuni (care exprimă aderarea la Lege şi Promisiune precum şi la prevederile Statutului şi Regulamentului) și parcurgerea unei perioade de aspirantură cuprinsă între 2 și 6 luni (în funcție de ramura de vârstă), în cadrul unei patrule. În această perioadă, viitorul membru dovedeşte că acceptă Legea Cercetaşului, Metoda şi Principiile Cercetăşeşti, Politica de protecție a copilului, tânărului și adultului în cercetășie (denumită în continuare Politica Safe from Harm) şi îşi asumă responsabilităţile ce decurg din acestea.
 	(2) După parcurgerea perioadei de aspirantură, aceştia vor depune promisiunea, cu acordul Patrulei în care activează, devenind membri titulari.
 	(3) Pentru membrii sub 18 ani este necesar acordul scris al unui părinte (tutorelui sau forului tutelar).
-	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult, a completării unei adeziuni şi a depunerii promisiunii. În perioada de aspirantură, care durează 6 luni, adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea unei responsabilităţi în organizaţie.
-	(5) Condiţiile pentru asumarea oricărei responsabilităţi sunt: vârsta, pregătirea şi vechimea în ONCR, precum se arată în Regulament.
+	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult, a completării unei adeziuni  a prezentării documentelor necesare conform procedurilor aferente Politicii Safe from Harm şi a depunerii promisiunii, după perioada de aspirantură, care durează 6 luni.
+	(4.1)Adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea acestei responsabilităţi în organizaţie.
+	(5) Condiţiile pentru asumarea oricărei responsabilităţi sunt, în general: vârsta, pregătirea, istoricul şi vechimea în ONCR, precum se arată în Regulament.
 	(6) Admiterea lor ca membri titulari se face de către Consiliul Centrului Local în faţa căruia aceştia depun promisiunea.
+	(6.1) În cazul persoanelor excluse anterior din ONCR, pentru abateri disciplinare grave sau repetate, care cer reînscrierea, este necesară, pe lângă îndeplinirea cerințelor de la alineatele (1)-(6.1), și o evaluare din partea echipei de Safe from Harm.
 
 Art. 19. Calitatea de membru titular sau aspirant al ONCR se pierde prin:
 	a. retragere;
@@ -217,6 +219,9 @@ Art. 30. Atribuţii:
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
 	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
+	x. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
+	aa. decide asupra propunerilor de sancționare a membrilor din ONCR, primite de la Echipa Națională SfH, în baza rapoartelor comisiilor de anchetă.
+
 
 A1.3 - Președintele ONCR
 ========================
@@ -351,6 +356,8 @@ Art. 44. Atribuţii:
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită pentru ONCR;
 	c. răspunde, în timpul solicitat, cu informații referitoare la activitatea Centrului Local;
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
+	e. aprobă participarea membrilor săi la evenimente în afara Centrului Local;
+	f. numește dintre membrii adulți ai centrului local cel puțin un Responsabil Local de Safe from Harm, conform prevederilor Politicii Safe from Harm.
 
 B4 - Comisia de Cenzori
 =======================
