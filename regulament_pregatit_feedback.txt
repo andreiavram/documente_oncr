@@ -628,11 +628,16 @@ Art. 101. Consiliul Centrului Local are următoarele atribuții:
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
 	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale).
 
-Art. 102. Șeful Centrului Local, ales de Adunarea Generală, este un membru titular al ONCR, în vârstă de cel puțin 21 de ani, care a participat la stagiile pentru șefi de Centru Local. Atribuțiile sale sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului Local.
-
+Art. 102. Șeful Centrului Local este ales nominal de Adunarea Generală și trebuie să îndeplinească cumulativ următoarele condiții:
+	(1) este un membru titular al ONCR, care nu este sub efectul unei sancțiuni la momentul alegerilor
+	(2) a absolvit un stagiu pentru managementul Centrului Local
+	(3) are vârsta de minim 21 de ani
+	(4) în situații excepționale, Consiliului Director poate, în urma unui interviu, oferi o derogare de la punctul (3); candidații pentru funcția de Șef de Centru Local trebuie să aibă în această situație minim 18 ani.
+	
 Art. 103.
-	(1) Șeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliul Centrului Local și reprezintă Centrul Local în interiorul și exteriorul ONCR.
-	(2) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
+	(1) Atribuțiile Șefului Centrului Local sunt prevăzute în fișa de post și sunt aprobate de Adunarea Generală a Centrului Local
+	(2) Șeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliul Centrului Local și reprezintă Centrul Local în interiorul și exteriorul ONCR.
+	(3) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
 
 Art. 104.
 	(1) Cenzorul (cenzorii - în număr de trei - pentru Centrele Locale cu mai mult de 100 de membri) este ales de Adunarea Generală a Centrului Local.
