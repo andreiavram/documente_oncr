@@ -342,7 +342,7 @@ B3 - Consiliul Centrului Local
 
 Art. 43. Componenţă
 	(1) Consiliul Centrului Local (CCL) conduce activitatea Centrului Local între Adunările Generale.
-	(2) CCL este compus din Şeful Centrului Local şi minim 4 membri.
+	(2) CCL este compus din Şeful Centrului Local şi minim 2 alți membri
 	(3) Şeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliu şi reprezintă Centrul Local în interiorul şi în exteriorul ONCR.
 	(4) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
 
