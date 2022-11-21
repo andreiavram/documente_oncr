@@ -99,9 +99,9 @@ Art. 17. În cadrul ONCR, membrii sunt:
 
 Art. 18. Obținerea calității de membru titular al ONCR
 	(1) Calitatea de membru titular al ONCR se obţine în urma completării unei adeziuni (care exprimă aderarea la Lege şi Promisiune precum şi la prevederile Statutului şi Regulamentului) și parcurgerea unei perioade de aspirantură cuprinsă între 2 și 6 luni (în funcție de ramura de vârstă), în cadrul unei patrule. În această perioadă, viitorul membru dovedeşte că acceptă Legea Cercetaşului, Metoda şi Principiile Cercetăşeşti şi îşi asumă responsabilităţile ce decurg din acestea.
-	(2) După parcurgerea perioadei de aspirantură, aceştia vor depune promisiunea, cu acordul Patrulei în care activează, devenind membri titulari.
+	(2) După parcurgerea perioadei de aspirantură, aceştia vor depune promisiunea, cu acordul Patrulei în care activează și a Consiliului Centrului Local propriu sau a Centrului Local mentor, pentru Grupurile de Cercetași, devenind membri titulari.
 	(3) Pentru membrii sub 18 ani este necesar acordul scris al unui părinte (tutorelui sau forului tutelar).
-	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult, a completării unei adeziuni şi a depunerii promisiunii. În perioada de aspirantură, care durează 6 luni, adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea unei responsabilităţi în organizaţie.
+	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult membru într-un Centru Local, a completării unei adeziuni şi a depunerii promisiunii. În perioada de aspirantură, care durează 6 luni, adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea unei responsabilităţi în organizaţie.
 	(5) Condiţiile pentru asumarea oricărei responsabilităţi sunt: vârsta, pregătirea şi vechimea în ONCR, precum se arată în Regulament.
 	(6) Admiterea lor ca membri titulari se face de către Consiliul Centrului Local în faţa căruia aceştia depun promisiunea.
 
@@ -170,7 +170,7 @@ A 1.2 - Consiliul Director
 
 Art. 27. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
-	(2) Consiliul Director este format din 7 membri ai ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
+	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
 	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
 	(5) Preşedintele numeşte Vicepreşedintele dintre membrii aleşi ai Consiliului Director.
@@ -312,6 +312,8 @@ Art. 39. Atribuţii:
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
+Art. 39+1. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
+
 Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
@@ -358,6 +360,30 @@ B4 - Comisia de Cenzori
 Art. 45. Componenţă. Adunarea Generală a Centrului Local desemnează un cenzor, iar în cazurile în care numărul membrilor depăşeşte 100, va exista o comisie de cenzori compusă din 3 membri.
 
 Art. 46. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similare cu ale celor din structura naţională.	
+
+B4+1 - Grupuri de Cercetași
+===========================
+
+Art. 46+1. În faza incipientă a dezvoltării unui Centru Local sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
+
+Art. 46+2. Grupul de Cercetași este format din minim o patrulă, și poate exista fără un lider adult propriu.
+
+Art. 46+3. Un Grup de Cercetași poate exista doar sub tutela unui Centru Local mentor sau, în situații excepționale descrise în regulament, sub tutela Consiliului Director.
+
+Art. 46+4. Structura mentor își îndeplinește această atribuție în baza unui Plan de Mentorat
+
+Art. 46+5. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ în Centrul Local mentor;
+
+Art. 46+6. Grupul de Cercetași se va organiza intern, în măsura în care numărul de membrii îi permite, informal, pe aceleași principii și structuri democratice cu cele din Centrele Locale - Adunare Generală, Consiliu al Grupului de Cercetași ales prin vot
+
+Art. 46+7. Membrii Grupului de Cercetași participă ca observator fără drept de vot la Adunările Generale ale Centrului Local Mentor, care le asigură un spațiu de exprimare a opiniilor / pozițiilor.
+
+Art. 46+8. Grupul de Cercetași poate participa prin delegați la întâlnirile Consiliului Centrului Local care îi mentorează, la invitația acestora, și pot participa ca observatori fără drept de vot la Adunarea Generală a ONCR.
+
+Art. 46+9. Grupul de Cercetași își încetează existența:
+	(1) când devine Centru Local
+	(2) dacă nu respectă Planul de Mentorat
+	(3) prin decizia membrilor
 
 B5 - Alte structuri locale
 ==========================
