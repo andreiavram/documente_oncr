@@ -98,11 +98,12 @@ Art. 17. În cadrul ONCR, membrii sunt:
 	Membrii de onoare sunt persoanele cărora ONCR le conferă acest titlu, în funcţie de contribuţia adusă susţinerii organizaţiei.
 
 Art. 18. Obținerea calității de membru titular al ONCR
+
 	(1) Calitatea de membru titular al ONCR se obţine în urma completării unei adeziuni (care exprimă aderarea la Lege şi Promisiune precum şi la prevederile Statutului şi Regulamentului) și parcurgerea unei perioade de aspirantură cuprinsă între 2 și 6 luni (în funcție de ramura de vârstă), în cadrul unei patrule. În această perioadă, viitorul membru dovedeşte că acceptă Legea Cercetaşului, Metoda şi Principiile Cercetăşeşti, Politica de protecție a copilului, tânărului și adultului în cercetășie (denumită în continuare Politica Safe from Harm) şi îşi asumă responsabilităţile ce decurg din acestea.
-	(2) După parcurgerea perioadei de aspirantură, aceştia vor depune promisiunea, cu acordul Patrulei în care activează, devenind membri titulari.
+	(2) După parcurgerea perioadei de aspirantură, aceştia vor depune promisiunea, cu acordul Patrulei în care activează și a Consiliului Centrului Local propriu sau a Centrului Local mentor, pentru Grupurile de Cercetași, devenind membri titulari.
 	(3) Pentru membrii sub 18 ani este necesar acordul scris al unui părinte (tutorelui sau forului tutelar).
-	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult, a completării unei adeziuni  a prezentării documentelor necesare conform procedurilor aferente Politicii Safe from Harm şi a depunerii promisiunii, după perioada de aspirantură, care durează 6 luni.
-	(4.1)Adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea acestei responsabilităţi în organizaţie.
+	(4) În cazul adulţilor, calitatea de membru va putea fi obţinută pe baza recomandării a cel puţin unui lider adult, a completării unei adeziuni, a prezentării documentelor necesare conform procedurilor aferente Politicii Safe from Harm şi a depunerii promisiunii, după perioada de aspirantură, care durează 6 luni.
+	  (4.1)Adulţii care se pregătesc pentru a deveni lideri vor activa sub îndrumarea unui lider şi vor urma stagiile necesare dobândirii de cunoştinţe şi abilităţi pentru asumarea acestei responsabilităţi în organizaţie.
 	(5) Condiţiile pentru asumarea oricărei responsabilităţi sunt, în general: vârsta, pregătirea, istoricul şi vechimea în ONCR, precum se arată în Regulament.
 	(6) Admiterea lor ca membri titulari se face de către Consiliul Centrului Local în faţa căruia aceştia depun promisiunea.
 	(7) Persoanele excluse anterior din ONCR, pentru abateri disciplinare grave sau repetate, pot cere reînscrierea după minim 7 ani, și este necesară, pe lângă îndeplinirea cerințelor de la alineatele (1)-(6), și o evaluare din partea echipei de Safe from Harm.
@@ -154,7 +155,6 @@ Art. 26 Atribuţii
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
 		d. hotărăște înființarea şi desființarea Centrelor Locale;
-		e. aprobă cererile Centrelor Locale care doresc să obțină personalitate juridică și hotărăște cu privire la excluderea Centrelor Locale cu personalitate juridică care nu mai sunt conforme;
 		f. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
 		g. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
 		h. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
@@ -174,7 +174,7 @@ A 1.2 - Consiliul Director
 
 Art. 27. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
-	(2) Consiliul Director este format din 7 membri ai ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
+	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
 	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
 	(5) Preşedintele numeşte Vicepreşedintele dintre membrii aleşi ai Consiliului Director.
@@ -220,10 +220,9 @@ Art. 30. Atribuţii:
 	v. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
-	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
+	y. aprobă documentele fundamentale (statut, regulament) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
 	x. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
 	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
-
 
 A1.3 - Președintele ONCR
 ========================
@@ -305,12 +304,12 @@ B1 - Centrul Local
 ==================
 
 Art. 38. Componenţă
-	(1) La nivel local, ONCR are filiale și sucursale, numite Centre Locale.
-	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Candidat local, format din minimum 5 adulţi şi 20 copii şi/ sau tineri.
+	(1) La nivel local, ONCR are filiale, numite Centre Locale.
+	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Extern, în baza hotărârii Adunării Generale ONCR.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
 	(4) Centrele Locale se bucură de autonomie decizională şi au libertatea de asociere în scopul derulării de activităţi specifice şi păstrării identităţii.
 	(5) Centrul Local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamentul ONCR.
-	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către o sucursală sau filială ONCR se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
+	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către un Centru Local se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
 
 Art. 39. Atribuţii:
 	a. facilitează activitățile desfășurate de cercetași;
@@ -319,7 +318,8 @@ Art. 39. Atribuţii:
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
-Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
+Art. 39+1. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
+Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
 ========================================
@@ -349,7 +349,7 @@ B3 - Consiliul Centrului Local
 
 Art. 43. Componenţă
 	(1) Consiliul Centrului Local (CCL) conduce activitatea Centrului Local între Adunările Generale.
-	(2) CCL este compus din Şeful Centrului Local şi minim 4 membri.
+	(2) CCL este compus din Şeful Centrului Local şi minim 2 alți membri
 	(3) Şeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliu şi reprezintă Centrul Local în interiorul şi în exteriorul ONCR.
 	(4) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
 
@@ -368,12 +368,35 @@ Art. 45. Componenţă. Adunarea Generală a Centrului Local desemnează un cenzo
 
 Art. 46. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similare cu ale celor din structura naţională.	
 
+B4+1 - Grupuri de Cercetași
+===========================
+
+Art. 46+1. În faza incipientă a dezvoltării unui Centru Local sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
+
+Art. 46+2. Grupul de Cercetași este format din minim o patrulă, și poate exista fără un lider adult propriu.
+
+Art. 46+3. Un Grup de Cercetași poate exista doar sub tutela unui Centru Local mentor sau, în situații excepționale descrise în regulament, sub tutela Consiliului Director.
+
+Art. 46+4. Structura mentor își îndeplinește această atribuție în baza unui Plan de Mentorat
+
+Art. 46+5. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ în Centrul Local mentor;
+
+Art. 46+6. Grupul de Cercetași se va organiza intern, în măsura în care numărul de membrii îi permite, informal, pe aceleași principii și structuri democratice cu cele din Centrele Locale - Adunare Generală, Consiliu al Grupului de Cercetași ales prin vot
+
+Art. 46+7. Membrii Grupului de Cercetași participă ca observator fără drept de vot la Adunările Generale ale Centrului Local Mentor, care le asigură un spațiu de exprimare a opiniilor / pozițiilor.
+
+Art. 46+8. Grupul de Cercetași poate participa prin delegați la întâlnirile Consiliului Centrului Local care îi mentorează, la invitația acestora, și pot participa ca observatori fără drept de vot la Adunarea Generală a ONCR.
+
+Art. 46+9. Grupul de Cercetași își încetează existența:
+	(1) când devine Centru Local
+	(2) dacă nu respectă Planul de Mentorat
+	(3) prin decizia membrilor
+
 B5 - Alte structuri locale
 ==========================
 
 Art. 47. Structuri locale
-	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale (filiale) cu sau fără personalitate juridică în vederea desfăşurării activităţilor prevăzute de art. 48 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
-	b. Autorizarea acestor structuri se face pe baza unor proceduri ce vor fi stabilite de Consiliul Director în termen de 60 de zile de la aprobarea actului adiţional de către Adunarea Generală a organizaţiei.
+	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale în vederea desfăşurării activităţilor prevăzute de art. 49 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
 
 Capitolul V. Management financiar
 =================================
@@ -398,8 +421,7 @@ Art. 51. Taxă de înscriere și cotizație
 	(3) Alumni sunt scutiți de obligativitatea plății cotizației anuale.
 
 Art. 52. Donații
-	(1) ONCR, precum şi Centrele Locale cu personalitate juridică, pot primi donaţii sub formă de fonduri băneşti, bunuri materiale mobile sau imobile, numai în cazul în care acceptarea acestora nu implică condiţionări în activitatea organizaţiei.
-	(2) Pentru Centrele Locale fără personalitate juridică, ONCR va primi donațiile în numele acestora. Donaţiile de orice fel primite de acestea, indiferent de provenienţa lor, se includ în patrimoniul ONCR, conform legilor în vigoare şi rămân în folosul integral al acestuia.
+	(1) ONCR, precum şi Centrele Locale, pot primi donaţii sub formă de fonduri băneşti, bunuri materiale mobile sau imobile, numai în cazul în care acceptarea acestora nu implică condiţionări în activitatea organizaţiei.
 	(3) Centrele pot să înstrăineze bunuri din patrimoniul propriu, dacă aceasta este în interesul organizaţiei, conform Regulamentului ONCR.
 
 Art. 53. Ordonatorii de credit ONCR sunt după cum urmează:
