@@ -150,7 +150,6 @@ Art. 26 Atribuţii
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
 		d. hotărăște înființarea şi desființarea Centrelor Locale;
-		e. aprobă cererile Centrelor Locale care doresc să obțină personalitate juridică și hotărăște cu privire la excluderea Centrelor Locale cu personalitate juridică care nu mai sunt conforme;
 		f. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
 		g. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
 		h. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
@@ -216,7 +215,7 @@ Art. 30. Atribuţii:
 	v. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
-	y. aprobă documentele fundamentale (statut, regulament, act constitutiv) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
+	y. aprobă documentele fundamentale (statut, regulament) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
 
 A1.3 - Președintele ONCR
 ========================
@@ -298,12 +297,12 @@ B1 - Centrul Local
 ==================
 
 Art. 38. Componenţă
-	(1) La nivel local, ONCR are filiale și sucursale, numite Centre Locale.
-	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Candidat local, format din minimum 5 adulţi şi 20 copii şi/ sau tineri.
+	(1) La nivel local, ONCR are filiale, numite Centre Locale.
+	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Extern, în baza hotărârii Adunării Generale ONCR.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
 	(4) Centrele Locale se bucură de autonomie decizională şi au libertatea de asociere în scopul derulării de activităţi specifice şi păstrării identităţii.
 	(5) Centrul Local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamentul ONCR.
-	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către o sucursală sau filială ONCR se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
+	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către un Centru Local se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
 
 Art. 39. Atribuţii:
 	a. facilitează activitățile desfășurate de cercetași;
@@ -313,8 +312,7 @@ Art. 39. Atribuţii:
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
 Art. 39+1. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
-
-Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
+Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
 
 B2 - Adunarea Generală a Centrului Local
 ========================================
@@ -389,8 +387,7 @@ B5 - Alte structuri locale
 ==========================
 
 Art. 47. Structuri locale
-	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale (filiale) cu sau fără personalitate juridică în vederea desfăşurării activităţilor prevăzute de art. 48 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
-	b. Autorizarea acestor structuri se face pe baza unor proceduri ce vor fi stabilite de Consiliul Director în termen de 60 de zile de la aprobarea actului adiţional de către Adunarea Generală a organizaţiei.
+	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale în vederea desfăşurării activităţilor prevăzute de art. 49 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
 
 Capitolul V. Management financiar
 =================================
@@ -415,8 +412,7 @@ Art. 51. Taxă de înscriere și cotizație
 	(3) Alumni sunt scutiți de obligativitatea plății cotizației anuale.
 
 Art. 52. Donații
-	(1) ONCR, precum şi Centrele Locale cu personalitate juridică, pot primi donaţii sub formă de fonduri băneşti, bunuri materiale mobile sau imobile, numai în cazul în care acceptarea acestora nu implică condiţionări în activitatea organizaţiei.
-	(2) Pentru Centrele Locale fără personalitate juridică, ONCR va primi donațiile în numele acestora. Donaţiile de orice fel primite de acestea, indiferent de provenienţa lor, se includ în patrimoniul ONCR, conform legilor în vigoare şi rămân în folosul integral al acestuia.
+	(1) ONCR, precum şi Centrele Locale, pot primi donaţii sub formă de fonduri băneşti, bunuri materiale mobile sau imobile, numai în cazul în care acceptarea acestora nu implică condiţionări în activitatea organizaţiei.
 	(3) Centrele pot să înstrăineze bunuri din patrimoniul propriu, dacă aceasta este în interesul organizaţiei, conform Regulamentului ONCR.
 
 Art. 53. Ordonatorii de credit ONCR sunt după cum urmează:
