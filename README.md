@@ -1,6 +1,6 @@
 # Documente fundamentale ONCR
 
-Cum se propun modificări? 
+## Cum se propun modificări? 
 
 Pentru fiecare modificare / set de modificări, se creează un "branch" nou, din "master", care este branch-ul de referință. În drop-down-ul din stânga trebuie să fie selectat master, și apoi se pune numele unui branch nou (e important să nu mai existe deja același branch), și se alege "create branch: <nume> from 'master'"
   
@@ -36,4 +36,15 @@ Pentru a verifica cum s-a modificat per total branch-ul vostru față de referin
 Implicit, veți vedea toate modificările. Puteți și creați un Pull Request. După ce-l creați (și îi dați un nume, eventual), nu mai trebuie să intrați la New Pull Request, puteți să accesați comparația din lista de la pull requests.
 
 ![Screenshot 2022-01-30 133047](https://user-images.githubusercontent.com/2837718/151697808-29809300-cb21-4c87-8016-e55243c43486.png)
+  
+## Cum se fac comentarii la modificări propuse
+  
+  Din secțiunea Pull Requests, pentru oricare din pull requesturile existente, se selectează tab-ul "files", acolo unde se face comparația side-by-side
+  ![Screenshot 2022-02-09 110001](https://user-images.githubusercontent.com/2837718/153161267-18f7eb96-50c3-4f48-8a04-f0f6e47d23be.png)
+  
+  Aici, dacă mergi cu mouse-ul deasupra oricărei linii care se schimbă (fie pe versiunea veche, sau pe cea nouă), butonul de + (sau -) devine un buton care poate fi apăsat pentru a lăsa un comentariu. Comentariile se salvează cu butonul "add single comment" (și NU cu cel verde "Start a review")
+  
+  ![Screenshot 2022-02-09 110110](https://user-images.githubusercontent.com/2837718/153161524-f3932abb-808d-4932-ba17-730a91c5c0ef.png)
+
+
 
