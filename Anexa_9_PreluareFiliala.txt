@@ -1,0 +1,23 @@
+Anexa nr. 9
+===========
+
+Procedura de preluare a filialei înregistrată de către un alt Centru Local 
+==========================================================================
+În cazul unei filiale care dorește să se desființeze urmând procedura dizolvării voluntare, aceasta poate să predea documentele de constituire unui alt Centru Local.
+În această situație se evită procedurile laborioase ale dizolvării și lichidării și se poate înființa un Centru Local care îndeplinește condițiile legale printr-o procedură destul de simplă. Totodată se păstrează actele vechi și “vechimea” filialei. 
+
+Procedură 
+=========
+Filiala care este în imposibilitate de a mai funcționa din motive obiective și nu ca sancțiune, va informa CD al ONCR despre această împrejurare și va face un raport în care va indica și situația financiar contabilă a acesteia (inventar, ultimul bilanț, registrul de casă). 
+În măsura în care există Centre Locale care îndeplinesc condițiile pentru a deveni filiale și nu au demarat procedurile, aceste pot, la recomandarea CD al ONCR să preia filiale pe cale să se dizolve voluntar.
+
+Pașii pe care îi urmează Filiala care dorește să predea personalitatea juridică unui Centru Local, aprobat de CD
+    1. Convoacă Adunarea Generală (cu membrii existenți la acel moment, indiferent de numărul lor) în care hotărăște:
+        - schimbarea denumirii filialei (conform CL care preia)
+        - schimbarea sediului (cu sediul CL care preia)
+        - numirea altor organe de administrare și control (membri ai Centrului Local care preia) 
+    2. În urma hotărârii Adunării Generale a Centrului Local, dosarul filialei se va trimite la instanța judecătorească de la noul sediu, care o va înregistra în Registrul Asociațiilor și Fundațiilor, primind un alt număr;
+    3. ANAF - se vor anunța modificările privind sediul, și se va elibera un alt certificat de înregistrare fiscală cu noul sediu, dar cu același număr (declaratia 010).
+    4. Banca – depunerea noilor specimene de semnătură (de preferat să se indice în hotărâre cine va reprezenta filiala în relația cu banca).
+    5. Preluarea actelor de la contabil (dacă este cazul).
+    6. Modificările din soft și “”transferul membrilor “ de la Centrul Local la filiala preluată.  
