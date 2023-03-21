@@ -218,7 +218,7 @@ Art. 30. Atribuţii:
 	t. propune Adunării Generale acordarea sau anularea calității de Membru de Onoare și de Președinte de Onoare;
 	u. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
 	v. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
-	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, care nu intră în zona de responsabilitate a Comisiei de Etică, Disciplină și Statut sau Safe from Harm, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
 	y. aprobă documentele fundamentale (statut, regulament) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
 	x. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
@@ -296,6 +296,18 @@ Art. 36. Componenţă
 Art. 37. Atribuţii
 	(1) Verifică modul în care sunt administrate finanțele şi patrimoniul ONCR, informează Consiliul Director şi raportează Adunării Generale.
 	(2) În caz de vacanță a funcţiei de Director Executiv, sau la constatarea unor nereguli comise de acesta, Comisia Națională de Cenzori îi poate retrage calitatea de operator de credite, la cererea şi prin decizia Consiliului Director.
+
+A3.2 - Comisia de Etică, Disciplină și Statut
+=============================================
+
+Art. 37+1. Componență: 
+	(1) comisia permanentă, alcătuită din 4 cercetași aleși de Adunarea Generală prin votul secret a două treimi din AG;
+	(2) un grup de persoane disponibile, numite de Centrele Locale pentru a lua parte la analizarea diferitelor situații;
+	(3) un secretar general care se ocupă de partea administrativ - logistică.
+
+Art. 39. Atribuții:
+	(1) Asigură standardele etice în activitatea organizației;
+	(2) Verifică, la solicitarea justificată a unor alte structuri ONCR sau a unor membri, situațiile în care se încalcă Statutul și Regulamentul sau Legea Cercetașului, fără a se putea autosesiza.
 
 Secțiunea B - Structuri Locale
 ==============================

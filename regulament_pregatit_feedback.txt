@@ -153,7 +153,8 @@ Art. 21. Structurile naționale ale ONCR sunt:
 	a. Adunarea Generală
 	b. Consiliul Director
 	c. Comisia Națională de Cenzori
-	d. Echipa Executivă
+	d. Comisia de Etică, Disciplină și Statut
+	e. Echipa Executivă
         
 Art. 22.
 	(1) Adunarea Generală este forul suprem de conducere al ONCR, fiind alcătuită din delegații tuturor Centrelor Locale.
@@ -207,13 +208,19 @@ Art. 30.
 	(3) La deschiderea lucrărilor Adunării, plenul aprobă ordinea de zi, prin vot deschis, cu o majoritate de 50%+1 din numărul delegaților prezenți.
 	(4) Adunarea Generală nu deliberează decât asupra problemelor înscrise în ordinea de zi aprobată.
 
-Art. 31. Candidații pentru Consiliul Director trebuie să îndeplinească următoarele condiții:
-	a. au împlinit 21 de ani până la data Adunării Generale
-	b. sunt membri adulți ai organizației de cel puțin trei ani
-	c. au participat la cel puțin două stagii de formare în cadrul ONCR sau OMMS
-	d. au coordonat sau au participat direct la organizarea unei activități naționale
+Art. 31. Candidații pentru structurile naționale cu membri aleși de Adunarea Generală  trebuie să îndeplinească următoarele condiții:
+	(1) Candidații pentru Consiliul Director:
+		a. au împlinit 21 de ani până la data Adunării Generale
+		b. sunt membri adulți ai organizației de cel puțin trei ani
+		c. au participat la cel puțin două stagii de formare în cadrul ONCR sau OMMS
+		d. au coordonat sau au participat direct la organizarea unei activități naționale
+	(2) Pentru Comisia Națională de Cenzori, candidații trebuie să prezinte dovada pregătirii profesionale în domeniul economic.
+	(3) Candidații pentru Comisia Permanentă a Comisiei de Etică, Disciplină și Statut:
+		a. au împlinit 24 de ani până la data Adunării Generale;
+		b. sunt membri adulți ai organizației de cel puțin 6 ani;
+		c. au deținut sau dețin un mandat în Consiliul Centrului Local al unui Centru Local sau au servit într-o altă structură națională (Consiliul Director, Comisia Națională de Cenzori);
+		d. au un istoric cercetășesc lipsit de sancțiuni.
 
-	Pentru Comisia Națională de Cenzori, candidații trebuie să prezinte dovada pregătirii profesionale în domeniul economic.
 
 Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale.
 
@@ -322,14 +329,14 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe.
 	n. prezintă Adunării Generale evaluări asupra activităților naționale.
 	o. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale.
-	p. întocmește planul calendarului cu principalele acțiuni pentru anul următor.
+	p. 	întocmește planul calendarului cu principalele acțiuni pentru anul următor.
 	q. întocmește protocoale de colaborare cu alte organizații.
 	r. asigură permanent și operativ relațiile cu organele administrației centrale, sau alte organizații din țară, precum și legăturile cu alte organizații cercetășești din întreaga lume, Regiunea Europeană și OMMS.
 	s. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR.
 	t. propune Adunării Generale acordarea de distincții și titluri de onoare.
 	u. propune candidați pentru organismele OMMS sau cele europene și regionale.
 	v. stabilește componența delegațiilor Consiliului Director care reprezintă organizația în țară și străinătate, primind apoi o informare asupra problemelor discutate.
-	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
+	w. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau național) sau nereguli la nivelul unor activități, care nu intră în zona de responsabilitate a Comisiei de Etică, Disciplină și Statut sau Safe from Harm, Consiliul Director va numi o comisie formată din trei membri, care va investiga și va modera stările conflictuale, propunând soluții Consiliului Director. Comisia va întocmi câte un raport pentru fiecare situație Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
 	x. aprobă proiectele Centrelor Locale, care aduc un risc crescut organizației, conform limitelor definite în IEDLOC, oferind un răspuns solicitărilor de acest gen în cel mai scurt timp posibil.
 	y. aprobă documentele fundamentale (statut, regulament) ale tuturor Centrelor Locale pentru a-și obține personalitatea juridică. Hotărârea Adunării Generale va menționa necesitatea obținerii unei decizii de CD cu privire la aceste documente.
 	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
@@ -353,7 +360,60 @@ Art. 57. În cazul constatării unor nereguli comise de Directorul Executiv, Com
 
 Art. 58. Comisia Națională de Cenzori funcționează în baza unui Regulament intern, aprobat de Adunarea Generală (anexa 3).
 
-Secțiunea D - Echipa Executivă
+
+Secțiunea D - Comisia de Etică, Disciplină și Statut
+====================================================
+
+Art. 58+1. Comisia de Etică, Disciplină și Statut are scopul de a asigura standardele etice în ONCR, prin verificarea situațiilor în care se încalcă Statutul și Regulamentul și Legea Cercetașului, la solicitarea justificată a unor alte structuri ONCR sau a unor membri, prin prisma unei comisii de analiză, fără a se putea autosesiza.
+
+Art. 58+1. Componența Comisiei de Etică, Disciplină și Statut este următoarea: 
+	a. Comisia Permanentă, alcătuită din 4 cercetași aleși de Adunarea Generală printr-un votul secret a două treimi din AG;
+	b. un grup de persoane disponibile, numite de Centrele Locale pentru a lua parte la analizarea diferitelor situații;
+	c. un secretar general care se ocupă de partea administrativ - logistică.
+
+Art. 58+3. Comisia Permanentă:
+	a. Este formată din 4 lideri ai organizației;
+	b. Se alege prin votul secret a 2/3 din AG, pentru un mandat de 4 ani, cu schimbare treptată: mandatele a doi dintre membri se suprapun pentru doi ani cu mandatele celorlalți doi membri, în așa fel încât întotdeauna există în Comisia Permanentă membri cu măcar 2 ani experiență;
+	c. membrii comisiei pot avea un număr nelimitat de mandate consecutive.
+
+Art. 58+4. Atribuțiile Comisiei Permanente:
+	a. Analizează în prealabil orice sesizare făcută către Comisia de Etică, Disciplină și Statut;
+	b. Decide componența finală a grupului de persoane disponibile pentru comisiile de analiză;
+	c. Decide componența comisiilor de analiză;
+	d. Poate solicita reluarea procedurilor de la început, în orice moment al analizei, invocând și dovedind următoarele motive: informații noi, vicii de procedură, probleme de imparțialitate.
+
+Art. 58+5. Secretarul Comisiei de Etică, Disciplină și Statut:
+	a. este un membru al Echipei Executive care contribuie la buna desfășurare administrativă a Comisiei de Etică, Disciplină și Statut, sub coordonarea Directorului Executiv;
+	b. poate avea o echipă mai mare, în funcție de nevoie, către care să delege din atribuții;
+	c. este numit (sau este angajat) de Echipa Executivă, la recomandarea Comisiei Permanente;
+	d. are rolul de a contribui la rezolvarea corespondenței și relaționarea între structuri, necesară funcționării Comisiei;
+	e. primește solicitările, plângerile și sesizările destinate Comisiei de Etică, Disciplină și Statut, pe care le pregătește și le transmite apoi către Comisia Permanentă;
+	f. stabilește aleator comisia de analiză și comunică membrilor ei că au această responsabilitate, după ce Comisia Permanentă ia o decizie cu privire la calitatea solicitării, în cazul în care se confirmă nevoia de verificări suplimentare;
+	g. gestionează recuzări sau orice alte probleme de acest fel.
+
+Art. 58+6. Grupul de persoane disponibile pentru comisiile de analiză:
+	a. Centrele Locale pot propune unul sau mai mulți membri pentru Comisia de Etică, Disciplină și Statut care vor alcătui grupul de persoane disponibile pentru comisiile de analiză;
+	b. componența acestui grup este comunicată către toate Centrele Locale;
+	c. Centrele Locale pot ridica întrebări sau se pot opune argumentat la numirea membrilor, informând Secretarul Comisiei;
+	d. pentru candidatura pentru acest grup, se aplică aceleași condiții ca pentru Comisia Permanentă cu două excepții: prima excepție pentru depunerea candidaturii pentru acest grup constă în faptul că sunt acceptați și seniori, însă numai pe zona de etică și disciplină, nu și pe cea de statut; a doua excepție pentru depunerea candidaturii pentru acest grup constă în faptul că vârsta minimă acceptată este 21 de ani, caz în care vechimea în cercetășie este minimum 7 ani.
+
+Art. 65. Atribuțiile Comisiei de Etică, Disciplină și Statut sunt următoarele:
+	a. Asigură standardele etice în activitatea organizației;
+	b. Verifică, la solicitarea justificată a unor alte structuri ONCR sau a unor membri, situațiile în care se încalcă Statutul și Regulamentul sau Legea Cercetașului, fără a se putea autosesiza;
+	c. Gestionează grupul de persoane numite de Centrele Locale pentru a lua parte la analizarea diferitelor situații și comisii de analiză;
+	d. Preia de la Consiliul Director medierea între structuri ale ONCR (la nivel local sau național) sau nereguli la nivelul unor activități;
+	e. Preia apelurile făcute de cercetași la decizii ale Consiliilor Centrelor Locale care necesită o analiză detaliată și care nu sunt sub egida Safe from Harm;
+	f. Analizează fiecare solicitare primită și decide dacă e de competența Comisiei de Etică, Disciplină și Statut;
+	g. Pentru fiecare caz preluat, își definește un mandat care enunță explicit care sunt faptele / aspectele pe care încearcă să stabilească / analizeze;
+	h. Își stabilește modul de lucru și un calendar de acțiuni;
+	i. Comisia de analiză formată, cu o vârstă medie de minim 24 de ani, analizează și cercetează situația, întocmește un raport al activității sale, ce include faptele, concluziile și recomandările pentru părțile implicate, asigurând transparența acțiunilor întreprinse prin informarea părților implicate, a Centrelor Locale și structurilor naționale;
+	j. Decide aplicarea cu caracter obligatoriu a recomandărilor și sancțiunilor, conform Regulamentului;
+	k. Face propuneri de modificare a Statutului și Regulamentului, argumentat și cu avizul Consiliului Director, în vederea unor corecții sau adăugarea unor mențiuni suplimentare pentru o aplicare mai bună a prevederilor existente sau pentru a le îndrepta;
+	l. Respectă modul de funcționare a Comisiei, conform propriei proceduri de lucru;
+	m. Analizează și decide asupra situațiilor excepționale în limitele Statului, Regulamentului și procedurii proprii de lucru.
+
+
+Secțiunea E - Echipa Executivă
 ==============================
 
 Art. 59. Echipa Executivă este structura responsabilă cu implementarea tuturor rezoluțiilor Adunării Generale și a Deciziilor Consiliului Director.
@@ -819,6 +879,7 @@ Art. 120. Abaterile pot fi sunt semnalate de către orice membru al organizație
 Art. 121. 
 	(1) Analizarea situației și luarea deciziei aparține șefului de unitate sau conducătorului de grup, care aplică sancțiunea, aducând-o la cunoștința vinovatului, și a unității, după caz. Sancțiunea este adusă la cunoștința Consiliului Centrului Local.
 	(2) Pentru sesizările legate de nerespectarea prevederile Politicii Safe from Harm, analizarea situației și luarea deciziilor se realizează conform procedurilor Safe from Harm.
+	(3) Pentru sesizările legate de etică, statut și regulament, analizarea situației și luarea deciziilor se realizează conform procedurilor Comisiei de Etică, Disciplină și Statut.
 
 Art. 122. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri:
 	a. abaterile enumerate la art. 118.
@@ -831,9 +892,9 @@ Art. 124. În cazul Șefului de unitate considerat necorespunzător sau care a s
 Art. 125. În cazul Șefului de Centru Local:
 	(1) pentru săvârșirea abaterilor prevăzute la art. 118, constatate și dovedite de Consiliul Centrului Local sau
 	(2) pentru nerespectarea obligațiilor asumate cu ocazia alegerii în funcție, constatate și dovedite de Consiliul Centrului Local, Șeful Centrului Local poate fi destituit din funcție, de către Adunarea Generală a Centrului Local, întrunită în sesiune extraordinară.
-	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului Local poate sesiza Consiliul Director, care va acționa în conformitate cu art. 52. lit. w., sau Responsabilul Național/Regional de Safe from Harm, care acționează conform procedurilor Politicii Safe from Harm.
+	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului Local poate sesiza Consiliul Director, care va acționa în conformitate cu art. 52. lit. w., Responsabilul Național/Regional de Safe from Harm, care acționează conform procedurilor Politicii Safe from Harm sau Comisia de Etică, Disciplină și Statut.
 
-Art. 126. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director sau de o comisie de Safe from Harm,, iar rezultatul anchetei este incriminatoriu, Consiliul Director sau, respectiv, Responsabilul Național/Regional de Safe from Harm aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
+Art. 126. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director sau de o comisie de Safe from Harm, iar rezultatul anchetei este incriminatoriu, Consiliul Director, Responsabilul Național/Regional de Safe from Harm sau, respectiv Comisia de Etică, Disciplină și Statut aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
 
 Art. 127.
 	(1) În perioada instrumentării anchetei, persoana anchetată poate fi suspendată din funcție, dacă comisia de anchetă consideră aceasta necesar.
@@ -844,7 +905,7 @@ Art. 128.
 	(1) Membrii ONCR care candidează și sunt aleși în funcții eligibile nu pot fi destituiți decât de structurile care i-au ales.
 	(2) Pentru situația descrisă la art. 125, destituirea (care poate urma suspendării din funcție) unui Șef de Centru Local este de competența Adunării Generale a Centrului Local.
         	
-Art. 129. Membrii Consiliului Director și ai Comisiei Naționale de Cenzori nu pot fi destituiți decât de Adunarea Generală a ONCR.
+Art. 129. Membrii Consiliului Director, ai Comisiei Naționale de Cenzori și ai Comisiei de Etică, Disciplină și Statut nu pot fi destituiți decât de Adunarea Generală a ONCR.
 
 Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină în desfășurarea activităților cercetășești sau activități financiare, sancțiunea este suspendarea temporară.
 	(1) Motivele suspendării pot fi următoarele (cel puțin un motiv):
