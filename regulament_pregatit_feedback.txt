@@ -186,7 +186,7 @@ Art. 28. Cele două Adunări Generale ordinare au următoarele atribuții anuale
 		b. stabilește prioritățile (direcțiile) dezvoltării organizației pentru anul următor și adoptă deciziile ce se impun.
 		c. hotărăște înființarea și desființarea de Centre Locale, la propunerea Consiliului Director.
 		e. dă descărcare de gestiune ordonatorului principal de credite.
-		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director, membrii Comisiei Naționale de Cenzori și membri Comisiei de Etică, Disciplină și Statut; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
+		f. are dreptul de a revoca cel mult 3 membri ai Consiliului Director, membrii Comisiei Naționale de Cenzori și membrii Comisiei de Etică, Disciplină și Statut; aprobă modificările din componența Consiliului Director, în urma vacantelor de mandat.
 		g. stabilește valoarea cotizației anuale și a cuantumului virat în contul ONCR.
 		h. decide acordarea de titluri și distincții, la propunerea Consiliului Director.
        	i. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
@@ -375,15 +375,15 @@ Art. 58+1. Componența Comisiei de Etică, Disciplină și Statut este următoar
 Art. 58+3. Comisia Permanentă:
 	a. Este formată din 4 membri adulți (lideri, scouteri sau alumni) ai organizației;
 	b. Se alege prin votul secret a 2/3 din AG, pentru un mandat de 4 ani, cu schimbare treptată: mandatele a doi dintre membri se suprapun pentru doi ani cu mandatele celorlalți doi membri, în așa fel încât întotdeauna există în Comisia Permanentă membri cu măcar 2 ani experiență;
-	c. în cazul demisiei, destituirii sau decesului unui membru al Comisiei Permanente, Consiliul Director va numi un membru interimar pentru completarea Comisiei, care va asigura exercițiul mandatului curent până la următoarea Adunare Generală, în care se organizează alegeri pentru ocuparea locului liber;
+	c. în cazul demisiei, destituirii sau decesului unui membru al Comisiei Permanente, Consiliul Director va numi un membru interimar pentru completarea Comisiei, care va asigura exercițiul mandatului curent până la următoarea Adunare Generală, în care se organizează alegeri pentru ocuparea poziției vacante;
 
 Art. 58+4. Atribuțiile Comisiei Permanente:
 	a. Analizează în prealabil orice sesizare făcută către Comisia de Etică, Disciplină și Statut;
 	b. Decide componența grupului de voluntari pentru comisiile de analiză;
 	c. Decide componența comisiilor de analiză și definește un mandat explicit cu privire la care sunt faptele / aspectele pe care acestea trebuie să le stabilească / analizeze;
-	d. Poate solicita, la nevoie, reluarea procedurilor de la început, în orice moment al analizei, invocând și dovedind următoarele motive: informații noi, vicii de procedură, probleme de imparțialitate.
-	e. În cazul în care un membru al Consiliului Director este ținta unei verificări pentru acțiunile sale în această calitate, Comisia va fi întotdeauna formată din 3 membri ai Comisiei Permanente, aleși aleator. 
-	f. În cazul în care un membru al Comisiei Permanente este verificat, indiferent dacă este vorba despre activitatea acestuia în cadrul Comisiei sau în alte activități, Comisia va fi alcătuită din ceilalți trei membri ai Comisiei Permanente.
+	d. Poate solicita, la nevoie, reluarea procedurilor de la început, în orice moment al analizei, invocând și dovedind următoarele motive: informații noi, vicii de procedură, probleme de imparțialitate;
+	e. În cazul în care un membru al Consiliului Director este ținta unei verificări pentru acțiunile sale în această calitate, Comisia va fi întotdeauna formată din 3 membri ai Comisiei Permanente, aleși aleator;
+	f. În cazul în care un membru al Comisiei Permanente este verificat, indiferent dacă este vorba despre activitatea acestuia în cadrul Comisiei sau în alte activități, Comisia va fi alcătuită din ceilalți trei membri ai Comisiei Permanente;
 	g. Decide aplicarea cu caracter obligatoriu a recomandărilor și sancțiunilor stabilite de comisiile de anchetă.
 
 Art. 58+5. Secretarul Comisiei de Etică, Disciplină și Statut:
@@ -394,7 +394,7 @@ Art. 58+5. Secretarul Comisiei de Etică, Disciplină și Statut:
 	e. primește solicitările, plângerile și sesizările destinate Comisiei de Etică, Disciplină și Statut, pe care le pregătește și le transmite apoi către Comisia Permanentă;
 	f. stabilește aleator comisia de analiză și comunică membrilor ei că au această responsabilitate, după ce Comisia Permanentă ia o decizie cu privire la calitatea solicitării, în cazul în care se confirmă nevoia de verificări suplimentare;
 	g. gestionează recuzări sau orice alte probleme de acest fel.
-	h. în lipsa unui Secretar, sarcinile sale revin la membri Comisiei Permanente.
+	h. în lipsa unui Secretar, sarcinile sale revin la membrii Comisiei Permanente.
 
 Art. 58+6. Grupul de voluntari pentru comisiile de analiză:
 	a. Centrele Locale pot propune unul sau mai mulți membri pentru Comisia de Etică, Disciplină și Statut care vor alcătui grupul de voluntari pentru comisiile de analiză;
