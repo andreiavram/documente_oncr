@@ -642,7 +642,7 @@ Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 	d. dreptul de eligibilitate pentru structuri naționale: membrii Centrelor Locale legal înființate și care întrunesc condițiile de la art. 31.
 	f. obligația de a depune situația financiară anuală și alte documente la administrația financiară de care aparțin, conform legilor în vigoare, precum și trimiterea unui raport financiar anual (pe baza acestor documente) către Consiliul Director.
 	h. obligația de a vira cuantumul cotizațiilor în contul ONCR: toate Centrele Locale.
-	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale; termenul limită de trimitere a raportului este data de 15 februarie a anului următor.
+	i. obligația de a prezenta Echipei Executive un raport anual de activitate: toate Centrele Locale; termenul limită de trimitere a raportului este data de 31 ianuarie a anului următor calendaristic.
 	j. obligația de a organiza Adunarea Generală a Centrului Local: toate Centrele Locale
 	k. obligația de a declara la Adunarea Generală a Centrului Local patrimoniul și numărul de membri: toate Centrele Locale.
 	l. obligația de a cere aprobarea Consiliului Director pentru desfășurarea de proiecte care au potențialul de a crea riscuri pentru întreaga organizație, conform condițiilor definite în Anexa IEDLOC.
@@ -651,7 +651,7 @@ Art. 95. Drepturile și obligațiile Centrelor Locale sunt următoarele:
 
 Art. 96.
 	(1) Plata cotizațiilor Centrelor Locale către ONCR se efectuează anual.
-	(2) Termenul limită de plată a cotizațiilor anuale este data de 15 ianuarie a anului cercetășesc în curs.
+	(2) Termenul limită de plată a cotizațiilor anuale este data de 31 ianuarie a anului cercetășesc în curs.
 	(3) Plata cotizațiilor se efectuează prin delegat, mandat poștal sau virament, conform unei proceduri definite de Echipa Executivă.
         	
 Art. 97. Forul de conducere al Centrului Local este Adunarea Generală a Centrului Local, fiind legal constituită în prezența a cel puțin 2/3 din membrii titulari ai centrului, care au împlinit 16 ani, au depus promisiunea și au cotizația plătită la zi. Alumni pot participa la Adunarea Generală ca invitați, fără a avea drept de vot.
