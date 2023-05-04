@@ -158,7 +158,7 @@ Art. 26 Atribuţii
 		e. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
 		f. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
 		g. aprobă dizolvarea și lichidarea asociației ONCR și numește lichidatorul. 
-        h. aprobă transmiterea bunurilor rămase în urma lichidării ONCR către una sau mai multe organizații de cercetași sau organizații care au ca scop educația non-formală, potrivit propunerilor făcute de către Consiliul Director.
+		h. aprobă transmiterea bunurilor rămase în urma lichidării ONCR către una sau mai multe organizații de cercetași sau organizații care au ca scop educația non-formală, potrivit propunerilor făcute de către Consiliul Director.
  		i. hotărăște înființarea Centrelor Locale, desființarea sucursalelor și dizolvarea filialelor în condițiile prevăzute în statut;
 		j. în caz de dizolvare a unei filiale, la solicitarea organizației, ONCR nu răspunde pentru datoriile filialei, lichidatorul fiind îndreptățit să ia toate măsurile care se impun prin legislația în vigoare.
 		k. alege membrii Comisiei de Etică, Disciplină și Statut în funcție de expirarea mandatelor acestora
@@ -223,13 +223,12 @@ Art. 30. Atribuţii:
 	u. propune Adunării Generale acordarea sau anularea calității de Membru de Onoare și de Președinte de Onoare;
 	v. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
 	w. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
-	x. în caz de conflicte în cadrul structurilor ONCR (la nivel local sau naţional) sau nereguli la nivelul unor activităţi, Consiliul Director va numi o subcomisie formată din trei membri, care va investiga şi va modera stările conflictuale, propunând soluţii Consiliului Director. Subcomisia va raporta fiecare situaţie Consiliului Director, iar acesta va include respectivele rapoarte în propria evaluare în cadrul Adunării Generale.
-	y. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
-	z. aprobă documentul fundamental (Statut) al Centrelor Locale sau Grupurilor de Cercetași care doresc să obțină personalitate juridică
-	aa. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
-	bb. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
-	cc. decide autorizarea actelor juridice de dispoziție (vânzări și ipoteci conform OG 26/2000) ale filialelor în condițiile stabilite în regulament.
-	dd. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
+	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
+	y. aprobă documentul fundamental (Statut) al Centrelor Locale sau Grupurilor de Cercetași care doresc să obțină personalitate juridică
+	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
+	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
+	bb. decide autorizarea actelor juridice de dispoziție (vânzări și ipoteci conform OG 26/2000) ale filialelor în condițiile stabilite în regulament.
+	cc. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
 
 
 A1.3 - Președintele ONCR
