@@ -65,6 +65,8 @@ Art. 10. ONCR este o asociaţie unitară care activează pe întreg teritoriul R
 
 Art. 11. ONCR este singura asociaţie de cercetaşi din România recunoscută ca atare de către Organizaţia Mondială a Mişcării Cercetășești.
 
+Art. 12. ONCR este organizată și funcționează pe baza Statutului ONCR, respectând și aderând în același timp la Statutul în vigoare al OMMS.
+
 Art. 12. ONCR are sediul central în municipiul Bucureşti. Sediul asociaţiei poate fi modificat pe baza deciziei Consiliului Director, 
 pe raza Municipiului Bucureşti.
 
@@ -224,11 +226,12 @@ Art. 30. Atribuţii:
 	v. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
 	w. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
-	y. aprobă documentul fundamental (Statut) al Centrelor Locale sau Grupurilor de Cercetași care doresc să obțină personalitate juridică
+	y. aprobă documentul fundamental (Statut) al Centrelor Locale sau Grupurilor de Cercetași care doresc să obțină personalitate juridică, și orice altă modificare a acestora, ulterior dobândirii personalității juridice, cu excepția modificării organelor de conducere;
 	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
 	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
 	bb. decide autorizarea actelor juridice de dispoziție (vânzări și ipoteci conform OG 26/2000) ale filialelor în condițiile stabilite în regulament.
 	cc. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
+	dd. aprobă procedurile de lucru pentru toate structurile ONCR;
 
 
 A1.3 - Președintele ONCR
