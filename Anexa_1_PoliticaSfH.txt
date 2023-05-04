@@ -267,9 +267,19 @@ Orice activitate cercetășească trebuie să aibă în vedere nevoile grupului 
 Regulile generale care orientează organizarea activităților și evenimentelor cercetășești la nivel local și național sunt:
     - Pentru orice tip de activitate sunt stabilite responsabilități pentru toate aspectele referitoare la siguranță și securitate pentru perioada de dinaintea activității (pentru planificarea și evaluarea riscurilor), din timpul acesteia (pentru organizare și monitorizare) și pentru perioada imediat următoare (pentru evaluare și raportare); 
     - Toți participanții sunt informați cu privire la regulile și procedurile de desfășurare a activităților sau evenimentelor, precum și la structurile la care pot apela pentru sprijin, în situații cu potențial problematic;
-    - Pentru situațiile de urgență, liderii responsabili sunt la curent cu starea actuală de sănătate a beneficiarilor (lupișori, temerari, exploratori și seniori) care participă la activități, cu respectarea legislației în vigoare, referitoare la GDPR;
-    - Tinerii peste 18 ani (exploratori, seniori) pentru activități de minim 2 zile, hike sau activități speciale este necesar să prezinte adeverință medicală (apt pentru efort fizic sau apt pentru activitatea respectivă);
-    - Pentru activități de minim 2 zile, hike sau activități speciale, este necesar ca adulții să prezinte o declarație pe propria răspundere că sunt apți pentru activitatea respectivă. 
+    - Centrele Locale (prin grija Consiliului Centrului Local și a liderilor de unitate) și organizatorii de evenimente, indiferent de situație, au obligația să se asigure că participanții la activități cercetășești și, în cazul minorilor, și părinții acestora, sunt informați, în timp util, cu privire la natura activității, intensitatea ei și nivelul minim de pregătire necesar pentru participare. Informarea trebuie să fie suficient de detaliată încât potențialii participanți (și, în cazul minorilor, părinții lor) să poată să își asume o decizie cu privire la participare care să ia în considerare și starea de sănătate fizică / mintală a participantului. Elementele minime specifice de informare sunt stabilite în Ghidul de proceduri. 
+    - Pentru cercetașii adulți, înscrierea la activitate include asumarea adultului că poate participa la activitatea respectivă.
+    - Organizatorii de evenimente pot refuza participarea unor persoane la anumite acțiuni ale unui eveniment (sau, după caz, la întregul eveniment) în cazul în care propria lor evaluare a participantului este că nu îndeplinește criteriile minime anunțate pentru evenimentul respectiv. 
+    - Centrele Locale au obligația de a colecta și de a menține la zi informații relevante despre starea de sănătate a tuturor membrilor lor, cu scopul de a se putea pregăti în vederea evaluării și reducerii riscurilor referitoare la sănătate sau la alte aspecte conexe legate de sănătate. În îndeplinirea acestei obligații, Centrele Locale se bazează pe cercetași, pe părinții lor, în cazul minorilor, pe medici (în special medicii de familie) și pe orice alte persoane autorizate care contribuie la starea de sănătate a cercetașilor (psihoterapeuți, antrenori, șamd). Informațiile minime pe care Centrul Local trebuie să le aibă despre cercetași, indiferent de vârsta lor, sunt:
+        - Informații despre afecțiuni pe care cercetașul le are care îi pot limita participarea la unele activități sau care implică riscuri și pregătiri suplimentare în contextul activităților cercetășești în natură - boli cronice, dizabilități
+        - Informații despre istoricul medical al cercetașului relevant pentru activități în colectivitate și în activități cercetășești: vaccinuri, accidentări recente, sensibilități
+        - Informații despre alergii și intoleranțe, împreună cu modul în care se manifestă alergiile respective în cazul cercetașului
+        - Informații cu privire la sănătatea mintală, incluzând tulburări de neurodezvoltare și / sau comportament
+        - Informații despre regimuri alimentare speciale, relevante din punct de vedere medical și despre tratamente pe care cercetașul le urmează
+    - La înscriere și apoi la începutul fiecărui an cercetășesc, Centrele Locale trebuie să colecteze de la membri (indiferent de vârstă) o adeverință de la medicul de familie prin care acesta confirmă faptul că cercetașii sunt apți pentru activități, dar și să (re)confirme cât mai multe informații din cele necesare Centrului Local. Adeverința eliberată de medicul de familie trebuie să fie cât mai detaliată din perspectiva tipului de efort și de activitate, pentru a permite apoi flexibilitate în deciziile de participare / ajustare a activităților în concordanță cu nevoile individuale ale cercetașilor. 
+    - Organizatorii de evenimente pot solicita informații și dovezi adiționale cu privire la starea de sănătate a participanților. 
+    - Accesul la informațiile privind starea de sănătate a cercetașilor este restricționat, ele fiind oferite exclusiv celor care au nevoie să le cunoască, doar pe perioada și doar la nivelul la care au nevoie să le cunoască. Decizia cu privire la acces este luată de organizatorul de eveniment sau de Consiliului Centrului Local, după caz. Gestiunea informațiilor medicale este detaliată în procedură.
+    - În cazul în care apar schimbări semnificative în starea lor de sănătate, cercetașii (sau părinții lor, pentru minori) se obligă, prin semnarea adeziunii, să anunțe Centrul Local înainte de participarea la următoarea activitate.
 
 2. Ce înseamnă  echipament minim de siguranţă ?
 ================================================
@@ -281,9 +291,10 @@ Indiferent cine îl asigură, echipamentul trebuie ales pentru a asigura confort
 3. Cerințele minime individuale pentru participarea minorilor în activități 
 ===========================================================================
 
-Minori sunt toți copiii sub 18 ani care participă la activitate, fie că sunt parte din organizare sau beneficiari ai activității. Acordul parental este documentul fără de care participarea nu este permisă. Fișa medicală cu un istoric medical al minorului este utilă, mai ales în cazuri de situații extreme cum ar fi alergii, epidemii etc.
+Pentru toți minorii (persoane sub 18 ani) care participă la activități cercetășești trebuie să existe acordul părinților sau al tutorelui. Acordul părinților se obține în baza informării cu privire la activitate (cel puțin așa cum e definită în V. 2. 1) și poate fi exprimat prin semnătură olografă, prin email sau prin intermediul unor unelte alte digitale, în condițiile descrise în procedură. În oricare situații, Centrul Local sau organizatorul evenimentului trebuie să poată verifica că acordul a fost dat, efectiv, de părinte și să poată demonstra ulterior că are acordul părinților pentru participarea minorului la activitatea în cauză.
+La înscrierea în organizație și la intrarea într-o ramura de vârstă nouă, părinții / tutorii minorilor semnează un acord parental general prin care părintele alege, explicit, pentru care tipuri de activități își dă acordul implicit și pentru care dorește să îi fie cerut un acord separat, explicit. Obligația de informare cu privire la activitate (de la V. 2. 1) rămâne și în cazul oferirii acordului implicit. Întâlnirile periodice ale patrulei sau ale unității sunt întotdeauna incluse în acordul parental general și nu necesită acord parental explicit. 
 Organizatia Nationala Cercetasii României nu își asumă responsabilitatea pentru apariția unei boli care ar fi putut fi prevenită prin vaccinare din schema obligatorie din România și nu recomandă acceptarea copiilor nevaccinati în cadrul activităților cercetasesti.
-Pentru a fi siguri că suntem pregătiți pentru mai multe situații medicale, recomandăm o discuție cu părinții/tutorii legali ai fiecărui copil, pentru a afla starea curentă de sănătate a acestuia, istoricul său medical, posibilele alergii și modul în care reacționează în cazul contactului cu alergenii la care e sensibil, la medicamentele sau suplimentele pe care va fi nevoit să le ia pe perioada campului. Este util să informăm adulții sau tutorii că nu se recomandă adăugarea de medicamente în trusele de prim-ajutor personale ale copiilor, nici măcar paracetamol sau aspirină. 
+În faza de pregătire a oricărei activități, organizatorii trebuie să se informeze cu privire la orice tratament medical pe care cercetașul minor trebuie să-l urmeze pe perioada activității. Este util să informăm adulții sau tutorii că nu se recomandă adăugarea de medicamente în trusele de prim-ajutor personale ale copiilor, nici măcar paracetamol sau aspirină.
  
 V. 3 Activități cercetășești speciale
 ====================================
@@ -381,7 +392,29 @@ Câteva trăsături recomandate:
     - Abordare și atitudine deschisă și pozitivă
     - Dovedirea încrederii în cercetași, în Scopul cercetășiei, în Metoda Scout, în Principiile cercetășești și în Promisiunea și legea cercetășească.
 
-VIII. Respectarea tuturor prevederilor legale în vigoare în România care reglementează protejarea copilului, tânărului și voluntarilor din organizație
+VIII. Principii pentru dezvoltarea procedurilor de aplicare ale Politicii
+=========================================================================
+În aplicarea Politicii la nivelul întregii organizații, fie prin măsuri ad-hoc, fie prin dezvoltarea și ajustarea procedurilor, vom urmări următoarele principii:
+
+Creșterea siguranței ca prioritate
+Creșterea siguranței cercetașilor - este principalul obiectiv al oricărei proceduri SfH; pentru fiecare modificare de procedură, trebuie să existe un argument explicit care să arate în ce fel modificarea propusă îmbunătățește siguranța cercetașilor (sau a terților).
+
+Compromisuri rezonabile pentru siguranță
+Creșterea siguranței trebuie să fie proporțională cu efortul administrativ necesar pentru implementarea unei proceduri. Riscuri vor exista întotdeauna și procedurile trebuie făcute în așa fel încât să facă cel mai bun și mai rezonabil compromis între obiectivul de a crește siguranța (vezi principiul anterior) și efortul pe care trebuie să-l depună toți actorii implicați în implementarea unei măsuri / proceduri. 
+
+Standarde înalte de siguranță
+Simpla aplicare a unor prevederi legale nu este, în sine, un standard suficient de siguranță - de multe ori, legislația din România este ambiguă și departe de a fi perfectă; în timp ce toate procedurile trebuie să respecte legea din România, siguranța reală, concretă, măsurabilă a cercetașilor trebuie să primeze, și soluțiile pentru respectarea legii vor fi identificate cu acest scop în minte. 
+
+Transparență pentru modificări
+Schimbările procedurilor sunt transparente - toate modificările de cum implementăm Politica vor fi considerate decizii importante și vor trece, minimum, prin același proces de consultare ca documentele de poziție ale Consiliului Director; ideal, modificările majore de abordare în procedură vor fi dezbătute mai pe larg cu reprezentanții Centrelor Locale.
+
+Pregătire pentru auditare
+Aplicarea oricărei proceduri poate fi auditată (verificată) intern (în Centrul Local) sau extern (de ONCR sau de către un terț desemnat de ONCR) - toate procedurile trebuie să includă care sunt mecanismele minime de documentare a aplicării lor, în așa fel încât să putem măsura și verifica cum se aplică.
+
+Aplicare din prima zi
+Toate regulile trebuie să fie aplicabile - și trebuie aplicate - din prima zi - toate procedurile și mecanismele lor de aplicare trebuie să fie explicite și formulate în așa fel încât să conțină cât mai puține zone gri și ambiguități; când sunt descoperite, în practică, neclarități la implementare, procedurile sunt adaptate pentru a include și acele cazuri. Pentru situațiile tranziționale, în care e necesar un timp de pregătire / adaptare în vederea aplicării unor mecanisme, procedura trebuie să explice cum este gestionată perioada tranzițională și care este durata ei. 
+
+IX. Respectarea tuturor prevederilor legale în vigoare în România care reglementează protejarea copilului, tânărului și voluntarilor din organizație
 ======================================================================================================================================================
  	
 "Un cercetaş nu poate fi niciodată luat prin surprindere; el ştie exact ce să facă atunci când se întâmplă ceva neaşteptat."  Lord Robert Baden-Powell. Pornind de la acest citat, pentru a nu fi luați prin surprindere, în România protejarea copilului, tânărului și voluntarilor din organizație sunt menționate mai jos conform legilor  în vigoare în România. 
@@ -398,7 +431,7 @@ Lista legilor în vigoare
 - Lege cazier judiciar 
 - Regulamentul (UE) 2016/679 al Parlamentului European si al Consiliului din 27 aprilie 2016, art. 13,14,15,16,17,20,21,22,77
 
-IX. Resurse combatere abuz: 
+X. Resurse combatere abuz: 
 ===========================
 
 Atunci când aveți nevoie de ajutor, vreți să sesizați un abuz sau vreți să vorbiți cu cineva este recomandat să contactați responsabilul SfH din proximitate, iar împreună cu acesta sau cu înștiințarea lui, în funcție de caz, puteți apela gratuit și cu încredere cele patru numere de telefon.
@@ -409,7 +442,7 @@ Atunci când aveți nevoie de ajutor, vreți să sesizați un abuz sau vreți s�
 0732 781 846 – Asistent Social 
 0318 059 211 - Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal (anspdcp@dataprotection.ro)
 
-X. Referințe
+XI. Referințe
 ============
 
 https://tdh-moldova.md/media/files/files/final_csp_moldova1_5289488.pdf
