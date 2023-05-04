@@ -154,11 +154,14 @@ Art. 26 Atribuţii
 		a. dezbate raportul de activitate al Consiliului Director, al Echipei Executive, al Comisiei Naţionale de Cenzori;
 		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
 		c. dă descărcarea de gestiune ordonatorului principal de credite;
-		d. hotărăște înființarea şi desființarea Centrelor Locale;
-		f. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
-		g. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
-		h. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
-		i. alege membrii Comisiei de Etică, Disciplină și Statut în funcție de expirarea mandatelor acestora
+		d. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
+		e. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
+		f. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
+		g. aprobă dizolvarea și lichidarea asociației ONCR și numește lichidatorul. 
+		h. aprobă transmiterea bunurilor rămase în urma lichidării ONCR către una sau mai multe organizații de cercetași sau organizații care au ca scop educația non-formală, potrivit propunerilor făcute de către Consiliul Director.
+ 		i. hotărăște înființarea Centrelor Locale, desființarea sucursalelor și dizolvarea filialelor în condițiile prevăzute în statut;
+		j. în caz de dizolvare a unei filiale, la solicitarea organizației, ONCR nu răspunde pentru datoriile filialei, lichidatorul fiind îndreptățit să ia toate măsurile care se impun prin legislația în vigoare.
+		k. alege membrii Comisiei de Etică, Disciplină și Statut în funcție de expirarea mandatelor acestora
 
 	(2) Adunarea Generală are următoarele atribuții trienal:
 		a. toate atribuțiile Adunării Generale anuale;
@@ -206,23 +209,27 @@ Art. 30. Atribuţii:
 	g. aprobă structura pe responsabilități a Echipei Executive, angajările executivilor, fișele de post și fondul de salarii;
 	h. decide conţinutul contractului de management al Directorului Executiv şi controlează activitatea acestuia;
 	i. numește dintre membrii săi Coordonatori Naţionali pentru fiecare prioritate strategică;
-	j. decide autorizarea și suspendarea Centrelor Locale; avizează propunerile de înființare și desființare a Centrelor Locale;
-	k. propune rezoluţii pentru Adunarea Generală;
-	l. aprobă, la propunerea Comisarului Internaţional, componenţa contingentelor de cercetași români pentru participarea la activități internaționale în afara ţării;
-	m. prezintă Adunării Generale evaluări asupra activităţilor naţionale;
-	n. răspunde pentru îndeplinirea obiectivelor strategice şi îndeplinirea hotărârilor Adunării Generale;
-	o. întocmeşte planul calendar cu principalele acţiuni pentru anul următor;
-	p. întocmeşte protocoale de colaborare cu alte organizaţii;
-	q. asigură permanent şi operativ relaţiile cu organele administraţiei centrale sau alte organizaţii din ţară, precum şi legăturile cu alte organizaţii cercetăşeşti din întreaga lume, Regiunea Europeană și OMMS;
-	r. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR;
-	s. propune distincţii şi titluri de onoare;
-	t. propune Adunării Generale acordarea sau anularea calității de Membru de Onoare și de Președinte de Onoare;
-	u. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
-	v. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
+	j. decide autorizarea și suspendarea Centrelor Locale; 
+	k. avizează propunerile de înființare a Centrelor Locale, desființarea sucursalelor și dizolvarea filialelor, în condițiile prevăzute în statut;
+	l. propune rezoluţii pentru Adunarea Generală;
+	m. aprobă, la propunerea Comisarului Internaţional, componenţa contingentelor de cercetași români pentru participarea la activități internaționale în afara ţării;
+	n. prezintă Adunării Generale evaluări asupra activităţilor naţionale;
+	o. răspunde pentru îndeplinirea obiectivelor strategice şi îndeplinirea hotărârilor Adunării Generale;
+	p. întocmeşte planul calendar cu principalele acţiuni pentru anul următor;
+	q. întocmeşte protocoale de colaborare cu alte organizaţii;
+	r. asigură permanent şi operativ relaţiile cu organele administraţiei centrale sau alte organizaţii din ţară, precum şi legăturile cu alte organizaţii cercetăşeşti din întreaga lume, Regiunea Europeană și OMMS;
+	s. în caz de litigiu cu mediul extern, desemnează un reprezentant pentru apărarea intereselor ONCR;
+	t. propune distincţii şi titluri de onoare;
+	u. propune Adunării Generale acordarea sau anularea calității de Membru de Onoare și de Președinte de Onoare;
+	v. propune candidaţi pentru organismele OMMS sau în cele europene şi regionale;
+	w. stabilește delegaţiile Consiliului Director care reprezintă organizaţia în ţară şi în străinătate, primind apoi o informare asupra problemelor discutate;
 	x. aprobă proiectele de amploare ale Centrelor Locale, care aduc un risc crescut organizației;
-	y. aprobă documentele fundamentale (statut, regulament) ale Centrelor Locale care obțin încuviințarea Adunării Generale pentru a-și obține personalitatea juridică.
-	x. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
+	y. aprobă documentul fundamental (Statut) al Centrelor Locale sau Grupurilor de Cercetași care doresc să obțină personalitate juridică
+	z. numește Responsabilul SfH Național și aprobă, la recomandarea Responsabilului SfH Național, componența Echipei Naționale de Safe from Harm (SfH), pentru un mandat de 3 ani.
 	aa. decide asumarea sau respingerea rapoartelor comisiilor de anchetă primite de la Echipa Națională SfH, care conțin și propuneri de sancționare a membrilor din ONCR; în cazul unei respingeri, Echipa Națională SfH trebuie să refacă ancheta cu o altă comisie.
+	bb. decide autorizarea actelor juridice de dispoziție (vânzări și ipoteci conform OG 26/2000) ale filialelor în condițiile stabilite în regulament.
+	cc. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
+
 
 A1.3 - Președintele ONCR
 ========================
@@ -333,7 +340,8 @@ Art. 39. Atribuţii:
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
 Art. 39+1. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
-Art. 40. Centrele Locale se desfiinţează prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei, în condiţiile prevăzute de Regulamentul ONCR.
+Art. 40. Centrele Locale se desfiinţează/ dizolvă prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, numărul necesar de membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei sau la transmiterea solicitării de dizolvare/desființare din partea Centrului Local, în condiţiile prevăzute de Regulamentul ONCR.
+
 
 B2 - Adunarea Generală a Centrului Local
 ========================================
@@ -351,6 +359,9 @@ Art. 42. Atribuţii.
 		d. aprobă bugetul pentru anul următor și adoptă deciziile ce se impun;
 		e. stabilește valoarea cotizației, care nu poate fi mai mică decât cuantumul decis de Adunarea Generală a ONCR.
 		f. stabilește valoarea taxei de înscriere, care nu poate depăși valoarea cotizației pe un an decisă la punctul e.
+		g. dizolvarea și lichidarea Centrului Local.
+		h. stabilește lichidatorii care vor soluționa posibile datorii, distribuie patrimoniul în condițiile prevăzute și stabilite în Statutul și Regulamentul ONCR.
+
 
 	(2) Adunarea Generală a Centrului Local are următoarele atribuții trienale:
 		a. evaluează individual și colectiv activitatea organelor locale al căror mandat se încheie;
@@ -443,8 +454,8 @@ Art. 53. Ordonatorii de credit ONCR sunt după cum urmează:
 	b. retrageri de sume: Directorul Executiv şi Trezorierul, iar peste pragul stabilit de Consiliul Director: Directorul Executiv şi Preşedintele;
 	c. semnarea bilanţului anual: Contabilul Autorizat şi Directorul Executiv.
 
-Art 54. Desființarea.
-	(1) Toate bunurile Centrelor Locale care se desfiinţează trec în administrarea ONCR; Consiliul Director dispune folosirea acestora.
+Art 54. Desființarea și Dizolvarea
+	(1) Toate bunurile Centrelor Locale care se desfiinţează/dizolvă trec în administrarea și proprietatea ONCR; Consiliul Director dispune folosirea acestora.
 	(2) În cazul dizolvării Asociaţiei, patrimoniul acesteia se împarte Centrelor Locale sau grupurilor de cercetaşi rămase.
 
 Capitolul VI. Regulament, Elemente de identificare şi dispoziţii de aplicare

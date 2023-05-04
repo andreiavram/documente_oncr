@@ -670,12 +670,14 @@ Art. 99. Adunarea Generală a Centrului Local are următoarele atribuții:
 		d. adoptă bugetul pentru anul următor și adoptă deciziile ce se impun.
        		e. stabilește valoarea cotizației, care nu poate fi mai mică decât cuantumul decis de Adunarea Generală a ONCR.
 		f. stabilește valoarea taxei de înscriere, care nu poate depăși valoarea cotizației pe un an decisă la punctul e.
+		g. Decide dizolvarea voluntară a Centrului Local filială sau hotărăște predarea personalității juridice unui alt Centru Local sucursală, în cazul în care îndeplinește condițiile și urmează procedura prevăzută în Anexa nr. 9 acestui Regulament.
+
 	(2) trienale:
 		a. toate atribuțiile Adunării Generale anuale.
 		b. evaluează individual și colectiv activitatea conducerii locale, a cărei mandat se încheie.
 		c. evaluează implementarea obiectivelor strategice locale pentru ultimii trei ani.
 		d. alege Consiliul Centrului Local și Cenzorul (Cenzorii).
-		e. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.
+		e. dezbate și aprobă obiectivele strategice locale pentru următorii trei ani.		
 
 Art. 100.
 	(1) Între sesiunile Adunării Generale, conducerea centrului este exercitată de Consiliul Centrului Local.
@@ -716,19 +718,26 @@ Art. 105.
 	(3) Dacă din motive obiective un lider nu poate face față responsabilităților asumate, își va prezenta demisia, urmând a fi înlocuit prin decizia organului colegial din care face parte.
 
 Art. 106.
-	(1) Centrul Local poate fi desființat în cazul în care este îndeplinită cel puțin una din următoarele condiții:
+	(1) Centrul Local poate fi desființat sau dizolvat în următoarele situații:
+		a.  Voluntar - În baza Hotărârii Adunării Generale a Centrului Local ;
+		b.  De drept - În condițiile prevăzute de lege sau prin hotărârea judecătoriei;
+		c. În baza hotărârii Adunării Generale a ONCR, potrivit art. 102(2) din Regulament. 
+	(2) Centrul Local poate fi desființat sau dizolvat în cazul în care este îndeplinită cel puțin una din următoarele condiții:
 		a. desfășurarea unei activități contrare statutului ONCR, a atribuțiilor prevăzute la art. 98 și încălcarea principiilor cercetășești.
 		b. desfășurarea sau încurajarea unor activități care prejudiciază prestigiului și intereselor ONCR.
 		c. neremedierea situației care a determinat sancționarea prin suspendare (vezi cap. Sancțiuni).
-		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea în a treia Adunare Generală consecutivă, când se discută desființarea Centrelor Locale.
-	(2) Procedura de desființare urmează etapele:
-		a. Adunarea Generală a ONCR hotărăște desființarea Centrului Local ca urmare a propunerii Consiliului Director.
-		b. Consiliul Director emite decizia de desființare care se transmite Centrului Local respectiv în termen de maxim 10 zile de la data hotărârii Adunării Generale.
+		d. Centrul Local nu se prezintă la trei Adunări Generale consecutive, indiferent dacă are sau nu are drept de vot la acele Adunări Generale. În această situație, Consiliul Director propune desființarea sau dizolvarea/lichidarea în a treia Adunare Generală consecutivă. Dacă în  cea de-a 3-a Adunare Generală Centrul Local este prezent, la începutul Adunării Generale se elimină punctul de pe Ordinea de Zi privind propunerea de desființare.
+		e. În baza art. 52, lit. w. din Regulamentul ONCR, în urma unei anchete și întocmirii unui raport de către Comisia desemnată de Consiliul Director, se constată că activitatea Centrului Local urmărește un alt scop decât cel pentru care a fost constituit
+	(3) Procedura de desființare a Centrelor Locale sucursale urmează etapele:
+		a. Adunarea Generală a ONCR hotărăște desființarea sucursalei ca urmare a propunerii Consiliului Director.
+		b. Consiliul Director emite decizia de desființare care se transmite sucursalei respective în termen de maxim 10 zile de la data hotărârii Adunării Generale.
 		c. Echipa Executivă, în termen de o lună, va recupera ștampila, actele în original, va prelua în administrare patrimoniul și va închide contul bancar, rezolvând eventualele litigii existente.
 		d. Prin dizolvarea Centrului Local acesta va fi exclus din ONCR; în urma excluderii, asociația rezultată nu mai are dreptul de a se folosi de numele, sigla sau afilierile ONCR, și nu mai poate angaja asociația în niciun fel.
 		e. În baza art. 52, lit. w. din Regulamentul ONCR, în urma unei anchete și întocmirii unui raport de către Comisia desemnată de Consiliul Director, se constată că activitatea Centrului Local urmărește un alt scop decât cel pentru care a fost constituit.
+ 	(4) Procedura de dizolvare a Centrelor Locale (filiale) este prevăzută în Anexa nr. 8 acestui regulament, și este obligatorie în toate situațiile.
+    				
 
-Art. 107. Centrele Locale care nu se supun procedurilor de desființare vor răspunde în justiție.
+Art. 107. Centrele Locale care nu se supun procedurilor de desființare și dizolvare/lichidare vor răspunde în justiție
 
 Art. 107+1. Centrele Locale pot mentora unul sau mai multe Grupuri de Cercetași, în următoarele condiții:
 	(1) Numărul de membri al Grupurilor de cercetași, în total, nu depășește 1/2 din numărul total de membri ai Centrului Local la momentul asumării Planului de Mentorat.
@@ -934,7 +943,7 @@ Art. 130. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 		d. nu pot beneficia de susținerea structurilor naționale decât pentru acțiuni legate de ridicarea suspendării
 		e. nu pot reprezenta organizația în raport cu instituțiile statului sau cu orice alți parteneri, cu excepția obligațiilor legale/ contractuale
 	(4) Suspendarea poate fi ridicată, prin decizia Consiliului Director, înainte de termen, dacă dispare cauza care a generat-o.
-	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare.
+	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare/dizolvare.
 	(6) Membrii Centrelor Locale suspendate nu pot fi participanți la activități înafara Centrului Local strict din perspectiva rolului pe care îl au în Centrul Local. Membrii unui Centru Local suspendat care sunt membrii în structuri naționale/ implicați în proiecte naționale pot să-și continue activitatea chiar dacă Centrul Local din care fac parte este sancționat cu suspendarea.
 
 Art. 131.
