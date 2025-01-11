@@ -225,7 +225,8 @@ Art. 31. Candidații pentru structurile naționale cu membri aleși de Adunarea 
 		d. au un istoric cercetășesc lipsit de sancțiuni.
 
 
-Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale.
+Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale, cu următoarele excepții:
+	(1) Membrii grupului de voluntari Comisiei de Etică, Disciplină și Statut pot face parte din Comisia Națională de Cenzori sau din Echipa Executivă (2) Membrii Comisiei Permanente a Comisiei de Etică, Disciplină și Statut pot face parte din Echipa Executivă
 
 Art. 33. Funcția de președinte sau membru în Consiliul Director poate fi ocupată de aceeași persoană doar două mandate consecutive.
 		
@@ -282,7 +283,7 @@ Art. 46.
 	(6) Toți membrii sunt responsabili de a păstra o comunicare constantă cu colegii de Consiliu Director, răspunzând într-un timp rezonabil solicitărilor cărora le sunt adresate.
 
 Art. 47. Secretarul Consiliului Director
-	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
+	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali
 	(2) semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
 	(3) se îngrijește de publicarea deciziilor consiliului către Centrele Locale.
 
