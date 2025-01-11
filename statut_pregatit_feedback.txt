@@ -111,6 +111,7 @@ Art. 19. Obținerea calității de membru titular al ONCR
 	(7) Persoanele excluse anterior din ONCR, pentru abateri disciplinare grave sau repetate, pot cere reînscrierea după minim 7 ani, și este necesară, pe lângă îndeplinirea cerințelor de la alineatele (1)-(6), și o evaluare din partea echipei de Safe from Harm.
 	(8) Persoanele care au date înscrise în certificatul de integritate comportamentală nu pot fi membri ONCR. 
 	(9) Persoanele care au date înscrise în cazierul judiciar pot fi membri ONCR doar cu acordul explicit al echipei Safe from Harm și al Comisiei de Etică, Disciplină și Statut
+	(10) Toți membrii filialelor care sunt Centre Locale sunt implicit și membri ai ONCR. 
 
 Art. 20. Calitatea de membru titular sau aspirant al ONCR se pierde prin:
 	a. retragere;
@@ -180,7 +181,7 @@ A 1.2 - Consiliul Director
 
 Art. 28. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
-	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
+	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR și un trezorier. Cei 7 membri aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
 	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
 	(5) Preşedintele numeşte Vicepreşedintele dintre membrii aleşi ai Consiliului Director.
@@ -193,7 +194,7 @@ Art. 29. Funcţionare
 	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nicio prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(6) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
+	(6) Absența Președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
 	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
 	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
 
@@ -232,6 +233,8 @@ Art. 31. Atribuţii:
 	bb. decide autorizarea actelor juridice de dispoziție (vânzări și ipoteci conform OG 26/2000) ale filialelor în condițiile stabilite în regulament.
 	cc. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
 	dd. aprobă procedurile de lucru pentru toate structurile ONCR;
+
+Art. 31+1. Sancțiuni: În cazul în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări, Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului în funcție de încadrarea acțiunii / comportamentului; Decizia comisiei de anchetă este votată de Comisia de Etică, Disciplină și Statut și va fi implementată de către Consiliul Director cu caracter obligatoriu; În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director, decizia de destituire din funcție și excluderea lui se face prin vot în AG în conformitate cu Statutul și Regulamentul ONCR.
 
 
 A1.3 - Președintele ONCR

@@ -75,6 +75,7 @@ Art. 7.
 	(5) Persoanele care au date înscrise în certificatul de integritate comportamentală nu pot fi membri ONCR. Membri care se găsesc într-o astfel de situație vor fi excluși.
 	(6) Persoanele care au date înscrise în cazierul judiciar pot fi, sau după caz, pot deveni, membri ONCR doar cu acordul explicit al echipei Safe from Harm (pe considerente de siguranță a cercetașilor) și al Comisiei de Etică, Disciplină și Statut (pe considerente de etică); ambele structuri vor analiza individual fiecare astfel de caz și în cazul în care își dau acordul vor atașa câte o concluzie adeziunii persoanei în cauză. În lipsa unui acord al ambelor structuri, membrul va fi respins sau exclus, după caz.
 	(7) Membri sunt obligați să anunțe Centrul Local din care fac parte cu privire la orice condamnări rămase definitive și irevocabile care ar rezulta în încărcarea certificatului de integritate comportamentală sau a cazierului judiciar.
+	(8) Toți membrii filialelor care sunt Centre Locale sunt implicit și membri ai ONCR. 
 
 Art. 8.
 	(1) Aspirantura este o perioadă de selectare și pregătire, în care aspirantul dovedește că înțelege, cunoaște, respectă și aplică Legea Cercetașului, Metoda și Principiile Cercetășești, Politica Safe from Harm și își asumă responsabilitățile ce decurg din acestea. După parcurgerea perioadei de aspirantură, aspirantul depune Promisiunea, devenind membru titular.
@@ -224,7 +225,6 @@ Art. 31. Candidații pentru structurile naționale cu membri aleși de Adunarea 
 		c. au servit sau servesc în Consiliul Centrului Local al unui Centru Local sau au servit într-o altă structură națională (Consiliul Director, Comisia Națională de Cenzori);
 		d. au un istoric cercetășesc lipsit de sancțiuni.
 
-
 Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale, cu următoarele excepții:
 	(1) Membrii grupului de voluntari Comisiei de Etică, Disciplină și Statut pot face parte din Comisia Națională de Cenzori sau din Echipa Executivă 
 	(2) Membrii Comisiei Permanente a Comisiei de Etică, Disciplină și Statut pot face parte din Echipa Executivă
@@ -270,31 +270,31 @@ Art. 44. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiu
 
 
 Art. 45.
-	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
+	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși și un trezorier; cei 7 membri sunt aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
 	(2) Președintele este ales nominal de către Adunarea Generală, iar ceilalți 6 sunt aleși cu titlul de membri.
 	(3) Președintele numește vicepreședintele dintre membrii Consiliului Director.
-	(4) Trezorierul ONCR este un membru ex officio, numit de Consiliul Director.
+	(4) Trezorierul ONCR este un membru ex officio, este numit de Consiliul Director și nu este unul din cei 7 membri aleși.
 
 Art. 46. 
 	(1) Consiliul Director stabilește atribuțiile membrilor acestuia pe baza priorităților (obiectivelor strategice) ale ONCR, adoptate de Adunarea Generală, componența pe responsabilități a Consiliului Director fiind anunțată de președinte în cadrul Adunării Generale
 	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Coordonatori Naționali pentru fiecare obiectiv.
 	(3) Comisarul Internațional conduce Departamentul Internațional și are atribuții legate de relația cu orice structuri cercetășești din afara țării; nu are responsabilitatea nici unui obiectiv strategic.
-	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
+	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director, nu poate avea un alt rol în cadrul Consiliului Director
 	(5) Atribuțiile președintelui, vicepreședintelui și trezorierului sunt prezentate în extenso, în fișele posturilor respective, din prezentul Regulament.
 	(6) Toți membrii sunt responsabili de a păstra o comunicare constantă cu colegii de Consiliu Director, răspunzând într-un timp rezonabil solicitărilor cărora le sunt adresate.
 
 Art. 47. Secretarul Consiliului Director
-	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali și fără a avea atribuții privind prioritățile strategice ale ONCR.
+	(1) este unul din membrii consiliului, desemnat prin aceeași procedură ca și Coordonatorii Naționali
 	(2) semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
 	(3) se îngrijește de publicarea deciziilor consiliului către Centrele Locale.
 
 Art. 48.
 	(1) Consiliul Director se întrunește în ședință ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
 	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de termen.
-	(3) Prezența a 3/4 din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
-	(4) Absența președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49.
+	(3) Prezența a 3/4 din totalul membrilor aleși constituie cvorumul necesar desfășurării ședinței.
+	(4) Absența președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49.
 	(5) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
-	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a trezorierului, a juristului organizației, a șefilor Centrelor Locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
+	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a juristului organizației, a șefilor Centrelor Locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
 	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
 	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
 	(9) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
@@ -386,7 +386,7 @@ Art. 62. Atribuțiile Comisiei Permanente:
 	b. Decide componența grupului de voluntari pentru comisiile de analiză;
 	c. Decide componența comisiilor de analiză și definește un mandat explicit cu privire la care sunt faptele / aspectele pe care acestea trebuie să le stabilească / analizeze;
 	d. Poate solicita, la nevoie, reluarea procedurilor de la început, în orice moment al analizei, invocând și dovedind următoarele motive: informații noi, vicii de procedură, probleme de imparțialitate;
-	e. În cazul în care un membru al Consiliului Director este ținta unei verificări pentru acțiunile sale în această calitate, Comisia va fi întotdeauna formată din 3 membri ai Comisiei Permanente, aleși aleator;
+	e. În situația în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări, Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului, în funcție de încadrarea acțiunii / comportamentului, comisie formată din responsabili Safe from Harm sau membri ai Comisiei Permanente, aleși aleatoriu;
 	f. În cazul în care un membru al Comisiei Permanente este verificat, indiferent dacă este vorba despre verificarea activității acestuia în cadrul Comisiei sau despre orice alte acțiuni, dar care nu țin de domeniul Safe from Harm, Comisia de analiză va fi alcătuită din 3 persoane care nu fac parte din Comisia Permanentă sau din Consiliul Director, dar care îndeplinesc toate criterile cerute membrilor Comisiei Permanente;
 	g. Decide aplicarea cu caracter obligatoriu a recomandărilor și sancțiunilor stabilite de comisiile de anchetă.
 
@@ -900,6 +900,14 @@ Art. 148. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulț
 	a. abaterile enumerate la art. 144.
 	b. încălcarea Politicii Safe from Harm (art.14 (2)).
 
+Art. 148+1. În situația deosebită în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări: 
+	(1) Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului, în funcție de încadrarea acțiunii / comportamentului, comisie formată din responsabili SfH sau membri ai Comisiei Permanente de Etică, Disciplină și Statut, aleși aleatoriu; 
+	(2) Membrul / membrii consiliului anchetați pot alege să se retragă din activitatea Consiliului Director / activitatea cercetășească până la încheierea anchetei; 
+	(3) Odată ce ancheta este încheiată, membrii Comisiei de Etică, Disciplină și Statut decid asupra anchetei, prin vot asupra recomandărilor comisiei. create în baza Statutului și Regulamentului ONCR; 
+	(4) Decizia acestei comisii va fi implementată de către Consiliul Director cu caracter obligatoriu; 
+	(5) În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director și / sau ONCR, decizia de destituire din funcție și excluderea lui se face prin vot în Adunarea Generală ONCR, în conformitate cu Statutul și Regulamentul ONCR; 
+	(6) Intervalul de timp în care se formează comisia, se finalizează ancheta și se comunică decizia nu trebuie să depășească o lună, de la momentul primirii sesizării.
+
 Art. 149. În cazul Șefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Șefului de unitate.
         	
 Art. 150. În cazul Șefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 148, acesta poate fi sancționat conform art. 145, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației de către aceștia sau, respectiv, de către Responsabilul Local de Safe from Harm și cu acordul Șefului Consiliului Centrului Local.
@@ -948,6 +956,12 @@ Art. 156. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 Art. 157.
 	(1) Împotriva sancțiunilor se poate face contestație, către organul care a pronunțat sancțiunea, sau apel, direct la Consiliul Director.
 	(2) În cazul în care Consiliul Director a propus sancțiunea, apelantul are dreptul de a-și susține cauza în Adunarea Generală, cauza fiind trecută ca punct pe ordinea de zi.
+
+Capitolul VI. Elemente de identitate
+====================================
+
+Art. 157+1. Manualul de Elemente de Identitate ale ONCR, care detaliază elementele vizuale folosite de ONCR, uniforma, steagurile, precum și regulile lor de folosire și alte reguli de comunicare, sunt specificate în Anexa 10, parte din acest Regulament. 
+
 
 Capitolul VI. Dispoziții finale
 ===============================
