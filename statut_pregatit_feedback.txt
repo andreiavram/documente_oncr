@@ -180,7 +180,7 @@ A 1.2 - Consiliul Director
 
 Art. 28. Componenţa
 	(1) Consiliul Director conduce activitatea ONCR în intervalul dintre sesiunile Adunării Generale.
-	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR, aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
+	(2) Consiliul Director este format din 7 membri ai Centrelor Locale ONCR și un trezorier. Cei 7 membri aleşi pentru un mandat de 3 ani de către Adunarea Generală prin votul secret a cel puţin 50%+1 din totalul delegaţilor prezenţi.
 	(3) Toţi candidaţii sunt propuşi individual de către Centrele Locale.
 	(4) Preşedintele este ales nominal de către Adunarea Generală, iar ceilalţi 6 candidați sunt aleşi cu titlul de membri.
 	(5) Preşedintele numeşte Vicepreşedintele dintre membrii aleşi ai Consiliului Director.
@@ -193,7 +193,7 @@ Art. 29. Funcţionare
 	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nicio prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(6) Absența Președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
+	(6) Absența Președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
 	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
 	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
 

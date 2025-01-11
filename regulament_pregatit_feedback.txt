@@ -268,16 +268,16 @@ Art. 44. Consiliul Director conduce activitatea ONCR în intervalul dintre sesiu
 
 
 Art. 45.
-	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
+	(1) Consiliul Director este format din 7 membri ai ONCR (președintele și 6 membri) aleși și un trezorier; cei 7 membri sunt aleși pentru un mandat de trei ani de către Adunarea Generală prin votul secret a cel puțin 50%+1 din totalul delegaților prezenți.
 	(2) Președintele este ales nominal de către Adunarea Generală, iar ceilalți 6 sunt aleși cu titlul de membri.
 	(3) Președintele numește vicepreședintele dintre membrii Consiliului Director.
-	(4) Trezorierul ONCR este un membru ex officio, numit de Consiliul Director.
+	(4) Trezorierul ONCR este un membru ex officio, este numit de Consiliul Director și nu este unul din cei 7 membri aleși.
 
 Art. 46. 
 	(1) Consiliul Director stabilește atribuțiile membrilor acestuia pe baza priorităților (obiectivelor strategice) ale ONCR, adoptate de Adunarea Generală, componența pe responsabilități a Consiliului Director fiind anunțată de președinte în cadrul Adunării Generale
 	(2) Membrii Consiliului Director care au atribuția de a coordona realizarea obiectivelor strategice sunt numiți Coordonatori Naționali pentru fiecare obiectiv.
 	(3) Comisarul Internațional conduce Departamentul Internațional și are atribuții legate de relația cu orice structuri cercetășești din afara țării; nu are responsabilitatea nici unui obiectiv strategic.
-	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
+	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director, nu poate avea un alt rol în cadrul Consiliului Director
 	(5) Atribuțiile președintelui, vicepreședintelui și trezorierului sunt prezentate în extenso, în fișele posturilor respective, din prezentul Regulament.
 	(6) Toți membrii sunt responsabili de a păstra o comunicare constantă cu colegii de Consiliu Director, răspunzând într-un timp rezonabil solicitărilor cărora le sunt adresate.
 
@@ -289,10 +289,10 @@ Art. 47. Secretarul Consiliului Director
 Art. 48.
 	(1) Consiliul Director se întrunește în ședință ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
 	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de termen.
-	(3) Prezența a 3/4 din totalul membrilor constituie cvorumul necesar desfășurării ședinței.
-	(4) Absența președintelui sau a oricărui membru al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49.
+	(3) Prezența a 3/4 din totalul membrilor aleși constituie cvorumul necesar desfășurării ședinței.
+	(4) Absența președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49.
 	(5) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
-	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a trezorierului, a juristului organizației, a șefilor Centrelor Locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
+	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a juristului organizației, a șefilor Centrelor Locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
 	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
 	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
 	(9) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
