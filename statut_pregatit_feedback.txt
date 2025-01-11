@@ -234,13 +234,13 @@ Art. 31. Atribuţii:
 	cc. în condițiile în care un Centru Local desființat/dizolvat a lichidat patrimoniul, CD desemnează o persoană pentru semnarea documentelor de preluare a bunurilor.
 	dd. aprobă procedurile de lucru pentru toate structurile ONCR;
 
-Art. 31+1. Sancțiuni: În cazul în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări, Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului în funcție de încadrarea acțiunii / comportamentului; Decizia comisiei de anchetă este votată de Comisia de Etică, Disciplină și Statut și va fi implementată de către Consiliul Director cu caracter obligatoriu; În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director, decizia de destituire din funcție și excluderea lui se face prin vot în AG în conformitate cu Statutul și Regulamentul ONCR.
+Art. 32. Sancțiuni: În cazul în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări, Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului în funcție de încadrarea acțiunii / comportamentului; Decizia comisiei de anchetă este votată de Comisia de Etică, Disciplină și Statut și va fi implementată de către Consiliul Director cu caracter obligatoriu; În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director, decizia de destituire din funcție și excluderea lui se face prin vot în AG în conformitate cu Statutul și Regulamentul ONCR.
 
 
 A1.3 - Președintele ONCR
 ========================
 
-Art. 32. Președintele ONCR are următoarele atribuții:
+Art. 33. Președintele ONCR are următoarele atribuții:
 	a. prezidează lucrările Adunării Generale;
 	b. convoacă și prezidează ședințele Consiliului Director;
 	c. reprezintă ONCR la nivel local, național și internațional;
@@ -253,9 +253,9 @@ A2 - Organele Executive
 A2.1 - Directorul Executiv
 ==========================
 
-Art. 33. Angajarea în funcție. Directorul Executiv este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
+Art. 34. Angajarea în funcție. Directorul Executiv este angajat prin concurs, în conformitate cu legile în vigoare, de către Consiliul Director.
 
-Art. 34. Atribuţii:
+Art. 35. Atribuţii:
 	a. elaborează, împreună cu Președintele, la finele fiecărui an, bugetul anual de venituri și cheltuieli pentru anul următor, pe baza propunerilor Coordonatorilor Naționali și Echipei Executive și supune propunerea Adunării Generale spre aprobare;
 	b. propune structura pe responsabilități a Echipei Executive și componența acesteia;
 	c. angajează executivi pentru realizarea sarcinilor Echipei Executive, semnează contractele de muncă ale acestora;
@@ -271,13 +271,13 @@ Art. 34. Atribuţii:
 A2.2 - Echipa Executivă
 =======================
 
-Art. 35. Componenţă
+Art. 36. Componenţă
 	(1) Echipa Executivă este structura responsabilă cu implementarea tuturor rezoluţiilor Adunării Generale şi a deciziilor Consiliului Director.
 	(2) Echipa Executivă este desemnată de către Directorul Executiv şi aprobată de Consiliul Director.
 	(3) Echipa Executivă este formată din executivi pentru diferite zone de responsabilitate, în funcţie de priorităţile strategice adoptate de Adunarea Generală.
 	(4) Membrii Echipei Executive îşi pot pierde această calitate prin decizia Directorului Executiv cu aprobarea Consiliului Director.
 
-Art. 36. Atribuţii:
+Art. 37. Atribuţii:
 	a. asigură buna funcţionare a activităţii ONCR pe parcursul unui mandat;
 	b. sprijină activitatea Coordonatorilor Naționali, delegând câte un executiv pentru fiecare prioritate strategică;
 	c. elaborează propunerea de buget anual al ONCR pe baza recomandărilor Coordonatorilor Naţionali;
@@ -302,23 +302,23 @@ A3 - Organele de control
 A3.1 - Comisia Națională de Cenzori
 ===================================
 
-Art. 37. Componenţă
+Art. 38. Componenţă
 	(1) Comisia Națională de Cenzori este compusă din 3 membri aleşi de Adunarea Generală printr-o procedură similară alegerii membrilor Consiliului Director şi are atribuţii în controlul financiar al structurilor decizionale şi executive.
 	(2) Membrii comisiei își aleg un Președinte al comisiei care va coordona activitatea acesteia pe durata mandatului.
 
-Art. 38. Atribuţii
+Art. 39. Atribuţii
 	(1) Verifică modul în care sunt administrate finanțele şi patrimoniul ONCR, informează Consiliul Director şi raportează Adunării Generale.
 	(2) În caz de vacanță a funcţiei de Director Executiv, sau la constatarea unor nereguli comise de acesta, Comisia Națională de Cenzori îi poate retrage calitatea de operator de credite, la cererea şi prin decizia Consiliului Director.
 
 A3.2 - Comisia de Etică, Disciplină și Statut
 =============================================
 
-Art. 39. Componență: 
+Art. 40. Componență: 
 	(1) comisia permanentă, alcătuită din 4 cercetași aleși de Adunarea Generală prin votul secret a două treimi din AG;
 	(2) un grup de voluntari, numiți de Centrele Locale pentru a lua parte la analizarea diferitelor situații;
 	(3) un secretar general care se ocupă de partea administrativ - logistică.
 
-Art. 40. Atribuții:
+Art. 41. Atribuții:
 	(1) Asigură standardele etice în activitatea organizației;
 	(2) Verifică, la solicitarea justificată a unor alte structuri ONCR sau a unor membri, situațiile în care se încalcă Statutul și Regulamentul sau Legea Cercetașului;
 	(3) Mediază conflictele între structuri ONCR (la nivel local sau național) sau între membri și structuri ONCR;
@@ -330,7 +330,7 @@ Secțiunea B - Structuri Locale
 B1 - Centrul Local
 ==================
 
-Art. 41. Componenţă
+Art. 42. Componenţă
 	(1) La nivel local, ONCR are filiale, numite Centre Locale.
 	(2) Acestea au nume proprii şi se înfiinţează de către ONCR, prin decizia Consiliului Director, la cererea unui Grup Extern, în baza hotărârii Adunării Generale ONCR.
 	(3) Într-o localitate pot funcţiona mai multe Centre Locale, în limita respectării prevederilor Regulamentului ONCR.
@@ -338,26 +338,26 @@ Art. 41. Componenţă
 	(5) Centrul Local poate avea patrimoniu propriu, în conformitate cu legislația în vigoare și Regulamentul ONCR.
 	(6) Obținerea sau retragerea calității de membru într-o altă structură (cu personalitatea juridică) de către un Centru Local se realizează cu aprobarea Consiliului Director, în limitele prevederilor Statutului și Regulamentului ONCR.
 
-Art. 42. Atribuţii:
+Art. 43. Atribuţii:
 	a. facilitează activitățile desfășurate de cercetași;
 	b. identifică și gestionează resursele materiale și financiare;
 	c. coordonează activitatea membrilor de la nivel local;
 	d. reprezintă membrii în cadrul Adunării Generale a ONCR;
 	e. asigură comunicarea membrilor Centrului Local cu ceilalți membri ai ONCR sau cu structuri ale acesteia.
 
-Art. 43. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
-Art. 44. Centrele Locale se desfiinţează/ dizolvă prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, numărul necesar de membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei sau la transmiterea solicitării de dizolvare/desființare din partea Centrului Local, în condiţiile prevăzute de Regulamentul ONCR.
+Art. 44. Pentru a putea mentora Grupuri de Cercetași, un Centru Local trebuie să fie recunoscut în acest sens de Consiliul Director. Criteriile și procedura de recunoaștere sunt stabilite prin Regulament.
+Art. 45. Centrele Locale se desfiinţează/ dizolvă prin decizia Consiliului Director, în baza hotărârii Adunării Generale ONCR, pentru lipsa de activitate, comunicare, numărul necesar de membri, pentru neprezentarea la trei Adunări Generale succesive sau a plății cotizaţiei sau la transmiterea solicitării de dizolvare/desființare din partea Centrului Local, în condiţiile prevăzute de Regulamentul ONCR.
 
 
 B2 - Adunarea Generală a Centrului Local
 ========================================
 
-Art. 45. Componenţă
+Art. 46. Componenţă
 	(1) Adunarea Generală a Centrului Local este forul de conducere al Centrului Local, care implementează obiectivele strategice ale ONCR la nivel local.
 	(2) Adunarea Generală se convoacă în sesiune ordinară anuală, sau în sesiune extraordinară, ori de câte ori este nevoie.
 	(3) La aceste adunări participă, cu drept de vot, toți membrii titulari ai centrului care au împlinit vârsta de 16 ani, au depus promisiunea și au cotizația plătită la zi. Alumni pot participa ca invitați, fără a avea drept de vot.
 
-Art. 46. Atribuţii.
+Art. 47. Atribuţii.
 	(1) Adunarea Generală a Centrului Local are următoarele atribuții anuale:
 		a. dezbate raportul de activitate al CCL și al cenzorilor;
 		b. dezbate și adoptă planul de activități al Centrului Local pentru anul următor;
@@ -378,13 +378,13 @@ Art. 46. Atribuţii.
 B3 - Consiliul Centrului Local
 ==============================
 
-Art. 47. Componenţă
+Art. 48. Componenţă
 	(1) Consiliul Centrului Local (CCL) conduce activitatea Centrului Local între Adunările Generale.
 	(2) CCL este compus din Şeful Centrului Local şi minim 2 alți membri
 	(3) Şeful Centrului Local este responsabil cu implementarea deciziilor luate de Consiliu şi reprezintă Centrul Local în interiorul şi în exteriorul ONCR.
 	(4) Pentru relațiile cu exteriorul ONCR, Șeful Centrului Local poate folosi titulatura de Președinte al Centrului Local.
 
-Art. 48. Atribuţii:
+Art. 49. Atribuţii:
 	a. asigură membrilor săi un program bazat pe activități periodice;
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită pentru ONCR;
 	c. răspunde, în timpul solicitat, cu informații referitoare la activitatea Centrului Local;
@@ -395,30 +395,30 @@ Art. 48. Atribuţii:
 B4 - Comisia de Cenzori
 =======================
 
-Art. 49. Componenţă. Adunarea Generală a Centrului Local desemnează un cenzor, iar în cazurile în care numărul membrilor depăşeşte 100, va exista o comisie de cenzori compusă din 3 membri.
+Art. 50. Componenţă. Adunarea Generală a Centrului Local desemnează un cenzor, iar în cazurile în care numărul membrilor depăşeşte 100, va exista o comisie de cenzori compusă din 3 membri.
 
-Art. 50. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similare cu ale celor din structura naţională.	
+Art. 51. Atribuţii. Atribuţiile cenzorilor din structurile locale sunt similare cu ale celor din structura naţională.	
 
 B4+1 - Grupuri de Cercetași
 ===========================
 
-Art. 51. În faza incipientă a dezvoltării unui Centru Local sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
+Art. 52. În faza incipientă a dezvoltării unui Centru Local sau în situația în care cercetașii / aspiranții la cercetășie dintr-un grup informal nu au capacitatea de gestiune proprie, ei pot funcționa sub forma unui grup de cercetași (grup extern)
 
-Art. 52. Grupul de Cercetași este format din minim o patrulă, și poate exista fără un lider adult propriu.
+Art. 53. Grupul de Cercetași este format din minim o patrulă, și poate exista fără un lider adult propriu.
 
-Art. 53. Un Grup de Cercetași poate exista doar sub tutela unui Centru Local mentor sau, în situații excepționale descrise în regulament, sub tutela Consiliului Director.
+Art. 54. Un Grup de Cercetași poate exista doar sub tutela unui Centru Local mentor sau, în situații excepționale descrise în regulament, sub tutela Consiliului Director.
 
-Art. 54. Structura mentor își îndeplinește această atribuție în baza unui Plan de Mentorat
+Art. 55. Structura mentor își îndeplinește această atribuție în baza unui Plan de Mentorat
 
-Art. 55. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ în Centrul Local mentor;
+Art. 56. Membrii unui Grup de Cercetași sunt integrați tehnic și administrativ în Centrul Local mentor;
 
-Art. 56. Grupul de Cercetași se va organiza intern, în măsura în care numărul de membrii îi permite, informal, pe aceleași principii și structuri democratice cu cele din Centrele Locale - Adunare Generală, Consiliu al Grupului de Cercetași ales prin vot
+Art. 57. Grupul de Cercetași se va organiza intern, în măsura în care numărul de membrii îi permite, informal, pe aceleași principii și structuri democratice cu cele din Centrele Locale - Adunare Generală, Consiliu al Grupului de Cercetași ales prin vot
 
-Art. 57. Membrii Grupului de Cercetași participă ca observator fără drept de vot la Adunările Generale ale Centrului Local Mentor, care le asigură un spațiu de exprimare a opiniilor / pozițiilor.
+Art. 58. Membrii Grupului de Cercetași participă ca observator fără drept de vot la Adunările Generale ale Centrului Local Mentor, care le asigură un spațiu de exprimare a opiniilor / pozițiilor.
 
-Art. 58. Grupul de Cercetași poate participa prin delegați la întâlnirile Consiliului Centrului Local care îi mentorează, la invitația acestora, și pot participa ca observatori fără drept de vot la Adunarea Generală a ONCR.
+Art. 59. Grupul de Cercetași poate participa prin delegați la întâlnirile Consiliului Centrului Local care îi mentorează, la invitația acestora, și pot participa ca observatori fără drept de vot la Adunarea Generală a ONCR.
 
-Art. 59. Grupul de Cercetași își încetează existența:
+Art. 60. Grupul de Cercetași își încetează existența:
 	(1) când devine Centru Local
 	(2) dacă nu respectă Planul de Mentorat
 	(3) prin decizia membrilor
@@ -426,13 +426,13 @@ Art. 59. Grupul de Cercetași își încetează existența:
 B5 - Alte structuri locale
 ==========================
 
-Art. 60. Structuri locale
+Art. 61. Structuri locale
 	a. Consiliul Director al organizaţiei poate autoriza înfiinţarea unor structuri locale în vederea desfăşurării activităţilor prevăzute de art. 62 din Statut, iar Adunarea Generală poate aproba înfiinţarea şi desfiinţarea acestor structuri;
 
 Capitolul V. Management financiar
 =================================
 
-Art. 61. Veniturile structurilor naţionale şi ale Centrelor Locale ale ONCR se realizează din:
+Art. 62. Veniturile structurilor naţionale şi ale Centrelor Locale ale ONCR se realizează din:
 	a. cotizaţiile membrilor;
 	b. dobânzi şi dividende rezultate din plasarea sumelor disponibile în condiţii legale;
 	c. veniturile realizate din activităţi economice directe;
@@ -440,58 +440,58 @@ Art. 61. Veniturile structurilor naţionale şi ale Centrelor Locale ale ONCR se
 	e. resurse obţinute de la bugetul de stat şi/ sau de la bugetele locale;
 	f. alte venituri prevăzute de lege.
 
-Art. 62. Activități economice
+Art. 63. Activități economice
 	(1) Structurile ONCR pot desfăşura activităţi economice directe cu caracter accesoriu în strânsă legătură cu realizarea scopurilor organizaţiei.
 	(2) Veniturile realizate servesc activităţilor non-profit.
 
-Art. 63. Folosirea veniturilor organizaţiei se realizează potrivit Nomenclatorului financiar al ONCR (Anexa nr. 1 la Regulament) şi a legilor în vigoare.
+Art. 64. Folosirea veniturilor organizaţiei se realizează potrivit Nomenclatorului financiar al ONCR (Anexa nr. 1 la Regulament) şi a legilor în vigoare.
 
-Art. 64. Taxă de înscriere și cotizație
+Art. 65. Taxă de înscriere și cotizație
 	(1) Fiecare membru plăteşte o taxă de înscriere şi, ulterior, o cotizaţie anuală, ale căror cuantumuri sunt stabilite de Adunarea Generală a Centrului Local în care se înscrie, în funcţie de nevoile Centrului Local și ale ONCR.
 	(2) Taxa de înscriere şi cotizaţia se plătesc în cadrul Centrului Local de provenienţă.
 	(3) Alumni sunt scutiți de obligativitatea plății cotizației anuale.
 
-Art. 65. Donații
+Art. 66. Donații
 	(1) ONCR, precum şi Centrele Locale, pot primi donaţii sub formă de fonduri băneşti, bunuri materiale mobile sau imobile, numai în cazul în care acceptarea acestora nu implică condiţionări în activitatea organizaţiei.
 	(3) Centrele pot să înstrăineze bunuri din patrimoniul propriu, dacă aceasta este în interesul organizaţiei, conform Regulamentului ONCR.
 
-Art. 66. Ordonatorii de credit ONCR sunt după cum urmează:
+Art. 67. Ordonatorii de credit ONCR sunt după cum urmează:
 	a. aprobarea bugetului anual: Directorul Executiv şi Preşedintele;
 	b. retrageri de sume: Directorul Executiv şi Trezorierul, iar peste pragul stabilit de Consiliul Director: Directorul Executiv şi Preşedintele;
 	c. semnarea bilanţului anual: Contabilul Autorizat şi Directorul Executiv.
 
-Art. 67. Desființarea și Dizolvarea
+Art. 68. Desființarea și Dizolvarea
 	(1) Toate bunurile Centrelor Locale care se desfiinţează/dizolvă trec în administrarea și proprietatea ONCR; Consiliul Director dispune folosirea acestora.
 	(2) În cazul dizolvării Asociaţiei, patrimoniul acesteia se împarte Centrelor Locale sau grupurilor de cercetaşi rămase.
 
 Capitolul VI. Regulament, Elemente de identificare şi dispoziţii de aplicare
 ============================================================================
 
-Art. 68. Dispoziții de aplicare
+Art. 69. Dispoziții de aplicare
 	(1) Statutul ONCR este actualizat la data de 13.11.2021 și cuprinde toate modificările adoptate de Adunările Generale de la constituire și până în prezent.
 	(2) Pe baza prevederilor sale, se elaborează Regulamentul de organizare şi funcţionare al ONCR. De asemenea, celelalte acte ale ONCR se fundamentează pe prezentul Statut.
 	(3) Prezentul Statut abrogă orice dispoziţie contrară şi anulează celelalte Statute în vigoare, inclusiv ale asociaţiilor cu care ONCR fuzionează prin absorbţie.
 	(4) Modalităţile de lucru neprevăzute în Statut sau Regulament, precum şi alte reglementări speciale, sunt de competenţa Consiliului Director, care le va supune validării primei Adunări Generale.
 
-Art. 69. În limitele prezentului Statut şi ale Regulamentului, ONCR va putea fuziona cu alte asociaţii de cercetaşi din România, prin absorbţia acestora, dacă se respectă principiile fundamentale ale mişcării şi legile ţării.
+Art. 70. În limitele prezentului Statut şi ale Regulamentului, ONCR va putea fuziona cu alte asociaţii de cercetaşi din România, prin absorbţia acestora, dacă se respectă principiile fundamentale ale mişcării şi legile ţării.
 
-Art. 70. Modificare Statut și Regulament
+Art. 71. Modificare Statut și Regulament
 	(1) Statutul şi Regulamentul ONCR pot fi modificate doar de către Adunarea Generală, cu un cvorum de minimum 2/3 din numărul total al delegaţilor Centrelor Locale în cazul Statutului, respectiv 50%+1 în cazul Regulamentului.
 	(2) Modificările vor fi adoptate prin votul deschis a cel puţin 2/3 din numărul membrilor prezenţi.
 
-Art. 71. Prevederile Statutului şi Regulamentului sunt obligatorii pentru toţi membrii, structurile şi forurile de conducere ONCR.
+Art. 72. Prevederile Statutului şi Regulamentului sunt obligatorii pentru toţi membrii, structurile şi forurile de conducere ONCR.
 
-Art. 72. Sigla ONCR este o încrucişare compusă din patru crengi de brad de culoare verde, suport pentru simbolul cercetăşiei: floarea de crin stilizată, de culoare galbenă.
+Art. 73. Sigla ONCR este o încrucişare compusă din patru crengi de brad de culoare verde, suport pentru simbolul cercetăşiei: floarea de crin stilizată, de culoare galbenă.
 
-Art. 73. Drapel.
+Art. 74. Drapel.
 	(1) Drapelul ONCR are formă dreptunghiulară, de culoare albă, având în partea centrală însemnul asociaţiei, în partea superioară textul „Organizaţia Naţională”, iar în partea inferioară textul „Cercetaşii României”.
 	(2) Lățimea drapelului este egală cu 2/3 din lungimea acestuia.
 	(3) Procedura de arborare a drapelului ONCR este prevăzută în reglementările interne ONCR.
 
-Art. 74. Imnul. ONCR are imn propriu, stabilit de către Adunarea Generală.
+Art. 75. Imnul. ONCR are imn propriu, stabilit de către Adunarea Generală.
 
-Art. 75. Deviza. Deviza ONCR este „Gata Oricând!”.
+Art. 76. Deviza. Deviza ONCR este „Gata Oricând!”.
 
-Art. 76. Salutul. Se face cu brațul drept semiflexat din cot, având trei degete lipite (inelar, mijlociu și arătător), iar degetul mare suprapus peste cel mic.
+Art. 77. Salutul. Se face cu brațul drept semiflexat din cot, având trei degete lipite (inelar, mijlociu și arătător), iar degetul mare suprapus peste cel mic.
 
-Art. 77. Uniforma. Uniforma ONCR este compusă din: eşarfă, cămaşă, tricou, pantaloni/ fustă şi însemne conform Regulamentului ONCR.
+Art. 78. Uniforma. Uniforma ONCR este compusă din: eşarfă, cămaşă, tricou, pantaloni/ fustă şi însemne conform Regulamentului ONCR.

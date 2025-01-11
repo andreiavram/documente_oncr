@@ -900,7 +900,7 @@ Art. 148. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulț
 	a. abaterile enumerate la art. 144.
 	b. încălcarea Politicii Safe from Harm (art.14 (2)).
 
-Art. 148+1. În situația deosebită în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări: 
+Art. 149. În situația deosebită în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări: 
 	(1) Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului, în funcție de încadrarea acțiunii / comportamentului, comisie formată din responsabili SfH sau membri ai Comisiei Permanente de Etică, Disciplină și Statut, aleși aleatoriu; 
 	(2) Membrul / membrii consiliului anchetați pot alege să se retragă din activitatea Consiliului Director / activitatea cercetășească până la încheierea anchetei; 
 	(3) Odată ce ancheta este încheiată, membrii Comisiei de Etică, Disciplină și Statut decid asupra anchetei, prin vot asupra recomandărilor comisiei. create în baza Statutului și Regulamentului ONCR; 
@@ -908,29 +908,29 @@ Art. 148+1. În situația deosebită în care unul sau mai mulți membri din Con
 	(5) În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director și / sau ONCR, decizia de destituire din funcție și excluderea lui se face prin vot în Adunarea Generală ONCR, în conformitate cu Statutul și Regulamentul ONCR; 
 	(6) Intervalul de timp în care se formează comisia, se finalizează ancheta și se comunică decizia nu trebuie să depășească o lună, de la momentul primirii sesizării.
 
-Art. 149. În cazul Șefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Șefului de unitate.
+Art. 150. În cazul Șefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Șefului de unitate.
         	
-Art. 150. În cazul Șefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 148, acesta poate fi sancționat conform art. 145, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației de către aceștia sau, respectiv, de către Responsabilul Local de Safe from Harm și cu acordul Șefului Consiliului Centrului Local.
+Art. 151. În cazul Șefului de unitate considerat necorespunzător sau care a săvârșit o faptă sau fapte prevăzute la art. 148, acesta poate fi sancționat conform art. 145, destituirea din funcție fiind hotărâtă de membrii unității, în urma analizei situației de către aceștia sau, respectiv, de către Responsabilul Local de Safe from Harm și cu acordul Șefului Consiliului Centrului Local.
 
-Art. 151. În cazul Șefului de Centru Local:
+Art. 152. În cazul Șefului de Centru Local:
 	(1) pentru săvârșirea abaterilor prevăzute la art. 148, constatate și dovedite de Consiliul Centrului Local sau
 	(2) pentru nerespectarea obligațiilor asumate cu ocazia alegerii în funcție, constatate și dovedite de Consiliul Centrului Local, Șeful Centrului Local poate fi destituit din funcție, de către Adunarea Generală a Centrului Local, întrunită în sesiune extraordinară.
 	(3) pentru situații deosebite, care necesită o anchetă ce depășește posibilitățile locale, sau organe specializate, Consiliul Centrului Local poate sesiza Consiliul Director, care va acționa în conformitate cu art. 52. lit. w., Responsabilul Național/Regional de Safe from Harm, care acționează conform procedurilor Politicii Safe from Harm sau Comisia de Etică, Disciplină și Statut.
 
-Art. 152. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director sau de o comisie de Safe from Harm, iar rezultatul anchetei este incriminatoriu, Consiliul Director, Responsabilul Național/Regional de Safe from Harm sau, respectiv Comisia de Etică, Disciplină și Statut aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
+Art. 153. Pentru abateri deosebit de grave, când fapta este anchetată de o comisie a Consiliului Director sau de o comisie de Safe from Harm, iar rezultatul anchetei este incriminatoriu, Consiliul Director, Responsabilul Național/Regional de Safe from Harm sau, respectiv Comisia de Etică, Disciplină și Statut aduce la cunoștința Centrului Local de care aparține vinovatul rezultatul anchetei și sancțiunea hotărâtă de acesta. Sancțiunea poate fi graduală, mergând până la excluderea din ONCR.
 
-Art. 153.
+Art. 154.
 	(1) În perioada instrumentării anchetei, persoana anchetată poate fi suspendată din funcție, dacă comisia de anchetă consideră aceasta necesar.
 	(2) Suspendarea din funcție nu poate depăși 30 zile și este ridicată imediat dacă rezultatele anchetei sunt negative.
 	(3) Comunicarea ridicării suspendării se va efectua în maxim 3 zile de la data prezentării rezultatelor anchetei în fața Consiliului Director.
 
-Art. 154.
+Art. 155.
 	(1) Membrii ONCR care candidează și sunt aleși în funcții eligibile nu pot fi destituiți decât de structurile care i-au ales.
 	(2) Pentru situația descrisă la art. 151, destituirea (care poate urma suspendării din funcție) unui Șef de Centru Local este de competența Adunării Generale a Centrului Local.
         	
-Art. 155. Membrii Consiliului Director, ai Comisiei Naționale de Cenzori și ai Comisiei de Etică, Disciplină și Statut nu pot fi destituiți decât de Adunarea Generală a ONCR.
+Art. 156. Membrii Consiliului Director, ai Comisiei Naționale de Cenzori și ai Comisiei de Etică, Disciplină și Statut nu pot fi destituiți decât de Adunarea Generală a ONCR.
 
-Art. 156. Pentru structuri locale care se fac vinovate de acte de indisciplină în desfășurarea activităților cercetășești sau activități financiare, sancțiunea este suspendarea temporară.
+Art. 157. Pentru structuri locale care se fac vinovate de acte de indisciplină în desfășurarea activităților cercetășești sau activități financiare, sancțiunea este suspendarea temporară.
 	(1) Motivele suspendării pot fi următoarele (cel puțin un motiv):
 		a. neplata cotizației anuale
 		b. lipsa de activitate timp de un an
@@ -953,25 +953,25 @@ Art. 156. Pentru structuri locale care se fac vinovate de acte de indisciplină 
 	(5) Dacă după trecerea perioadei de suspendare nu s-a remediat situația care a dus la suspendare, se va extinde automat suspendarea pentru încă 6 luni și Centrul Local respectiv va fi propus spre desființare/dizolvare.
 	(6) Membrii Centrelor Locale suspendate nu pot fi participanți la activități înafara Centrului Local strict din perspectiva rolului pe care îl au în Centrul Local. Membrii unui Centru Local suspendat care sunt membrii în structuri naționale/ implicați în proiecte naționale pot să-și continue activitatea chiar dacă Centrul Local din care fac parte este sancționat cu suspendarea.
 
-Art. 157.
+Art. 158.
 	(1) Împotriva sancțiunilor se poate face contestație, către organul care a pronunțat sancțiunea, sau apel, direct la Consiliul Director.
 	(2) În cazul în care Consiliul Director a propus sancțiunea, apelantul are dreptul de a-și susține cauza în Adunarea Generală, cauza fiind trecută ca punct pe ordinea de zi.
 
 Capitolul VI. Elemente de identitate
 ====================================
 
-Art. 157+1. Manualul de Elemente de Identitate ale ONCR, care detaliază elementele vizuale folosite de ONCR, uniforma, steagurile, precum și regulile lor de folosire și alte reguli de comunicare, sunt specificate în Anexa 10, parte din acest Regulament. 
+Art. 159. Manualul de Elemente de Identitate ale ONCR, care detaliază elementele vizuale folosite de ONCR, uniforma, steagurile, precum și regulile lor de folosire și alte reguli de comunicare, sunt specificate în Anexa 10, parte din acest Regulament. 
 
 
-Capitolul VI. Dispoziții finale
+Capitolul VII. Dispoziții finale
 ===============================
 
-Art. 158. Prezentul Regulament de Organizare și Funcționare al ONCR a fost elaborat pe baza prevederilor Statutului ONCR, adoptat de Adunarea Generală la data de 13.11.2021, și în vigoare de la această dată.
+Art. 160. Prezentul Regulament de Organizare și Funcționare al ONCR a fost elaborat pe baza prevederilor Statutului ONCR, adoptat de Adunarea Generală la data de 13.11.2021, și în vigoare de la această dată.
 
-Art. 159. Orice situație sau problemă neprevăzută în prezentul Regulament va fi analizată și soluționată de Consiliul Director și considerată ca jurisprudență.
+Art. 161. Orice situație sau problemă neprevăzută în prezentul Regulament va fi analizată și soluționată de Consiliul Director și considerată ca jurisprudență.
 
-Art. 160 Prezentul Regulament a fost aprobat de Adunarea Generală din data de 13.11.2021 și intră în vigoare de la această dată.
+Art. 162 Prezentul Regulament a fost aprobat de Adunarea Generală din data de 13.11.2021 și intră în vigoare de la această dată.
 
-Art. 161. Modificările prezentului Regulament pot fi efectuate în conformitate cu art. 70 din Statutul ONCR.
+Art. 163. Modificările prezentului Regulament pot fi efectuate în conformitate cu art. 70 din Statutul ONCR.
 
-Art. 162. Reglementările cuprinse în celelalte Regulamente de Organizare și Funcționare ale ONCR, se abrogă.
+Art. 164. Reglementările cuprinse în celelalte Regulamente de Organizare și Funcționare ale ONCR, se abrogă.
