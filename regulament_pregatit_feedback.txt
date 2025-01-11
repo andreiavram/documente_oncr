@@ -225,8 +225,9 @@ Art. 31. Candidații pentru structurile naționale cu membri aleși de Adunarea 
 		c. au servit sau servesc în Consiliul Centrului Local al unui Centru Local sau au servit într-o altă structură națională (Consiliul Director, Comisia Națională de Cenzori);
 		d. au un istoric cercetășesc lipsit de sancțiuni.
 
-
-Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale
+Art. 32. Niciun membru al ONCR nu poate face parte simultan din mai multe structuri naționale, cu următoarele excepții:
+	(1) Membrii grupului de voluntari Comisiei de Etică, Disciplină și Statut pot face parte din Comisia Națională de Cenzori sau din Echipa Executivă 
+	(2) Membrii Comisiei Permanente a Comisiei de Etică, Disciplină și Statut pot face parte din Echipa Executivă
 
 Art. 33. Funcția de președinte sau membru în Consiliul Director poate fi ocupată de aceeași persoană doar două mandate consecutive.
 		
