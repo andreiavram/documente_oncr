@@ -384,7 +384,7 @@ Art. 62. Atribuțiile Comisiei Permanente:
 	b. Decide componența grupului de voluntari pentru comisiile de analiză;
 	c. Decide componența comisiilor de analiză și definește un mandat explicit cu privire la care sunt faptele / aspectele pe care acestea trebuie să le stabilească / analizeze;
 	d. Poate solicita, la nevoie, reluarea procedurilor de la început, în orice moment al analizei, invocând și dovedind următoarele motive: informații noi, vicii de procedură, probleme de imparțialitate;
-	e. În cazul în care un membru al Consiliului Director este ținta unei verificări pentru acțiunile sale în această calitate, Comisia va fi întotdeauna formată din 3 membri ai Comisiei Permanente, aleși aleator;
+	e. În situația în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări, Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului, în funcție de încadrarea acțiunii / comportamentului, comisie formată din responsabili Safe from Harm sau membri ai Comisiei Permanente, aleși aleatoriu;
 	f. În cazul în care un membru al Comisiei Permanente este verificat, indiferent dacă este vorba despre verificarea activității acestuia în cadrul Comisiei sau despre orice alte acțiuni, dar care nu țin de domeniul Safe from Harm, Comisia de analiză va fi alcătuită din 3 persoane care nu fac parte din Comisia Permanentă sau din Consiliul Director, dar care îndeplinesc toate criterile cerute membrilor Comisiei Permanente;
 	g. Decide aplicarea cu caracter obligatoriu a recomandărilor și sancțiunilor stabilite de comisiile de anchetă.
 
@@ -897,6 +897,14 @@ Art. 147.
 Art. 148. Pentru membrii ONCR care au împlinit vârsta de 18 ani (lideri adulți), sunt considerate abateri:
 	a. abaterile enumerate la art. 144.
 	b. încălcarea Politicii Safe from Harm (art.14 (2)).
+
+Art. 148+1. În situația deosebită în care unul sau mai mulți membri din Consiliul Director sunt subiectul unei sesizări: 
+	(1) Comisia de Etică, Disciplină și Statut mandatează o comisie de anchetă potrivită contextului, în funcție de încadrarea acțiunii / comportamentului, comisie formată din responsabili SfH sau membri ai Comisiei Permanente de Etică, Disciplină și Statut, aleși aleatoriu; 
+	(2) Membrul / membrii consiliului anchetați pot alege să se retragă din activitatea Consiliului Director / activitatea cercetășească până la încheierea anchetei; 
+	(3) Odată ce ancheta este încheiată, membrii Comisiei de Etică, Disciplină și Statut decid asupra anchetei, prin vot asupra recomandărilor comisiei. create în baza Statutului și Regulamentului ONCR; 
+	(4) Decizia acestei comisii va fi implementată de către Consiliul Director cu caracter obligatoriu; 
+	(5) În cazul în care recomandarea comisiei de anchetă este excluderea unui membru din Consiliul Director și / sau ONCR, decizia de destituire din funcție și excluderea lui se face prin vot în Adunarea Generală ONCR, în conformitate cu Statutul și Regulamentul ONCR; 
+	(6) Intervalul de timp în care se formează comisia, se finalizează ancheta și se comunică decizia nu trebuie să depășească o lună, de la momentul primirii sesizării.
 
 Art. 149. În cazul Șefului de patrulă considerat necorespunzător de către membrii patrulei, schimbarea din funcție se face de către membrii acesteia, și se consideră sancțiune numai la cererea expresă a acestora, adresată Șefului de unitate.
         	
