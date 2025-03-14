@@ -288,17 +288,14 @@ Art. 47. Secretarul Consiliului Director
 	(2) semnează, alături de președintele ONCR, toate deciziile consiliului, precum și alte documente oficiale emise de această structură.
 	(3) se îngrijește de publicarea deciziilor consiliului către Centrele Locale.
 
-Art. 48.
-	(1) Consiliul Director se întrunește în ședință ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de termen.
-	(3) Prezența a 3/4 din totalul membrilor aleși constituie cvorumul necesar desfășurării ședinței.
-	(4) Absența președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49.
-	(5) Juristul ONCR sau persoana cu pregătire juridică, angajat sau voluntar al ONCR poate participa la ședințele CD, fără drept de vot.
-	(6) Consiliul Director poate decide participarea la ședințe, în calitate de invitați, fără drept de vot, a directorului executiv, a juristului organizației, a șefilor Centrelor Locale sau a altor lideri, precum și persoanelor din afara organizației, în funcție de conținutul ordinii de zi.
-	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
-	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente cu drept de vot. În cazul deciziilor luate online, deciziile se vor lua cu majoritatea simplă de voturi a tuturor membrilor Consiliului Director.
-	(9) Toate discuțiile cu privire la decizii luate online trebuie să fie arhivate și accesibile similar proceselor verbale ale întâlnirilor CD.
-	(10) Toate deciziile care sunt încă deschise votului până la data unei întâlniri de CD vor fi trecute pe ordinea de zi a acelei întâlniri.
+Art. 48. Procesul decizional al Consiliului Director 
+	(1) Consiliul Director dezbate și adoptă decizii în timpul ședințelor sau prin mijloace informatice (email, aplicații internet)
+	(2) Consiliul Director își poate elabora un regulament intern cu privire la procesul decizional
+	(3) Consiliul Director poate decide, de la caz la caz, participarea, fără drept de vot, a unor terți la procesul decizional; aceștia pot include Directorul Executiv, juristul ONCR, șefii Centrelor Locale sau alți cercetași, precum și persoane din afara organizației
+	(4) Consiliul Director are obligația să facă disponibile membrilor ONCR deciziile pe care le ia în cel mult 7 zile de la adoptare
+	(5) În cazul deciziilor luate prin mijloace informatice, acestea vor fi adoptate cu majoritatea simplă de voturi a tuturor membrilor aleși ai Consiliului Director, iar în ședințe cu majoritatea simplă a membrilor aleși prezenți.
+	(6) Consiliul Director documentează și arhivează toate discuțiile relevante pentru procesul decizional pentru fiecare decizie în parte.
+	(7) Absența președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe ordinare consecutive, precum și nerespectarea repetată a termenelor agreate prin regulamentul propriu în procesul decizional, atrage de la sine demiterea acestuia din Consiliul Director și completarea vacantelor conform prevederilor art.49. 
 
 Art. 49. 
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală de alegeri dar care au îndeplinit 50%+1 voturi, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
@@ -306,9 +303,14 @@ Art. 49.
 	(3) Nu se consideră un mandat în sensul art. 33 mandatele asumate în condițiile Art. 49. punctele (1) și (2).
 	(4) În cazul vacanței funcției de președinte, interimatul acestei responsabilități este preluat de către vicepreședinte, până la următoarea Adunare Generală anuală, cand va fi ales un președinte interimar, care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală trienală.
 
-Art. 50.
-	(1) Ședințele Consiliului Director sunt conduse de președinte, iar în lipsa acestuia de vicepreședinte.
-	(2) La fiecare ședință se întocmește un proces verbal, pe care-l semnează toți membrii Consiliului Director prezenți. Procesul verbal va fi redactat de către secretarul Consiliului Director sau o altă persoană desemnată de Consiliul Director. În cel mult 7 zile de la data ședinței, se va elabora pe baza procesului verbal un document rezumativ cu problemele discutate și deciziile adoptate, care va fi avizat de către un membru al Consiliului Director, (numit prin decizie a Consiliului) și adus la cunoștința Centrelor Locale prin secretariatul Echipei Executive.
+Art. 50. Întâlnirile Consiliului Director
+	(1) Consiliul Director se întrunește în ședință ordinară trimestrială, sau extraordinară, de câte ori este nevoie, în persoană, virtual sau hibrid (atât în persoană cât și virtual).
+	(2) Data ședinței Consiliului Director și ordinea de zi propusă vor fi anunțate membrilor Consiliului, de către secretarul Consiliului, cu cel puțin 7 zile înainte de data întâlnirii, sau un termen mai scurt, agreat în unanimitate pentru fiecare întâlnire de către membri aleși ai Consiliului.
+	(3) Prezența a 3/4 din totalul membrilor aleși constituie cvorumul necesar desfășurării ședinței.
+	(4) Ședințele Consiliului Director sunt conduse de președinte, iar în lipsa acestuia de vicepreședinte.
+	(5) Consiliul Director poate decide participarea la ședințe, în funcție de conținutul ordinii de zi, a unor alte persoane, definite în Art. 48.
+	(6) După fiecare ședință, Consiliul Director va aduce la cunoștința Centrelor Locale, prin secretariatul Echipei Executive, un document rezumativ cu privire la problemele discutate, în cel mult 14 zile. 
+
 
 Art. 51. Organizarea structurii executive
 	(1) Activitatea Consiliului Director este susținută de membrii Echipei Executive.
