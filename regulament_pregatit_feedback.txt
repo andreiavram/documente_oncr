@@ -331,7 +331,7 @@ Art. 52. Consiliul Director are următoarele atribuții:
 	j. emite decizii de autorizare și suspendare a Centrelor Locale, avizează propunerile de înființare și desființare a Centrelor Locale.
 	k. aprobă componența Consiliului Centrelor Locale, pe baza procesului verbal al Adunării Generale de alegeri ale Centrelor Locale respective.
 	l. propune rezoluții Adunării Generale.
-	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe.
+	m. aprobă, la propunerea Comisarului Internațional, componența contingentelor de cercetași români pentru participarea la activități internaționale externe, acolo unde organizatorul activității este o structură care nu este de nivel local.
 	n. prezintă Adunării Generale evaluări asupra activităților naționale.
 	o. este responsabil de îndeplinirea obiectivelor strategice și a hotărârilor Adunării Generale.
 	p. 	întocmește planul calendarului cu principalele acțiuni pentru anul următor.
@@ -695,7 +695,7 @@ Art. 105. Consiliul Centrului Local are următoarele atribuții:
 	b. încasează taxa de înscriere și cotizația și achită cota stabilită către ONCR.
 	c. prezintă semestrial (sau la cerere) informări către conducerea ONCR, referitoare la activitatea sa.
 	d. urmărește modul de folosire a fondurilor realizate și asigură o judicioasă folosire a bazei materiale.
-	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale).
+	e. aprobă participarea cercetașilor la evenimente în afara Centrului Local (naționale, internaționale, externe, de colaborare cu alte Centre Locale). Pentru evenimentele internaționale care sunt organizate de o entitate deasupra nivelului local, trimite lista aprobată Departamentului Internațional pentru aprobare și de către Consiliul Director, conform Art. 52, lit. m; pentru celelalte evenimente internaționale, anunță în avans Departamentul Internațional cu privire la participarea cercetașilor săi la evenimentele respective.
 	f. numește dintre membrii adulți ai centrului local cel puțin un Responsabil Local de Safe from Harm, conform prevederilor Politicii Safe from Harm.
 
 Art. 106. Șeful Centrului Local este ales nominal de Adunarea Generală și trebuie să îndeplinească cumulativ următoarele condiții:
