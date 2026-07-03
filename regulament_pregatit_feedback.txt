@@ -318,6 +318,30 @@ Art. 51. Organizarea structurii executive
        (5) Persoanele din structura executivă vor fi coordonate de Directorul Executiv direct sau prin delegare și vor funcționa după reguli stabilite de acesta.
   	(6) Coordonatorii naționali urmăresc constant activitatea Echipei Executive și se asigură că rezultatele acesteia se încadrează în strategia ONCR.
 
+
+Art. 52-bis. Transferul de mandat și perioada de tranziție
+	(1) La alegerea unui nou Consiliu Director are loc o perioadă de tranziție care durează începând cu ziua următoare Adunării Generale de alegeri până la primirea confirmării înregistrării noului Consiliu Director în Registrul Asociațiilor și Fundațiilor, prin extras din Registru.
+	(2) Perioada de tranziție nu poate dura mai mult de 4 luni. Dacă la finalul celor 4 luni, procesul de înregistrare în Registru a modificărilor Consiliului Director nu s-a finalizat, perioada de tranziție se încheie și noul Consiliu Director își preia toate atribuțiile Statutare.
+	(3) Consiliul Director ales poate decide, prin vot secret, unanim, să renunțe la perioada de tranziție.
+	(4) Indiferent de modul în care se încheie perioada de tranziție, finalul ei trebuie comunicat Centrelor Locale în termen de maxim o săptămână.
+	(5) Consiliul Director anterior are responsabilitatea de a lucra cu Consiliul Director ales pentru realizarea procesului de predare/primire a documentelor, proiectelor, situațiilor, sistemului de relații externe și responsabilităților.
+	(6) Consiliul Director ales are adițional responsabilitatea de a folosi perioada de transfer pentru a-și asigura competențele necesare rolului și de a urma procesele formale de confirmare a poziției, conform procedurilor existente.
+	(7) Perioada de tranziție nu se aplică atunci când noul Consiliu Director este ales în urma unor situații excepționale, cum ar fi dizolvarea Consiliului Director din motive Statutare (demisii, demiteri, decese).
+	(8) Consiliul Director anterior este responsabil cu urmărirea procesului de înregistrare în Registrul Asociațiilor și Fundațiilor a Consiliului Director ales.
+	(9) Durata mandatului Consiliului Director se calculează de la momentul alegerii până la data alegerii următorului Consiliu Director.
+
+Art. 52-ter. Funcționarea Consiliului Director în timpul perioadei de tranziție: În perioada de tranziție, Consiliul Director anterior (al cărui mandat se încheie) și cel ales (al cărui mandat începe) exercită atribuțiile Consiliului Director în tandem, pentru asigurarea continuității conducerii Organizației, astfel:
+	(1) Consiliul Director anterior, prin președinte și secretar, își asumă și semnează în continuare documentele ONCR.
+	(2) Consiliul Director ales primește, în termen de 3 zile de la data Adunării Generale care l-a ales, același nivel de acces la informații ca și Consiliul Director anterior.
+	(3) Consiliul Director ales preia imediat după alegeri reprezentarea publică și instituțională a Organizației și folosește cu exclusivitate în extern titlul de membru al Consiliului Director, Președinte și alte roluri asociate, cu excepția actelor cu efecte juridice față de terți, care rămân în sarcina Consiliului Director anterior până la finalizarea înregistrării.
+	(4) Consiliul Director ales poate face numiri pe orice funcții a căror numire ține de atribuțiile Consiliului Director. Numirile au efect imediat și nu sunt afectate de perioada de tranziție.
+	(5) Consiliul Director anterior își continuă atribuțiile statutare, dar trebuie să obțină acordul formal (prin vot) al Consiliului Director ales pentru orice inițiativă nouă, și pentru orice acțiune cu impact asupra gestiunii ONCR (în sensul în care afectează descărcarea de gestiune).
+	(6) Consiliul Director ales pregătește și votează orice inițiativă nouă sau acțiuni cu impact asupra gestiunii ONCR, dar trebuie să obțină votul Consiliului Director anterior pentru asumarea juridică a deciziilor.
+	(7) În oricare din situațiile de mai sus, în lipsa acordului formal al structurii solicitate (Consiliul Director anterior sau ales), decizia nu poate fi adoptată.
+	(8) Orice alte decizii pe care le ia Consiliul Director anterior sau ales vor fi comunicate tuturor membrilor celor două Consilii Directoare fără întârziere.
+
+[ATENTIE renumerotare: conform deciziei, cele doua articole de mai sus se introduc ca Art. 52 si 53, iar articolele urmatoare se decaleaza. In master, Art. 52 este deja "Atributiile Consiliului Director"; numerotarea propusa de decizie NU corespunde cu numerotarea repo-ului. Introduse provizoriu ca 52-bis/52-ter, dupa Art. 51; renumerotarea/pozitionarea finala se reconciliaza manual.]
+
 Art. 52. Consiliul Director are următoarele atribuții:
 	a. convoacă Adunarea Generală.
 	b. urmărește și controlează execuția bugetară pe anul în curs, rectifică la nevoie bugetul anului în curs, aprobă propunerea de buget pentru anul următor.
