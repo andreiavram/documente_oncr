@@ -144,6 +144,7 @@ A 1.1 - Adunarea Generală
 Art. 24. Componenţa
 	(1) Adunarea Generală este forul suprem de conducere al ONCR, alcătuit din delegaţii tuturor Centrelor Locale.
 	(2) La Adunarea Generală a ONCR participă, cu drept de vot, câte un delegat al fiecărui Centru Local legal înfiinţat (conform prevederilor Regulamentului ONCR).
+	(3) Adunarea Generală poate avea loc cu prezenţă fizică, online sau prin corespondenţă, în condiţiile detaliate în Regulament.
 
 Art. 25. Întruniri
 	(1) Adunarea Generală se convoacă în sesiune ordinară de două ori pe an, sau în sesiune extraordinară, ori de câte ori este nevoie, la iniţiativa Consiliului Director sau a 1/3 din numărul Centrelor Locale.
