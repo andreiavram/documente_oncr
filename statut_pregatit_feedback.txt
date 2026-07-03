@@ -153,27 +153,29 @@ Art. 26. Votarea
 	În cadrul Adunării Generale, deciziile vor fi luate prin majoritate simplă (50%+1 din numărul voturilor celor prezenţi). Excepţie fac cazurile expres prevăzute în Statut și Regulament.
 
 Art. 27. Atribuţii
-	(1) Cele două Adunări Generale ordinare au următoarele atribuţii anual:
-		a. dezbate raportul de activitate al Consiliului Director, al Echipei Executive, al Comisiei Naţionale de Cenzori;
-		b. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
-		c. dă descărcarea de gestiune ordonatorului principal de credite;
-		d. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
-		e. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
-		f. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
-		g. aprobă dizolvarea și lichidarea asociației ONCR și numește lichidatorul. 
-		h. aprobă transmiterea bunurilor rămase în urma lichidării ONCR către una sau mai multe organizații de cercetași sau organizații care au ca scop educația non-formală, potrivit propunerilor făcute de către Consiliul Director.
- 		i. hotărăște înființarea Centrelor Locale, desființarea sucursalelor și dizolvarea filialelor în condițiile prevăzute în statut;
-		j. în caz de dizolvare a unei filiale, la solicitarea organizației, ONCR nu răspunde pentru datoriile filialei, lichidatorul fiind îndreptățit să ia toate măsurile care se impun prin legislația în vigoare.
-		k. alege membrii Comisiei de Etică, Disciplină și Statut în funcție de expirarea mandatelor acestora
+	(1) Adunarea Generală ordinară are următoarele atribuţii anual:
+		a. dezbate prioritățile dezvoltării organizaţiei pentru anul următor şi adoptă deciziile ce se impun;
+		b. stabileşte valoarea cotizaţiei anuale şi a cuantumului virat în contul ONCR;
+		c. decide acordarea de titluri și distincții, inclusiv a calităţii de Membru de Onoare şi Preşedinte de Onoare, la propunerea Consiliului Director;
+		d. modifică şi aprobă Statutul și Regulamentul de organizare și funcţionare al ONCR (în sesiune ordinară sau extraordinară) numai în condiţiile prevăzute de Statutul ONCR.
+		e. aprobă dizolvarea și lichidarea asociației ONCR și numește lichidatorul.
+		f. aprobă transmiterea bunurilor rămase în urma lichidării ONCR către una sau mai multe organizații de cercetași sau organizații care au ca scop educația non-formală, potrivit propunerilor făcute de către Consiliul Director.
+		g. hotărăște înființarea Centrelor Locale, desființarea sucursalelor și dizolvarea filialelor în condițiile prevăzute în statut;
+		h. în caz de dizolvare a unei filiale, la solicitarea organizației, ONCR nu răspunde pentru datoriile filialei, lichidatorul fiind îndreptățit să ia toate măsurile care se impun prin legislația în vigoare.
 
-	(2) Adunarea Generală are următoarele atribuții trienal:
-		a. toate atribuțiile Adunării Generale anuale;
+	(2) Prima Adunare Generală din an (cea din primăvară) are următoarele atribuții trienal:
+		a. toate atribuțiile Adunării Generale anuale de la punctele (1) și (3);
 		b. evaluează separat activitatea organelor naţionale al căror mandat se încheie;
 		c. evaluează implementarea obiectivelor strategice pentru ultimii trei ani;
 		d. alege Președintele, membrii Consiliul Director şi membrii Comisiei Naţionale de Cenzori;
 		e. dezbate şi aprobă obiectivele strategice pentru următorii trei ani și planul trienal de acțiune al ONCR.
 
-	(3) A doua Adunare Generală ordinară are adițional următoarele atribuții anuale:
+	(3) Prima Adunare Generală ordinară din an (cea din primăvară) are adițional următoarele atribuții anuale:
+		a. dezbate raportul de activitate al Consiliului Director, al Echipei Executive, al Comisiei Naţionale de Cenzori;
+		b. dă descărcarea de gestiune ordonatorului principal de credite;
+		c. alege membrii Comisiei de Etică, Disciplină și Statut în funcție de expirarea mandatelor acestora
+
+	(4) A doua Adunare Generală ordinară din an (cea din toamnă) are adițional următoarele atribuții anuale:
 		a. Aprobă bugetul de venituri și cheltuieli al ONCR pentru anul următor.
 
 A 1.2 - Consiliul Director
