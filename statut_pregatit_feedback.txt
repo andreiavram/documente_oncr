@@ -205,6 +205,17 @@ Art. 30. Vacanțe de mandat
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
 	(2) În cazul vacanței funcției de Preşedinte, interimatul acestei responsabilităţi este preluat de către Vicepreşedinte, până la următoarea Adunare Generală anuală, unde va fi ales un Preşedinte interimar care va asigura exercițiul mandatului curent până la noile alegeri din următoarea Adunare Generală Trienală.
 
+Art. 31. Transferul de mandat și perioada de tranziție
+	(1) La alegerea unui nou Consiliu Director are loc o perioadă de tranziție care durează până la confirmarea înregistrării noului Consiliu Director în Registrul Asociațiilor și Fundațiilor, dar care nu poate dura mai mult de 4 luni.
+	(2) În perioada de tranziție, Consiliul Director anterior (al cărui mandat se încheie) și cel ales (al cărui mandat începe) exercită atribuțiile Consiliului Director în tandem, pentru asigurarea continuității conducerii Organizației, în condițiile descrise în Regulament.
+	(3) Consiliul Director anterior are responsabilitatea de a lucra cu Consiliul Director ales pentru realizarea procesului de predare/primire a documentelor, proiectelor, situațiilor, sistemului de relații externe și responsabilităților.
+	(4) Consiliul Director ales are adițional responsabilitatea de a folosi perioada de transfer pentru a-și asigura competențele necesare rolului.
+	(5) Consiliul Director ales poate decide, prin vot unanim, să renunțe la perioada de tranziție.
+	(6) Durata mandatului Consiliului Director se calculează de la data alegerilor.
+	(7) Perioada de tranziție nu se aplică atunci când noul Consiliu Director este ales în urma unor situații excepționale, cum ar fi dizolvarea Consiliului Director din motive Statutare (demisii, demiteri, decese).
+
+[ATENTIE renumerotare: conform deciziei, articolul de mai sus devine Art. 31, iar articolele urmatoare (Atributii CD etc.) se decaleaza cu +1. Renumerotarea integrala a Statutului este lasata pentru reconciliere manuala.]
+
 Art. 31. Atribuţii:
 	a. convoacă Adunarea Generală;
 	b. urmărește și controlează execuția bugetară pe anul în curs, rectifică, la nevoie, bugetul anului în curs, aprobă propunerea de buget pentru anul următor;
