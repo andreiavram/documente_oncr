@@ -197,9 +197,9 @@ Art. 29. Funcţionare
 	(3) Comisarul Internaţional este unul din cei 6 membri aleşi, care nu are ca atribuţie nicio prioritate strategică.
 	(4) Trezorierul este consultant pentru politica financiară a ONCR, fără drept de vot în Consiliul Director.
 	(5) Consiliul Director se întruneşte în şedinţă ordinară trimestrială, sau extraordinară, de câte ori este nevoie.
-	(6) Absența Președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, lipsa unui răspuns cu privire la deciziile online poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
-	(7) Consiliul Director poate discuta și lua decizii și folosind sisteme informatice (email, aplicații internet), fără ca acestea să înlocuiască întâlnirile trimestriale.
-	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante.
+	(6) Absența Președintelui sau a oricărui membru ales al Consiliului Director de la trei ședințe consecutive atrage de la sine demiterea acestuia din Consiliul Director și completarea vacanțelor conform prevederilor de mai jos. De asemenea, depășirea repetată a termenelor stabilite în procesul decizional poate atrage de la sine demiterea unui membru din Consiliul Director, în condițiile prezentate în Regulament.
+	(7) Consiliul Director poate discuta și ia decizii în timpul ședințelor sau prin intermediul sistemelor informatice (email, aplicații internet).
+	(8) Deciziile se vor lua cu majoritatea simplă de voturi a persoanelor prezente şi votante cu drept de vot.
 
 Art. 30. Vacanțe de mandat
 	(1) În perioada dintre Adunările Generale sunt posibile cel mult trei înlocuiri în cadrul Consiliului Director, determinate de demisii, boală, deces sau sancțiune, folosindu-se candidații la Consiliul Director respinși la ultima Adunare Generală, în ordinea descrescătoare a voturilor obținute, modificări care vor fi supuse aprobării la prima Adunare Generală a ONCR.
