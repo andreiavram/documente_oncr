@@ -173,6 +173,7 @@ Art. 23.
 	(3) Adunarea Generală este legal constituită în prezența a 50%+1 din numărul total al delegaților Centrelor Locale. Dacă nu se întrunește cvorumul necesar, se va convoca o nouă Adunare Generală, în termen de 15 zile, ce se va desfășura indiferent de numărul delegaților participanți.
 	(4) Fiecare delegat al unui Centru Local dispune de un singur vot.
 	(5) În cadrul Adunării Generale, deciziile vor fi luate prin majoritate simplă (50%+1) din numărul voturilor delegaților cu drept de vot prezenți. Se exceptează cazurile expres prevăzute în Statutul ONCR.
+	(6) Adunarea Generală poate avea loc cu prezenţă fizică, online sau prin corespondenţă.
 
 Art. 24. Toate activitățile legate de pregătirea și desfășurarea Adunării Generale intră în atribuțiile Echipei Executive, care va acționa sub îndrumarea Consiliului Director.
 
